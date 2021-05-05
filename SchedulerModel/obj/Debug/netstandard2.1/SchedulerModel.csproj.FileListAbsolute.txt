@@ -1,0 +1,9 @@
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.1\SchedulerModel.deps.json
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.1\SchedulerModel.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.1\SchedulerModel.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.1\SchedulerModel.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.1\SchedulerModel.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.1\SchedulerModel.AssemblyInfo.cs
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.1\SchedulerModel.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.1\SchedulerModel.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.1\SchedulerModel.pdb

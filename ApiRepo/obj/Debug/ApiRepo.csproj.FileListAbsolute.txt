@@ -1,0 +1,98 @@
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\bin\Debug\ApiRepo.dll.config
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\bin\Debug\ApiRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\bin\Debug\ApiRepo.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\bin\Debug\SchedulerModel.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\bin\Debug\SchedulerModel.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\obj\Debug\ApiRepo.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\obj\Debug\ApiRepo.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\obj\Debug\ApiRepo.csproj.CopyComplete
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\obj\Debug\ApiRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\ApiRepo\obj\Debug\ApiRepo.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.dll.config
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\SchedulerModel.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\SchedulerModel.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csproj.CoreCompileInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.dll.config
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\SchedulerModel.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\SchedulerModel.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csproj.CopyComplete
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.pdb
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.dll.config
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.dll
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.pdb
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\Newtonsoft.Json.dll
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\SchedulerModel.dll
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\System.Net.Http.Formatting.dll
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\SchedulerModel.pdb
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\Newtonsoft.Json.xml
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\System.Net.Http.Formatting.xml
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csprojAssemblyReference.cache
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csproj.CoreCompileInputs.cache
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csproj.CopyComplete
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.dll
+E:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.pdb
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.dll.config
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.dll
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.pdb
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\Newtonsoft.Json.dll
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\SchedulerModel.dll
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\System.Net.Http.Formatting.dll
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\SchedulerModel.pdb
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\Newtonsoft.Json.xml
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\System.Net.Http.Formatting.xml
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csprojAssemblyReference.cache
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csproj.CoreCompileInputs.cache
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csproj.CopyComplete
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.dll
+G:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.pdb
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.dll.config
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.dll
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.pdb
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\Newtonsoft.Json.dll
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\SchedulerModel.dll
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\System.Net.Http.Formatting.dll
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\SchedulerModel.pdb
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\Newtonsoft.Json.xml
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\System.Net.Http.Formatting.xml
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csprojAssemblyReference.cache
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csproj.CoreCompileInputs.cache
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csproj.CopyComplete
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.dll
+D:\Capstone Project\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.dll.config
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\ApiRepo.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\SchedulerModel.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\SchedulerModel.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.csproj.CopyComplete
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ApiRepo\obj\Debug\ApiRepo.pdb

@@ -1,0 +1,1375 @@
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE:  1 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+ACCT 101C  1   14233 Accounting I                     3.00 N 51  5D  09:00am 10:20am TR      SWEENY 212  25 1  24    0   Hedge,L 
+ACCT 101C  2   14234 Accounting I                     3.00 N 51  5D  10:30am 11:50am TR      SWEENY 212  25 9  16    0   Hedge,L 
+ACCT 101C  3   14236 Accounting I                     3.00 N 51  5D  09:00am 10:20am MW      SWEENY 211  25 7  18    0   Morgan,L 
+ACCT 101C  4   14237 Accounting I                     3.00 N 51  5D  10:30am 11:50am MW      SWEENY 211  25 8  17    0   Morgan,L 
+ACCT 101C  FZZ 16310 Accounting I                     3.00 N 52  5O                          ONLINE      20 9  11    0   Morgan,L 
+ACCT 101C  T   15492 Accounting I                     3.00 N 51  5E  05:30pm 08:00pm T       SWEENY 212  25 3  22    0   Staff,D 
+ACCT 102C  1   14239 Accounting II                    3.00 N 51  5D  10:30am 11:50am TR      SWEENY 211  24 17 7     0   Morgan,L 
+ACCT 102C  LZZ 15891 Accounting II                    3.00 N 53O 5O                          ONLINE      20 10 10    0   Morgan,L 
+ACCT 102C  M   15493 Accounting II                    3.00 N 51  5E  05:30pm 08:00pm M       SWEENY 212  25 7  18    0   Staff,D 
+ACCT 110C  W   15494 Managerial Accounting            3.00 N 51  5E  06:00pm 08:40pm W       SWEENY 212  25 12 13    0   Staff,D 
+ACCT 110C  ZZ  15892 Managerial Accounting            3.00 N 5ZZ 5O                          ONLINE      20 9  11    0   Hedge,L 
+ACCT 205C  1   14238 Intermediate Accounting I        4.00 N 51  5D  08:00am 09:50am TR      SWEENY 211  22 8  14    0   Morgan,L 
+ACCT 205C  W   14555 Intermediate Accounting I        4.00 N 51  5E  05:30pm 09:05pm W       SWEENY 211  25 5  20    0   Shurbert,J 
+ACCT 205C  ZZ  15882 Intermediate Accounting I        4.00 N 5ZZ 5O                          ONLINE      20 3  17    0   Morgan,L 
+ACCT 250C  1   14232 Cost Accounting                  3.00 N 51  5D  10:30am 11:50am MW      SWEENY 212  20 8  12    0   Hedge,L 
+ACCT 250C  M   15495 Cost Accounting                  3.00 N 51  5E  05:30pm 08:00pm M       SWEENY 211  25 4  21    0   Staff,D 
+ACCT 250C  ZZ  15893 Cost Accounting                  3.00 N 5ZZ 5O                          ONLINE      20 0  20    0   Hedge,L 
+ADCL 120C  1   14742 Survey of Addic & Behav Treat    3.00 N 52  5D  02:00pm 04:50pm R       SWEENY 309  25 10 15    0   Staff1,H 
+ADCL 120C  LHY 14741 Survey of Addic & Behav Treat    3.00 N 53  5D  02:00pm 04:50pm W       SWEENY 309  25 2  23    0   Reardon,K 
+ADCL 120C  R   15710 Survey of Addic & Behav Treat    3.00 N 51  5E  05:30pm 08:00pm R       SWEENY 307  25 3  22    0   Staff,D 
+ADCL 205C  LHY 13977 Fund of Dependency Couns Skill   3.00 N 53  5D  02:00pm 04:50pm M       SWEENY 309  20 6  14    0   Reardon,K 
+ADCL 215C  1   14077 Intern: Orient to Addict Behav   4.00 N 51  5D  01:00pm 02:50pm M       SWEENY 212  8  0  8     0   O'Bryant,M 
+ADCL 296C  1   14075 Addiction Practicum I            4.00 N 51  5D  01:00pm 02:50pm M       SWEENY 212  15 14 1     0   O'Bryant,M 
+ADCL 297C  1   14076 Addiction Practicum II           4.00 N 51  5D  01:00pm 02:50pm M       SWEENY 212  8  0  8     0   O'Bryant,M 
+ADED 100C  1   14260 Dental Hygiene I                 2.00 N 51  5D  08:00am 09:50am M       MACRUR 140  48 0  48    0   Ray,M 
+ADED 105C  1   14275 Dental Radiology for DA          3.00 N 51  5D  10:00am 11:50am M       MACRUR 212  30 0  30    0   Staff1,D 
+ADED 105C  1A  14627 Dental Radiology for DA           .00 N 51  5D  09:00am 11:50am R       MACRUR 128  10 0  10    0   Albrecht,D 
+ADED 105C  1B  14629 Dental Radiology for DA           .00 N 51  5D  01:00pm 03:50pm R       MACRUR 128  10 0  10    0   Albrecht,D 
+ADED 105C  1C  14630 Dental Radiology for DA           .00 N 51  5D  05:00pm 07:50pm R       MACRUR 128  10 0  10    0   Adams,L 
+ADED 110C  1   14616 Dental Assisting Science I       3.00 N 51  5D  01:00pm 01:50pm M       GRAPPN 301  30 0  30    0   Brock,C 
+ADED 110C  1   14616 Dental Assisting Science I       3.00 N 51  5D  10:00am 11:50am W       GRAPPN 301  30 0  30    0   Brock,C 
+ADED 113C  1   14261 Clinical Dental Hygiene I        3.00 N 51  5D  10:00am 10:50am M       MACRUR 140  24 0  24    0   Ray,M 
+ADED 113C  2   14262 Clinical Dental Hygiene I        3.00 N 51  5D  11:00am 11:50am M       MACRUR 140  24 0  24    0   Ray,M 
+ADED 113C  CL1 14631 Clinical Dental Hygiene I         .00 N 51  5D  08:00am 11:50am T       MACRUR 139  22 0  22    0   Ray,M 
+ADED 113C  CL1 14631 Clinical Dental Hygiene I         .00 N 51  5D  12:30pm 04:20pm R       MACRUR 139  22 0  22    0   Ray,M 
+ADED 113C  CL2 14632 Clinical Dental Hygiene I         .00 N 51  5D  08:00am 11:50am R       MACRUR 139  22 0  22    0   Ray,M 
+ADED 113C  CL2 14632 Clinical Dental Hygiene I         .00 N 51  5D  12:30pm 04:20pm T       MACRUR 139  22 0  22    0   Ray,M 
+ADED 126C  1   14617 Nutrition                        2.00 N 51  5D  08:00am 09:50am R       GRAPPN 301  30 0  30    0   Mercer,K 
+ADED 134C  1   14914 Oral Anatomy I                   2.00 N 51  5D  09:00am 10:50am W       MACRUR 138  44 0  44    0   Wynn,K 
+ADED 134C  1A  14789 Oral Anatomy I                    .00 N 51  5D  11:00am 11:50am R       MACRUR 140  20 0  20    0   Wynn,K 
+ADED 134C  1B  14790 Oral Anatomy I                    .00 N 51  5D  01:00pm 01:50pm R       MACRUR 140  20 0  20    0   Wynn,K 
+ADED 161C  1   14269 Dental Materials -DA             3.00 N 51  5D  08:00am 09:50am M       MACRUR 212  30 0  30    0   Staff1,D 
+ADED 161C  1A  14889 Dental Materials -DA              .00 N 51  5D  09:00am 11:50am R       MACRUR 123  10 0  10    0   Noonan,L 
+ADED 161C  1B  14917 Dental Materials -DA              .00 N 51  5D  01:00pm 03:50pm T       MACRUR 123  10 0  10    0   Scott,L 
+ADED 161C  1C  14920 Dental Materials -DA              .00 N 51  5D  05:00pm 07:50pm R       MACRUR 123  10 0  10    0   George,C 
+ADED 175C  1   14921 Dental Assisting Theory I        2.00 N 51  5D  08:00am 09:50am W       GRAPPN 301  30 0  30    0   Scott,L 
+ADED 191C  CL1 14907 Dental Assistng Clinical Exp I   1.00 N 51  5D  08:00am 11:50am T       MACRUR 124  10 0  10    0   Noonan,L 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE:  2 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+ADED 191C  CL2 14911 Dental Assistng Clinical Exp I   1.00 N 51  5D  01:00pm 04:50pm T       MACRUR 124  10 0  10    0   Noonan,L 
+ADED 191C  CL3 14913 Dental Assistng Clinical Exp I   1.00 N 51  5D  08:00am 11:50am F       MACRUR 124  10 0  10    0   Brock,C 
+ADED 212C  1   14619 Clinical Dental Hygiene III      4.00 N 51  5D  01:00pm 01:50pm R       GRAPPN 301  40 35 5     0   Magee,K 
+ADED 212C  CL1 14624 Clinical Dental Hygiene III       .00 N 51  5D  01:00pm 04:50pm M       MACRUR 139  20 16 4     0   Magee,K 
+ADED 212C  CL1 14624 Clinical Dental Hygiene III       .00 N 51  5D  08:00am 11:50am W       MACRUR 139  20 16 4     0   Magee,K 
+ADED 212C  CL2 14622 Clinical Dental Hygiene III       .00 N 51  5D  01:00pm 04:50pm W       MACRUR 139  20 19 1     0   Magee,K 
+ADED 212C  CL2 14622 Clinical Dental Hygiene III       .00 N 51  5D  08:00am 11:50am F       MACRUR 139  20 19 1     0   Magee,K 
+ADED 225C  CL1 14923 Dental Hygiene Comm. Clinic      1.00 N 51  5D  08:00am 02:50pm M       OFFCMP      20 19 1     0   George,C 
+ADED 225C  CL2 14926 Dental Hygiene Comm. Clinic      1.00 N 51  5D  08:00am 02:50pm F       OFFCMP      20 16 4     0   George,C 
+ADED 242C  1   14916 Community Dental Health I        2.00 N 51  5D  08:00am 09:50am T       MACRUR 138  40 35 5     0   George,C 
+ADED 247C  1   14618 DH Science - Pharmacology        2.00 N 51  5D  10:00am 11:50am R       GRAPPN 301  40 35 5     0   Leo Flagg,R 
+ADED 248C  1   14944 DH Science - Oral Pathology      2.00 N 51  5D  10:00am 11:50am T       MACRUR 138  40 35 5     0   Girald,J 
+AGGP 101C  1   13707 Intro Game Design & Creation     3.00 N 51  5D  11:00am 12:50pm M       LITTLE 214  30 1  29    0   Dellafeli,R 
+AGGP 101C  1A  13709 Intro Game Design & Creation      .00 N 51  5D  09:00am 11:50am T       LITTLE 230  15 1  14    0   Dellafeli,R 
+AGGP 101C  1B  13710 Intro Game Design & Creation      .00 N 51  5D  10:00am 12:50pm W       LITTLE 230  15 0  15    0   Dellafeli,R 
+AGGP 101C  W   16095 Intro Game Design & Creation     3.00 N 51  5E  06:00pm 07:40pm W       LITTLE 231  15 0  15    0   Staff,D 
+AGGP 101C  WL  16097 Intro Game Design & Creation      .00 N 51  5E  07:41pm 09:40pm W       LITTLE 231  15 0  15    0   Staff,D 
+AGGP 103C  1   13589 Intro to Content Development     3.00 N 51  5D  03:00pm 04:50pm T       GRAPPN 301  30 1  29    0   Walek,G 
+AGGP 103C  1A  13941 Intro to Content Development      .00 N 51  5D  11:00am 12:50pm W       LITTLE 231  15 1  14    0   Walek,G 
+AGGP 103C  1B  13942 Intro to Content Development      .00 N 51  5D  10:00am 11:50am R       LITTLE 231  15 0  15    0   Walek,G 
+AGGP 103C  M   16259 Intro to Content Development     3.00 N 51  5E  06:00pm 07:40pm M       LITTLE 231  14 2  12    0   Frazier,R 
+AGGP 103C  ML  16077 Intro to Content Development      .00 N 51  5E  07:41pm 09:20pm M       LITTLE 231  14 2  12    0   Frazier,R 
+AGGP 225C  1   13943 3D Game Engine Application Dev   3.00 N 51  5D  02:00pm 03:50pm M       LITTLE 231  15 6  9     0   Walek,G 
+AGGP 225C  1A  13944 3D Game Engine Application Dev    .00 N 51  5D  02:00pm 03:50pm W       LITTLE 231  15 6  9     0   Walek,G 
+AGGP 255C  1   13945 App Dev&Software Prototyping     3.00 N 51  5D  10:00am 11:50am M       LITTLE 231  15 7  8     0   Walek,G 
+AGGP 255C  1A  13946 App Dev&Software Prototyping      .00 N 51  5D  09:00am 11:50am F       LITTLE 231  15 7  8     0   Walek,G 
+AGGP 291C  T   16101 Project Def & Portfolio Specif   2.00 N 51  5E  06:00pm 06:50pm T       LITTLE 231  15 7  8     0   Walek,G 
+AGGP 291C  TL  16102 Project Def & Portfolio Specif    .00 N 51  5E  06:51pm 09:20pm T       LITTLE 231  15 7  8     0   Walek,G 
+ANTH 101C  1   14569 Intro to Cultural Anthroplogy    3.00 N 51  5D  02:00pm 04:50pm M       MACRUR 101  25 9  16    0   Eaton-Whi,V 
+ANTH 101C  T   15517 Intro to Cultural Anthroplogy    3.00 N 51  5E  05:30pm 08:00pm T                   25 1  24    0   Folan,M 
+ANTH 101C  ZZ  16143 Intro to Cultural Anthroplogy    3.00 N 5ZZ 5O                          ONLINE      20 5  15    0   Allison-E,S 
+ANTH 210C  ZZ  16140 Native American Studies I        3.00 N 5ZZ 5O                          ONLINE      20 3  17    0   Winkelman,K 
+ARET 101C  M   15503 AutoCAD 2D                       3.00 N 51  5E  05:30pm 08:00pm M       LITTLE 204  15 6  9     0   Khan,L 
+ARET 103C  1   14458 Arch Graphics & Sketching        3.00 N 51  5D  11:00am 11:50am M       LITTLE 224  15 2  13    0   Khan,L 
+ARET 103C  1   14458 Arch Graphics & Sketching        3.00 N 51  5D  02:00pm 02:50pm T       LITTLE 204  15 2  13    0   Khan,L 
+ARET 103C  1A  14510 Arch Graphics & Sketching         .00 N 51  5D  03:00pm 04:50pm T       LITTLE 204  15 2  13    0   Khan,L 
+ARET 103C  2   14459 Arch Graphics & Sketching        3.00 N 51  5D  11:00am 11:50am M       LITTLE 224  15 0  15    0   Khan,L 
+ARET 103C  2   14459 Arch Graphics & Sketching        3.00 N 51  5D  01:00pm 01:50pm R       LITTLE 204  15 0  15    0   Khan,L 
+ARET 103C  2A  14513 Arch Graphics & Sketching         .00 N 51  5D  02:00pm 03:50pm R       LITTLE 204  15 0  15    0   Khan,L 
+ARET 103C  W   15504 Arch Graphics & Sketching        3.00 N 51  5E  06:00pm 07:40pm W       LITTLE 204  15 1  14    0   Schacht,K 
+ARET 103C  WL  15505 Arch Graphics & Sketching         .00 N 51  5E  07:41pm 09:35pm W       LITTLE 204  15 1  14    0   Schacht,K 
+ARET 104C  R   15508 Architectural Design Studio I    3.00 N 51  5E  05:30pm 07:10pm R       LITTLE 204  15 2  13    0   Khan,L 
+ARET 104C  RL  15509 Architectural Design Studio I     .00 N 51  5E  07:11pm 08:50pm R       LITTLE 204  15 2  13    0   Khan,L 
+ARET 120C  1   14498 Mtrls & Mthds of Construction    4.00 N 51  5D  10:00am 11:50am TR      LITTLE 214  24 4  20    0   Carter,V 
+ARET 120C  W   15506 Mtrls & Mthds of Construction    4.00 N 51  5E  06:00pm 09:35pm W       LITTLE 214  20 2  18    0   Hickey,W 
+ARET 192C  W   15507 Revit Architecture               3.00 N 51  5E  06:00pm 08:40pm W       LITTLE 111  20 1  19    0   Hanson,J 
+ARET 202C  1   14511 Architectural Design Studio II   3.00 N 51  5D  09:00am 10:50am W       LITTLE 204  15 10 5     0   Khan,L 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE:  3 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+ARET 202C  1A  14512 Architectural Design Studio II    .00 N 51  5D  11:00am 12:50pm W       LITTLE 204  15 10 5     0   Khan,L 
+ASL 104C   R   15900 American Sign Lang for Beg       3.00 N 51  5E  05:30pm 08:00pm R       SWEENY 210  20 8  12    0   Clanton,H 
+ASL 104C   S   15903 American Sign Lang for Beg       3.00 N 5S  5E  09:00am 11:40am S       SWEENY 210  20 0  20    0   Clanton,H 
+ASL 104C   T   15905 American Sign Lang for Beg       3.00 N 51  5E  05:30pm 08:00pm T       SWEENY 210  20 12 8     0   Clanton,H 
+BIOL 100C  1   14268 Intro to Biology with Lab**      4.00 N 51  5D  10:00am 11:50am T       MACRUR 217  32 11 21    0   Palm,J 
+BIOL 100C  1   14268 Intro to Biology with Lab**      4.00 N 51  5D  11:00am 11:50am R       MACRUR 217  32 11 21    0   Palm,J 
+BIOL 100C  1A  14310 Intro to Biology with Lab**       .00 N 51  5D  09:00am 10:50am R       MACRUR 206  16 8  8     0   Palm,J 
+BIOL 100C  1B  14311 Intro to Biology with Lab**       .00 N 51  5D  01:00pm 02:50pm R       MACRUR 206  16 3  13    0   Palm,J 
+BIOL 100C  2   14110 Intro to Biology with Lab**      4.00 N 51  5D  02:00pm 03:50pm W       MACRUR 138  16 3  13    0   Cases,M 
+BIOL 100C  2   14110 Intro to Biology with Lab**      4.00 N 51  5D  02:00pm 02:50pm M       MACRUR 138  16 3  13    0   Cases,M 
+BIOL 100C  2A  14111 Intro to Biology with Lab**       .00 N 51  5D  03:00pm 04:50pm M       MACRUR 206  16 3  13    0   Cases,M 
+BIOL 100C  R   16004 Intro to Biology with Lab**      4.00 N 51  5E  05:30pm 08:00pm R       LITTLE 131  16 3  13    0   Lamos,S 
+BIOL 100C  RL  16010 Intro to Biology with Lab**       .00 N 51  5E  08:01pm 10:00pm R       LITTLE 131  16 3  13    0   Lamos,S 
+BIOL 111C  1   14266 General Biology I                4.00 N 51  5D  08:30am 09:50am M       MACRUR 217  32 15 17    0   Strong,N 
+BIOL 111C  1   14266 General Biology I                4.00 N 51  5D  10:00am 11:20am W       MACRUR 217  32 15 17    0   Strong,N 
+BIOL 111C  1A  14306 General Biology I                 .00 N 51  5D  10:00am 11:50am M       MACRUR 206  16 8  8     0   Strong,N 
+BIOL 111C  1B  14307 General Biology I                 .00 N 51  5D  11:30am 01:20pm W       MACRUR 206  16 7  9     0   Strong,N 
+BIOL 112C  T   16013 General Biology II               4.00 N 51  5E  05:30pm 08:00pm T       MACRUR 212  16 2  14    0   Bergethon,S 
+BIOL 112C  TL  16016 General Biology II                .00 N 51  5E  08:01pm 10:00pm T       MACRUR 206  16 2  14    0   Bergethon,S 
+BIOL 115C  1   14303 Introduction to Ecology          4.00 N 51  5D  01:00pm 01:50pm W       MACRUR 140  16 4  12    0   Palm,J 
+BIOL 115C  1   14303 Introduction to Ecology          4.00 N 51  5D  09:00am 10:50am F       MACRUR 138  16 4  12    0   Palm,J 
+BIOL 115C  1A  14309 Introduction to Ecology           .00 N 51  5D  02:00pm 03:50pm W       MACRUR 206  16 4  12    0   Palm,J 
+BIOL 117C  1   14284 Intro to Plant Biology           4.00 N 51  5D  09:00am 09:50am T       FARNUM 109  16 8  8     0   Whytemare,A 
+BIOL 117C  1   14284 Intro to Plant Biology           4.00 N 51  5D  09:00am 10:50am R       MACRUR 140  16 8  8     0   Whytemare,A 
+BIOL 117C  1A  14308 Intro to Plant Biology            .00 N 51  5D  10:00am 11:50am T       MACRUR 206  16 8  8     0   Whytemare,A 
+BIOL 120C  1   14098 Human Biology                    4.00 N 51  5D  02:00pm 03:20pm T       MACRUR 138  32 24 8   Y 0   Gilman,M 
+BIOL 120C  1   14098 Human Biology                    4.00 N 51  5D  01:30pm 02:50pm R       MACRUR 138  32 24 8   Y 0   Gilman,M 
+BIOL 120C  1A  14105 Human Biology                     .00 N 51  5D  03:30pm 05:50pm T       MACRUR 206  16 8  8   Y 0   Gilman,M 
+BIOL 120C  1B  14106 Human Biology                     .00 N 51  5D  03:00pm 04:50pm R       MACRUR 206  16 16 0     0   Gilman,M 
+BIOL 120C  2   14264 Human Biology                    4.00 N 51  5D  08:00am 09:20am WF      MACRUR 140  32 8  24    0   Pearlman,S 
+BIOL 120C  2A  14312 Human Biology                     .00 N 51  5D  09:30am 11:20am W       MACRUR 206  16 8  8     0   Pearlman,S 
+BIOL 120C  2B  14313 Human Biology                     .00 N 51  5D  09:30am 11:20am F       MACRUR 206  16 0  16    0   Pearlman,S 
+BIOL 120C  M   16017 Human Biology                    4.00 N 51  5E  05:30pm 08:00pm M       MACRUR 212  16 2  14    0   Llewelyn,M 
+BIOL 120C  ML  16018 Human Biology                     .00 N 51  5E  08:01pm 10:00pm M       MACRUR 206  16 2  14    0   Llewelyn,M 
+BIOL 120C  R   16019 Human Biology                    4.00 N 51  5E  05:30pm 08:00pm R       MACRUR 212  16 4  12    0   Gilman,M 
+BIOL 120C  RL  16020 Human Biology                     .00 N 51  5E  08:01pm 10:00pm R       MACRUR 206  16 4  12    0   Gilman,M 
+BIOL 120C  ZZ  15995 Human Biology                    4.00 N 5ZZ 5O                          ONLINE      16 9  7     0   Staff,D 
+BIOL 120C  ZZL 16183 Human Biology                     .00 N 5ZZ 5O                          ONLINE      16 9  7     0   Staff,D 
+BIOL 122C  FZZ 15994 Basic Pathophysiology            3.00 N 52  5O                          ONLINE      16 1  15    0   Eggers,J 
+BIOL 122C  LZZ 15996 Basic Pathophysiology            3.00 N 53O 5O                          ONLINE      16 0  16    0   Liptak,A 
+BIOL 123C  FZZ 15997 Biology of Human Reproduction    3.00 N 52  5O                          ONLINE      16 0  16    0   Flint,A 
+BIOL 123C  LZZ 15998 Biology of Human Reproduction    3.00 N 53O 5O                          ONLINE      16 0  16    0   Flint,A 
+BIOL 125C  FZL 16184 Human Genetics & Society          .00 N 52  5O                          ONLINE      16 1  15    0   Wilkes,B 
+BIOL 125C  FZZ 15999 Human Genetics & Society         4.00 N 52  5O                          ONLINE      16 1  15    0   Wilkes,B 
+BIOL 159C  1   14300 Personal Nutrition               4.00 N 51  5D  01:30pm 02:50pm MW      MACRUR 212  32 21 11    0   Meservey,C 
+BIOL 159C  1A  14304 Personal Nutrition                .00 N 51  5D  03:00pm 04:50pm M       MACRUR 212  16 14 2     0   Meservey,C 
+BIOL 159C  1B  14305 Personal Nutrition                .00 N 51  5D  03:00pm 04:50pm W       MACRUR 212  16 5  11    0   Meservey,C 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE:  4 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+BIOL 159C  2   14095 Personal Nutrition               4.00 N 51  5D  11:00am 12:20pm WF      LITTLE 224  32 16 16    0   Staff1,B 
+BIOL 159C  2A  14096 Personal Nutrition                .00 N 51  5D  12:30pm 02:20pm W       LITTLE 131  16 11 5     0   Staff1,B 
+BIOL 159C  2B  14097 Personal Nutrition                .00 N 51  5D  12:30pm 02:20pm F       LITTLE 224  16 5  11    0   Staff1,B 
+BIOL 159C  FZL 16186 Personal Nutrition                .00 N 52  5O                          ONLINE      16 6  10    0   Meservey,C 
+BIOL 159C  FZZ 16000 Personal Nutrition               4.00 N 52  5O                          ONLINE      16 6  10    0   Meservey,C 
+BIOL 159C  LZL 16185 Personal Nutrition                .00 N 53O 5O                          ONLINE      16 1  15    0   Meservey,C 
+BIOL 159C  LZZ 16001 Personal Nutrition               4.00 N 53O 5O                          ONLINE      16 1  15    0   Meservey,C 
+BIOL 159C  W   16021 Personal Nutrition               4.00 N 51  5E  05:30pm 08:00pm W       MACRUR 212  16 3  13    0   Pearlman,S 
+BIOL 159C  WL  16022 Personal Nutrition                .00 N 51  5E  08:01pm 10:00pm W       MACRUR 212  16 3  13    0   Pearlman,S 
+BIOL 195C  1   13582 Anatomy and Physiology I         4.00 N 51  5D  12:00pm 02:50pm W       MACRUR 217  32 8  24  Y 0   Liptak,A 
+BIOL 195C  1A  13583 Anatomy and Physiology I          .00 N 51  5D  03:00pm 04:50pm W       MACRUR 200  16 6  10  Y 0   Eggers,J 
+BIOL 195C  1B  13584 Anatomy and Physiology I          .00 N 51  5D  09:00am 10:50am W       MACRUR 200  16 2  14    0   Eggers,J 
+BIOL 195C  2   14102 Anatomy and Physiology I         4.00 N 51  5D  10:00am 10:50am F       MACRUR 217  32 7  25    0   Strong,N 
+BIOL 195C  2   14102 Anatomy and Physiology I         4.00 N 51  5D  02:00pm 03:50pm T       MACRUR 217  32 7  25    0   Strong,N 
+BIOL 195C  2A  14103 Anatomy and Physiology I          .00 N 51  5D  02:00pm 03:50pm R       MACRUR 200  16 0  16    0   Strong,N 
+BIOL 195C  2B  14104 Anatomy and Physiology I          .00 N 51  5D  11:00am 12:50pm F       MACRUR 200  16 7  9     0   Strong,N 
+BIOL 195C  3   14299 Anatomy and Physiology I         4.00 N 51  5D  08:30am 09:50am MR      MACRUR 138  32 17 15    0   Meservey,C 
+BIOL 195C  3A  14316 Anatomy and Physiology I          .00 N 51  5D  10:00am 11:50am M       MACRUR 200  16 15 1     0   Meservey,C 
+BIOL 195C  3B  14317 Anatomy and Physiology I          .00 N 51  5D  11:00am 12:50pm W       MACRUR 200  16 2  14    0   Meservey,C 
+BIOL 195C  4   14301 Anatomy and Physiology I         4.00 N 51  5D  10:00am 11:20am T       MACRUR 212  32 7  25    0   Llewelyn,M 
+BIOL 195C  4   14301 Anatomy and Physiology I         4.00 N 51  5D  10:00am 11:20am R       MACRUR 138  32 7  25    0   Llewelyn,M 
+BIOL 195C  4A  14318 Anatomy and Physiology I          .00 N 51  5D  08:00am 09:50am T       MACRUR 200  16 2  14    0   Llewelyn,M 
+BIOL 195C  4B  14319 Anatomy and Physiology I          .00 N 51  5D  08:00am 09:50am R       MACRUR 200  16 5  11    0   Llewelyn,M 
+BIOL 195C  5   14113 Anatomy and Physiology I         4.00 N 51  5D  02:00pm 03:50pm W       MACRUR 140  32 5  27    0   Anzalone,R 
+BIOL 195C  5   14113 Anatomy and Physiology I         4.00 N 51  5D  01:00pm 01:50pm M       MACRUR 140  32 5  27    0   Anzalone,R 
+BIOL 195C  5A  14114 Anatomy and Physiology I          .00 N 51  5D  02:00pm 03:50pm M       MACRUR 200  16 4  12    0   Anzalone,R 
+BIOL 195C  5B  14115 Anatomy and Physiology I          .00 N 51  5D  02:00pm 03:50pm T       MACRUR 200  16 1  15    0   Anzalone,R 
+BIOL 195C  6   14265 Anatomy and Physiology I         4.00 N 51  5D  11:00am 12:50pm W       MACRUR 140  16 0  16    0   Staff1,B 
+BIOL 195C  6   14265 Anatomy and Physiology I         4.00 N 51  5D  01:00pm 01:50pm F       MACRUR 140  16 0  16    0   Staff1,B 
+BIOL 195C  6A  14866 Anatomy and Physiology I          .00 N 51  5D  02:00pm 03:50pm F       MACRUR 200  16 0  16    0   Staff1,B 
+BIOL 195C  M   16023 Anatomy and Physiology I         4.00 N 51  5E  06:00pm 08:30pm M       MACRUR 138  32 10 22    1   Johnson,K 
+BIOL 195C  ME  16024 Anatomy and Physiology I          .00 N 51  5E  04:00pm 05:59pm M       MACRUR 200  16 6  10    1   Johnson,K 
+BIOL 195C  ML  16025 Anatomy and Physiology I          .00 N 51  5E  08:31pm 10:30pm M       MACRUR 200  16 4  12    0   Johnson,K 
+BIOL 195C  W   16026 Anatomy and Physiology I         4.00 N 51  5E  06:00pm 08:30pm W       MACRUR 138  32 6  26    0   Strong,N 
+BIOL 195C  WE  16027 Anatomy and Physiology I          .00 N 51  5E  04:00pm 05:59pm W       MACRUR 206  16 2  14    0   Strong,N 
+BIOL 195C  WL  16028 Anatomy and Physiology I          .00 N 51  5E  08:31pm 10:30pm W       MACRUR 206  16 4  12    0   Strong,N 
+BIOL 196C  1   14267 Anatomy and Physiology II        4.00 N 51  5D  09:00am 09:50am T       MACRUR 217  32 9  23    0   Liptak,A 
+BIOL 196C  1   14267 Anatomy and Physiology II        4.00 N 51  5D  09:00am 10:50am R       MACRUR 217  32 9  23    0   Liptak,A 
+BIOL 196C  1A  14320 Anatomy and Physiology II         .00 N 51  5D  10:00am 11:50am T       MACRUR 200  16 9  7     0   Liptak,A 
+BIOL 196C  1B  15231 Anatomy and Physiology II         .00 N 51  5D  12:00pm 01:50pm R       MACRUR 200  16 0  16    0   Liptak,A 
+BIOL 196C  2   14263 Anatomy and Physiology II        4.00 N 51  5D  08:30am 09:50am TR      MACRUR 212  32 27 5     1   Wilkes,B 
+BIOL 196C  2A  14869 Anatomy and Physiology II         .00 N 51  5D  10:00am 11:50am R       MACRUR 200  16 16 0     3   Wilkes,B 
+BIOL 196C  2B  14871 Anatomy and Physiology II         .00 N 51  5D  09:00am 10:50am F       MACRUR 200  16 11 5     0   Wilkes,B 
+BIOL 196C  3   14298 Anatomy and Physiology II        4.00 N 51  5D  10:30am 11:50am M       MACRUR 138  32 11 21    0   Eggers,J 
+BIOL 196C  3   14298 Anatomy and Physiology II        4.00 N 51  5D  11:00am 12:20pm W       MACRUR 138  32 11 21    0   Eggers,J 
+BIOL 196C  3A  14315 Anatomy and Physiology II         .00 N 51  5D  12:00pm 01:50pm M       MACRUR 200  16 8  8     0   Eggers,J 
+BIOL 196C  3B  14839 Anatomy and Physiology II         .00 N 51  5D  01:00pm 02:50pm W       MACRUR 200  16 3  13    0   Eggers,J 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE:  5 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+BIOL 196C  R   16032 Anatomy and Physiology II        4.00 N 51  5E  06:00pm 08:30pm R       MACRUR 138  16 12 4     0   Eggers,J 
+BIOL 196C  RL  16033 Anatomy and Physiology II         .00 N 51  5E  04:00pm 05:59pm R       MACRUR 200  16 12 4     0   Eggers,J 
+BIOL 196C  T   16029 Anatomy and Physiology II        4.00 N 51  5E  06:00pm 08:30pm T       MACRUR 138  32 24 8     0   Anzalone,R 
+BIOL 196C  TE  16030 Anatomy and Physiology II         .00 N 51  5E  04:00pm 05:59pm T       MACRUR 200  16 15 1     0   Anzalone,R 
+BIOL 196C  TL  16031 Anatomy and Physiology II         .00 N 51  5E  08:31pm 10:30pm T       MACRUR 200  16 9  7     0   Anzalone,R 
+BIOL 202C  1   14107 Microbiology                     4.00 N 51  5D  12:30pm 01:50pm MW      MACRUR 138  32 22 10    0   Wilkes,B 
+BIOL 202C  1A  14108 Microbiology                      .00 N 51  5D  11:00am 12:20pm MW      MACRUR 210  16 16 0     0   Wilkes,B 
+BIOL 202C  1B  14109 Microbiology                      .00 N 51  5D  02:00pm 03:20pm MW      MACRUR 210  16 6  10    0   Wilkes,B 
+BIOL 202C  MW  16034 Microbiology                     4.00 N 51  5E  05:30pm 07:00pm MW      MACRUR 217  16 8  8     0   Tullo,D 
+BIOL 202C  MWL 16035 Microbiology                      .00 N 51  5E  07:01pm 08:30pm MW      MACRUR 210  16 8  8     0   Tullo,D 
+BIOL 212C  1   14409 Ecology                          4.00 N 51  5D  09:30am 10:50am W       MACRUR 140  16 6  10    0   Palm,J 
+BIOL 212C  1   14409 Ecology                          4.00 N 51  5D  11:30am 12:50pm F       MACRUR 140  16 6  10    0   Palm,J 
+BIOL 212C  1A  14314 Ecology                           .00 N 51  5D  01:00pm 02:50pm F       MACRUR 206  16 6  10    0   Palm,J 
+BIOL 222C  ZZ  16002 Pathophysiology                  3.00 N 5ZZ 5O                          ONLINE      20 9  11    0   Liptak,A 
+BIOL 229C  1   14112 Nutrition in Exercise & Sports   3.00 N 51  5D  02:00pm 03:20pm TR      MACRUR 140  24 5  19    0   Meservey,C 
+BUS 101C   1   14152 Introduction to Business         3.00 N 51  5D  09:00am 10:20am TR      SWEENY 311  25 7  18    0   King,F 
+BUS 101C   2   14153 Introduction to Business         3.00 N 51  5D  10:30am 11:50am TR      SWEENY 311  25 0  25    0   King,F 
+BUS 101C   3   14150 Introduction to Business         3.00 N 51  5D  09:00am 10:20am MW      SWEENY 311  25 4  21    0   King,F 
+BUS 101C   FZZ 15983 Introduction to Business         3.00 N 52  5O                          ONLINE      20 6  14    0   Chisholm,K 
+BUS 101C   LZZ 15984 Introduction to Business         3.00 N 53O 5O                          ONLINE      20 4  16    0   Chisholm,K 
+BUS 101C   W   15696 Introduction to Business         3.00 N 51  5E  05:30pm 08:10pm W                   25 1  24    0   King,F 
+BUS 152C   1   14151 Foundations of Leadership        3.00 N 51  5D  10:30am 11:50am MW      SWEENY 311  25 7  18    0   Staff1,B 
+BUS 152C   FZZ 16379 Foundations of Leadership        3.00 N 52  5O                          ONLINE      20 3  17    0   Lloyd,C 
+BUS 152C   LZZ 15985 Foundations of Leadership        3.00 N 53O 5O                          ONLINE      20 2  18    0   Lloyd,C 
+BUS 152C   T   15697 Foundations of Leadership        3.00 N 51  5E  05:30pm 08:00pm T                   25 7  18    0   Lloyd,C 
+BUS 170C   1   14414 Principles of Marketing          3.00 N 51  5D  09:00am 10:20am MW      MACRUR 101  25 13 12    0   Gula,J 
+BUS 170C   2   14415 Principles of Marketing          3.00 N 51  5D  10:30am 11:50am MW      MACRUR 101  25 8  17    0   Gula,J 
+BUS 170C   FZZ 15986 Principles of Marketing          3.00 N 52  5O                          ONLINE      20 8  12    0   Gula,J 
+BUS 170C   T   15698 Principles of Marketing          3.00 N 51  5E  05:30pm 08:00pm T                   25 2  23    0   Pelletier,D 
+BUS 174C   1   13970 Principles of Sales              3.00 N 51  5D  01:00pm 03:50pm W       SWEENY 307  25 13 12    0   Staff1,B 
+BUS 180C   FZZ 15987 Principles of Retailing          3.00 N 52  5O                          ONLINE      20 4  16    0   King,M 
+BUS 225C   1   14416 Business Law I                   3.00 N 51  5D  09:00am 10:20am TR      MACRUR 101  25 11 14    0   Gula,J 
+BUS 225C   2   14417 Business Law I                   3.00 N 51  5D  10:30am 11:50am TR      MACRUR 101  25 8  17    0   Gula,J 
+BUS 225C   3   14418 Business Law I                   3.00 N 51  5D  01:00pm 03:50pm W       MACRUR 101  25 6  19    0   Gula,J 
+BUS 225C   LZZ 15988 Business Law I                   3.00 N 53O 5O                          ONLINE      20 13 7     0   Gula,J 
+BUS 225C   M   15700 Business Law I                   3.00 N 51  5E  05:30pm 08:00pm M                   25 6  19    0   Gula,J 
+BUS 245C   LZZ 15989 Organizational Behavior          3.00 N 53O 5O                          ONLINE      20 5  15    0   Hunt,M 
+BUS 250C   T   16260 Principles of Finance            3.00 N 51  5E  06:00pm 08:30pm T                   25 3  22    0   Cowenhove,G 
+BUS 270C   1   15275 Principles of Management         4.00 N 51  5D  08:00am 09:50am TR      SWEENY 316  25 5  20    0   Staff1,B 
+BUS 270C   2   13979 Principles of Management         4.00 N 51  5D  02:00pm 03:50pm TR      SWEENY 307  25 13 12    0   Staff1,B 
+BUS 270C   FZZ 15992 Principles of Management         4.00 N 52  5O                          ONLINE      20 6  14    0   Hunt,M 
+BUS 270C   M   15701 Principles of Management         4.00 N 51  5E  05:30pm 08:50pm M                   25 4  21    0   Manolis,N 
+BUS 273C   1   14682 Human Resource Management        3.00 N 51  5D  02:00pm 04:50pm M       SWEENY 220  20 10 10    0   Manolis,N 
+BUS 278C   1   13963 International Business           3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 314  25 6  19    0   King,F 
+BUS 293C   M   15702 Managerial Decision-Making       3.00 N 51  5E  05:30pm 07:10pm M                   19 16 3     0   King,F 
+BUS 293C   ML  15703 Managerial Decision-Making        .00 N 51  5E  07:11pm 08:50pm M                   19 16 3     0   King,F 
+CHEM 100C  1   14550 Introductory Chemistry**         4.00 N 51  5D  10:00am 11:20am M       LITTLE 114  32 9  23    0   Lesser,T 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE:  6 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+CHEM 100C  1   14550 Introductory Chemistry**         4.00 N 51  5D  09:30am 10:50am W       LITTLE 114  32 9  23    0   Lesser,T 
+CHEM 100C  1A  14420 Introductory Chemistry**          .00 N 51  5D  12:00pm 01:50pm M       LITTLE 228  16 4  12    0   Lesser,T 
+CHEM 100C  1B  14425 Introductory Chemistry**          .00 N 51  5D  11:30am 01:20pm W       LITTLE 228  16 5  11    0   Lesser,T 
+CHEM 100C  2   14469 Introductory Chemistry**         4.00 N 51  5D  08:00am 09:20am TR      LITTLE 222  32 2  30    0   Lesser,T 
+CHEM 100C  2A  14422 Introductory Chemistry**          .00 N 51  5D  10:00am 11:50am T       LITTLE 228  16 1  15    0   Ray,D 
+CHEM 100C  2B  14444 Introductory Chemistry**          .00 N 51  5D  10:00am 11:50am R       LITTLE 228  16 1  15    0   Ray,D 
+CHEM 100C  T   16044 Introductory Chemistry**         4.00 N 51  5E  06:00pm 08:30pm T       LITTLE      16 7  9     0   Seagroves,S 
+CHEM 100C  TL  16046 Introductory Chemistry**          .00 N 51  5E  08:31pm 10:20pm T       LITTLE 228  16 7  9     0   Seagroves,S 
+CHEM 103C  1   14470 General Chemistry I              4.00 N 51  5D  10:30am 11:50am T       LITTLE 114  32 12 20    0   Lesser,T 
+CHEM 103C  1   14470 General Chemistry I              4.00 N 51  5D  10:00am 11:20am R       LITTLE 114  32 12 20    0   Lesser,T 
+CHEM 103C  1A  14423 General Chemistry I               .00 N 51  5D  02:00pm 03:50pm T       LITTLE 228  16 6  10    0   Lesser,T 
+CHEM 103C  1B  14445 General Chemistry I               .00 N 51  5D  12:00pm 01:50pm R       LITTLE 228  16 6  10    0   Lesser,T 
+CHEM 103C  W   16047 General Chemistry I              4.00 N 51  5E  05:30pm 08:00pm W       LITTLE      16 2  14    0   Ray,D 
+CHEM 103C  WL  16048 General Chemistry I               .00 N 51  5E  08:01pm 10:00pm W       LITTLE 131  16 2  14    0   Ray,D 
+CHEM 104C  T   16049 General Chemistry II             4.00 N 51  5E  05:30pm 08:00pm T       LITTLE      16 6  10    0   Morgan,J 
+CHEM 104C  TL  16050 General Chemistry II              .00 N 51  5E  08:01pm 10:00pm T       LITTLE 131  16 6  10    0   Morgan,J 
+CHEM 105C  1   14552 Chemistry                        4.00 N 51  5D  08:00am 09:20am TF      LITTLE 114  32 15 17    0   Seagroves,W 
+CHEM 105C  1A  14424 Chemistry                         .00 N 51  5D  08:00am 09:50am W       LITTLE 228  16 5  11    0   Seagroves,W 
+CHEM 105C  1B  14446 Chemistry                         .00 N 51  5D  09:30am 11:20am F       LITTLE 228  16 10 6     0   Seagroves,W 
+CHEM 105C  R   16051 Chemistry                        4.00 N 51  5E  05:30pm 08:00pm R       LITTLE      16 4  12    0   Morgan,J 
+CHEM 105C  RL  16052 Chemistry                         .00 N 51  5E  08:01pm 10:00pm R       LITTLE 228  16 4  12    0   Morgan,J 
+CHEM 110C  1   14460 Introduction to Biochemistry     4.00 N 51  5D  12:30pm 01:50pm MW      LITTLE 224  32 9  23  Y 0   Seagroves,W 
+CHEM 110C  1A  14421 Introduction to Biochemistry      .00 N 51  5D  02:00pm 03:50pm M       LITTLE 228  16 3  13  Y 0   Seagroves,W 
+CHEM 110C  1B  14426 Introduction to Biochemistry      .00 N 51  5D  02:00pm 03:50pm W       LITTLE 228  16 6  10  Y 0   Seagroves,W 
+CHEM 110C  M   16053 Introduction to Biochemistry     4.00 N 51  5E  06:00pm 08:30pm M       LITTLE      16 8  8     0   Seagroves,W 
+CHEM 110C  ML  16054 Introduction to Biochemistry      .00 N 51  5E  08:31pm 10:10pm M       LITTLE 228  16 8  8     0   Seagroves,W 
+CHEM 120C  W   16055 Intro to Forensic Sciences       4.00 N 51  5E  05:30pm 08:00pm W       LITTLE      16 6  10    0   McMahon,K 
+CHEM 120C  WL  16056 Intro to Forensic Sciences        .00 N 51  5E  08:01pm 10:00pm W       LITTLE 228  16 6  10    0   McMahon,K 
+CPET 107C  1   13775 Intro to Prgrm with C++          3.00 N 51  5D  10:00am 11:50am T       LITTLE 224  45 5  40    0   Hough,S 
+CPET 107C  1A  13783 Intro to Prgrm with C++           .00 N 51  5D  02:00pm 04:50pm T       LITTLE 230  15 5  10    0   Hough,S 
+CPET 107C  1B  13795 Intro to Prgrm with C++           .00 N 51  5D  09:00am 11:50am F       LITTLE 230  15 0  15    0   Hough,S 
+CPET 107C  1C  13796 Intro to Prgrm with C++           .00 N 51  5D  01:00pm 03:50pm F       LITTLE 230  15 0  15    0   Hough,S 
+CPET 107C  2   13743 Intro to Prgrm with C++          3.00 N 51  5D  08:00am 09:50am M       LITTLE 113  30 5  25    0   Gitlitz,K 
+CPET 107C  2A  13760 Intro to Prgrm with C++           .00 N 51  5D  02:00pm 04:50pm R       LITTLE 230  15 4  11    0   Gitlitz,K 
+CPET 107C  2B  13758 Intro to Prgrm with C++           .00 N 51  5D  09:00am 11:50am R       LITTLE 230  15 1  14    0   Gitlitz,K 
+CPET 107C  M   16103 Intro to Prgrm with C++          3.00 N 51  5E  06:00pm 07:40pm M       LITTLE 230  15 0  15    0   Zapanta,J 
+CPET 107C  ML  16104 Intro to Prgrm with C++           .00 N 51  5E  07:41pm 10:10pm M       LITTLE 230  15 0  15    0   Zapanta,J 
+CPET 107C  ZZ  16099 Intro to Prgrm with C++          3.00 N 5ZZ 5O                          ONLINE      15 1  14    0   Simkin,T 
+CPET 107C  ZZL 16100 Intro to Prgrm with C++           .00 N 5ZZ 5O                          ONLINE      15 1  14    0   Simkin,T 
+CPET 125C  R   16480 Data Structures                  3.00 N 51  5E  05:30pm 07:10pm R       LITTLE 231  15 0  15    0   Staff,D 
+CPET 125C  RL  16481 Data Structures                   .00 N 51  5E  07:11pm 09:40pm R       LITTLE 231  15 0  15    0   Staff,D 
+CPET 240C  1   13711 Programming for Wind Oper Syst   4.00 N 51  5D  01:00pm 01:50pm R       LITTLE 231  15 11 4     0   Dellafeli,R 
+CPET 240C  1   13711 Programming for Wind Oper Syst   4.00 N 51  5D  02:00pm 03:50pm T       LITTLE 231  15 11 4     0   Dellafeli,R 
+CPET 240C  1A  13712 Programming for Wind Oper Syst    .00 N 51  5D  02:00pm 04:50pm R       LITTLE 231  15 11 4     0   Dellafeli,R 
+CPET 240C  R   16074 Programming for Wind Oper Syst   4.00 N 51  5E  05:30pm 08:00pm R       LITTLE 230  15 2  13    0   Dellafeli,R 
+CPET 240C  RL  16075 Programming for Wind Oper Syst    .00 N 51  5E  08:01pm 10:30pm R       LITTLE 230  15 2  13    0   Dellafeli,R 
+CPET 260C  1   13762 Computer Real Time Interfacing   4.00 N 51  5D  01:00pm 03:50pm M       LITTLE 112  12 4  8     0   Gitlitz,K 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE:  7 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+CPET 260C  1A  13763 Computer Real Time Interfacing    .00 N 51  5D  08:30am 11:20am F       LITTLE 112  12 4  8     0   Gitlitz,K 
+CPET 301C  1   13801 Computer Project Definition      1.00 N 51  5D  04:00pm 04:50pm T       LITTLE 113  12 4  8     0   Polito,F 
+CRMJ 101C  1   14117 Intro. to Criminal Justice       3.00 N 51  5D  09:00am 11:50am T       SWEENY 318  25 7  18    0   Staff1,C 
+CRMJ 101C  2   13952 Intro. to Criminal Justice       3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 318  25 7  18    0   Staff1,C 
+CRMJ 101C  3   14118 Intro. to Criminal Justice       3.00 N 51  5D  09:00am 11:50am W       SWEENY 318  25 2  23    0   Staff1,C 
+CRMJ 101C  4   13953 Intro. to Criminal Justice       3.00 N 51  5D  01:00pm 03:50pm W       SWEENY 318  25 3  22    0   Staff1,C 
+CRMJ 101C  5   14119 Intro. to Criminal Justice       3.00 N 51  5D  08:00am 10:50am R       SWEENY 318  25 5  20    0   Staff1,C 
+CRMJ 101C  FZZ 15978 Intro. to Criminal Justice       3.00 N 52  5O                          ONLINE      20 12 8     0   Staff,D 
+CRMJ 101C  M   15692 Intro. to Criminal Justice       3.00 N 51  5E  05:00pm 07:50pm M                   25 1  24    0   Staff,D 
+CRMJ 121C  1   14129 Criminal Procedure               4.00 N 51  5D  10:00am 11:50am MW      SWEENY 316  25 5  20    0   O'Donnell,S 
+CRMJ 121C  2   14130 Criminal Procedure               4.00 N 51  5D  02:00pm 03:50pm MW      SWEENY 316  25 1  24    0   O'Donnell,S 
+CRMJ 121C  3   14131 Criminal Procedure               4.00 N 51  5D  10:00am 11:50am TR      SWEENY 316  25 9  16    0   O'Donnell,S 
+CRMJ 121C  4   14132 Criminal Procedure               4.00 N 51  5D  02:00pm 03:50pm TR      SWEENY 316  25 4  21    0   O'Donnell,S 
+CRMJ 121C  LZZ 15981 Criminal Procedure               4.00 N 53O 5O                          ONLINE      20 15 5     0   Belanger,B 
+CRMJ 150C  1   14122 Criminology                      3.00 N 51  5D  08:00am 10:50am W       SWEENY 317  25 24 1     0   Staff1,C 
+CRMJ 150C  2   14120 Criminology                      3.00 N 51  5D  09:00am 11:50am F       SWEENY 318  25 8  17    0   Staff1,C 
+CRMJ 150C  3   13955 Criminology                      3.00 N 51  5D  01:00pm 03:50pm F       SWEENY 318  25 9  16    0   Staff1,C 
+CRMJ 150C  HY  15931 Criminology                      3.00 N 51  5E  05:00pm 07:50pm M                   25 10 15    0   Vittum,D 
+CRMJ 150C  HY  15931 Criminology                      3.00 N 51  5E  05:00pm 07:50pm M                   25 10 15    0   Vittum,D 
+CRMJ 150C  HY  15931 Criminology                      3.00 N 51  5E  05:00pm 07:50pm M                   25 10 15    0   Vittum,D 
+CRMJ 150C  HY  15931 Criminology                      3.00 N 51  5E  05:00pm 07:50pm M                   25 10 15    0   Vittum,D 
+CRMJ 205C  1   14680 Police Admin. & Operations       3.00 N 51  5D  09:00am 11:50am T       SWEENY 314  25 25 0     0   Ryan,J 
+CRMJ 205C  2   13958 Police Admin. & Operations       3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 317  25 9  16    0   Ryan,J 
+CRMJ 205C  3   14141 Police Admin. & Operations       3.00 N 51  5D  08:00am 10:50am R       SWEENY 315  25 6  19    0   Sartell,J 
+CRMJ 205C  FZZ 15979 Police Admin. & Operations       3.00 N 52  5O                          ONLINE      20 8  12    0   Sartell,J 
+CRMJ 215C  1   13962 Corrections Operations           3.00 N 51  5D  02:00pm 04:50pm M       SWEENY 314  25 7  18    0   Smith,J 
+CRMJ 215C  2   14139 Corrections Operations           3.00 N 51  5D  01:00pm 03:50pm W       SWEENY 315  25 22 3     0   Noyes,J 
+CRMJ 215C  LZZ 15980 Corrections Operations           3.00 N 53O 5O                          ONLINE      20 11 9     0   Smith,J 
+CRMJ 215C  M   15694 Corrections Operations           3.00 N 51  5E  05:00pm 07:50pm M                   25 0  25    0   Smith,J 
+CRMJ 230C  HY  15953 Justice and the Community        3.00 N 51  5E  05:00pm 07:50pm M                   25 6  19    0   Vittum,D 
+CRMJ 230C  HY  15953 Justice and the Community        3.00 N 51  5E  05:00pm 07:50pm M                   25 6  19    0   Vittum,D 
+CRMJ 230C  HY  15953 Justice and the Community        3.00 N 51  5E  05:00pm 07:50pm M                   25 6  19    0   Vittum,D 
+CRMJ 230C  HY  15953 Justice and the Community        3.00 N 51  5E  05:00pm 07:50pm M                   25 6  19    0   Vittum,D 
+CRMJ 270C  1   14133 Internship                       3.00 N 51  5D  12:00pm 12:50pm W       SWEENY 316  10 9  1     0   O'Donnell,S 
+CRMJ 270C  HY  15954 Internship                       3.00 N 51  5E  05:00pm 05:50pm T                   25 0  25    0   Vittum,D 
+CRMJ 270C  HY  15954 Internship                       3.00 N 51  5E  05:00pm 05:50pm T                   25 0  25    0   Vittum,D 
+CRMJ 270C  HY  15954 Internship                       3.00 N 51  5E  05:00pm 05:50pm T                   25 0  25    0   Vittum,D 
+CRMJ 270C  HY  15954 Internship                       3.00 N 51  5E  05:00pm 05:50pm T                   25 0  25    0   Vittum,D 
+CRMJ 275C  1   14123 CJ--Senior Project               3.00 N 51  5D  01:00pm 01:50pm W       SWEENY 210  10 1  9     0   Staff1,C 
+CRMJ 275C  HY  15955 CJ--Senior Project               3.00 N 51  5E  06:00pm 06:50pm T                   25 2  23    0   Vittum,D 
+CRMJ 275C  HY  15955 CJ--Senior Project               3.00 N 51  5E  06:00pm 06:50pm T                   25 2  23    0   Vittum,D 
+CRMJ 275C  HY  15955 CJ--Senior Project               3.00 N 51  5E  06:00pm 06:50pm T                   25 2  23    0   Vittum,D 
+CRMJ 275C  HY  15955 CJ--Senior Project               3.00 N 51  5E  06:00pm 06:50pm T                   25 2  23    0   Vittum,D 
+CSS 111C   M   15709 Into to Comm. Social Service     3.00 N 51  5E  05:30pm 08:00pm M       SWEENY 318  5  1  4     0   Bluhm,B 
+CSS 112C   W   15705 Supportive Communication Skill   4.00 N 51  5E  05:30pm 09:05pm W       SWEENY 308  25 1  24    0   Staff,D 
+CSS 116C   T   15711 Assessment and Individual Plan   3.00 N 51  5E  05:30pm 08:00pm T       SWEENY      20 3  17    0   D'Ovidio,D 
+CSS 117C   T   16352 Comm Social Service Practicum    4.00 N 51  5E  05:30pm 07:00pm T       SWEENY 309  8  0  8     0   Curran,K 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE:  8 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+CVET 201C  1   13984 Civil CAD                        3.00 N 51  5D  04:00pm 05:50pm T       LITTLE 205  15 5  10    0   Staff1,A 
+CVET 201C  1A  13986 Civil CAD                         .00 N 51  5D  06:00pm 07:50pm T       LITTLE 205  15 5  10    0   Staff1,A 
+CVET 220C  1   14481 Surveying                        3.00 N 51  5D  09:00am 10:50am M       LITTLE 214  24 13 11    0   Carter,V 
+CVET 220C  1A  14505 Surveying                         .00 N 51  5D  09:00am 11:50am F       LITTLE 205  12 9  3     0   Carter,V 
+CVET 220C  1B  14507 Surveying                         .00 N 51  5D  01:00pm 03:50pm F       LITTLE 205  12 4  8     0   Carter,V 
+CVET 240C  1   14551 Timber and Steel Design          4.00 N 51  5D  02:00pm 03:20pm W       LITTLE 114  24 12 12    0   Carter,V 
+CVET 240C  1   14551 Timber and Steel Design          4.00 N 51  5D  12:30pm 01:50pm M       LITTLE 114  24 12 12    0   Carter,V 
+CVET 240C  1A  14501 Timber and Steel Design           .00 N 51  5D  02:00pm 03:50pm M       LITTLE 205  12 12 0     0   Carter,V 
+CVET 240C  1B  14502 Timber and Steel Design           .00 N 51  5D  02:00pm 03:50pm T       LITTLE 205  12 0  12    0   Carter,V 
+CVET 240C  M   15510 Timber and Steel Design          4.00 N 51  5E  06:00pm 08:30pm M       LITTLE 131  12 2  10    0   Staff,D 
+CVET 240C  M   15510 Timber and Steel Design          4.00 N 51  5E  06:00pm 08:30pm M       LITTLE 201  12 2  10    0   Staff,D 
+CVET 240C  ML  15511 Timber and Steel Design           .00 N 51  5E  08:31pm 10:10pm M       LITTLE 131  12 2  10    0   Staff,D 
+CVET 240C  ML  15511 Timber and Steel Design           .00 N 51  5E  08:31pm 10:10pm M       LITTLE 201  12 2  10    0   Staff,D 
+DGMS 201C  1   14398 Principles of Sonography         4.00 N 51  5D  09:00am 11:50am T       MACRUR 108  12 0  12    0   Wade,M 
+DGMS 201C  1A  14403 Principles of Sonography          .00 N 51  5D  02:00pm 03:50pm T       MACRUR 108  12 0  12    0   Wade,M 
+DGMS 233C  1   14402 Seminars in Sonography           4.00 N 51  5D  09:00am 12:50pm F       MACRUR 108  8  8  0     0   Wade,M 
+DGMS 265C  1   14405 Sonographic Anatomy & Path I     3.00 N 51  5D  09:00am 11:50am M       MACRUR 104  12 0  12    0   Wade,M 
+DGMS 275C  1   14406 Sonographic Prin of OB/GYN I     3.00 N 51  5D  12:30pm 03:20pm M       MACRUR 104  12 0  12    0   Ehrenzwei,T 
+DGMS 291C  1   14407 DMS Clinical Procedures I        4.00 N 51  5D  09:00am 03:20pm RF      MACRUR 105  12 0  12    0   Wade,M 
+DGMS 298C  1   14404 DMS Clinical IV                  8.00 N 51  5D  08:00am 04:20pm MTWR    OFFCMP      8  8  0     0   Wade,M 
+ECE 101C   1   14246 Growth & Dev of Young Child      3.00 N 51  5D  12:00pm 02:50pm M       SWEENY 208  25 2  23    0   Sager,C 
+ECE 101C   2   14248 Growth & Dev of Young Child      3.00 N 51  5D  09:00am 11:50am T       SWEENY 208  25 4  21    0   Sager,C 
+ECE 101C   M   15496 Growth & Dev of Young Child      3.00 N 51  5E  06:00pm 08:30pm M       SWEENY 208  25 1  24    0   LaClair,M 
+ECE 101C   ZZ  15894 Growth & Dev of Young Child      3.00 N 5ZZ 5O                          ONLINE      15 1  14    0   LaClair,M 
+ECE 141C   1   14254 Curriculum & Environments 1      3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 208  25 10 15    0   Peck,T 
+ECE 141C   2   14253 Curriculum & Environments 1      3.00 N 51  5D  09:00am 11:50am F       SWEENY 208  25 6  19    0   Upton,A 
+ECE 141C   R   15497 Curriculum & Environments 1      3.00 N 51  5E  06:00pm 08:30pm R       SWEENY 208  25 1  24    0   Dodge,B 
+ECE 141C   ZZ  15896 Curriculum & Environments 1      3.00 N 5ZZ 5O                          ONLINE      15 5  10    0   Therrien,S 
+ECE 155C   1   14251 Child Lit to Sup Yng Child SRV   3.00 N 51  5D  09:00am 11:50am R       SWEENY 208  25 7  18    0   Hall,G 
+ECE 155C   2   14252 Child Lit to Sup Yng Child SRV   3.00 N 51  5D  01:00pm 03:50pm R       SWEENY 208  25 8  17    0   Hall,G 
+ECE 155C   W   15498 Child Lit to Sup Yng Child SRV   3.00 N 51  5E  06:00pm 08:40pm W       SWEENY 208  25 0  25    0   Boissy,K 
+ECE 155C   ZZ  15898 Child Lit to Sup Yng Child SRV   3.00 N 5ZZ 5O                          ONLINE      15 7  8     0   Laflamme,T 
+ECE 188C   1   14086 Health Safe & Nut in ECE (SRV)   3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 210  20 9  11    0   Hall,G 
+ECE 188C   T   15499 Health Safe & Nut in ECE (SRV)   3.00 N 51  5E                  T       ONLINE      25 7  18    0   Hines,P 
+ECE 188C   ZZ  15902 Health Safe & Nut in ECE (SRV)   3.00 N 5ZZ 5O                          ONLINE      15 7  8     0   Hall,G 
+ECE 225C   R   15500 Autism Spectrum Disorder         4.00 N 51  5E  05:30pm 08:50pm R       SWEENY 211  25 5  20    0   Henry,S 
+ECE 225C   ZZ  15904 Autism Spectrum Disorder         4.00 N 5ZZ 5O                          ONLINE      15 4  11    0   Timmins,C 
+ECE 242C   1   14250 Child Family & Community(SRV)    3.00 N 51  5D  09:00am 11:50am W       SWEENY 208  20 13 7     0   Hall,G 
+ECE 242C   W   15501 Child Family & Community(SRV)    3.00 N 51  5E  06:00pm 08:40pm W       SWEENY 210  25 11 14    0   Rosenberg,M 
+ECE 242C   ZZ  15907 Child Family & Community(SRV)    3.00 N 5ZZ 5O                          ONLINE      15 8  7     0   Emond,J 
+ECE 275C   1   14247 Pract I-Observ Interpr Assess    3.00 N 51  5D  03:00pm 04:50pm M       SWEENY 208  10 10 0     0   Menard,D 
+ECE 275C   2   14085 Pract I-Observ Interpr Assess    3.00 N 51  5D  03:00pm 04:50pm M       SWEENY 210  10 6  4     0   Babcock,S 
+ECE 275C   ZZ  15915 Pract I-Observ Interpr Assess    3.00 N 5ZZ 5O                          ONLINE      10 5  5     0   Babcock,S 
+ECE 282C   M   15502 Preschool Spec Edu Practicum     4.00 N 51  5E  06:00pm 07:50pm M       SWEENY 210  10 8  2     0   Henry,S 
+ECON 101C  1   13967 Macroeconomics                   3.00 N 51  5D  01:00pm 03:50pm M       SWEENY 311  25 8  17    0   Dhliwayo,L 
+ECON 101C  2   14073 Macroeconomics                   3.00 N 51  5D  01:00pm 03:50pm W       SWEENY 220  25 3  22    0   Dhliwayo,L 
+ECON 101C  3   13961 Macroeconomics                   3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 315  25 3  22    0   Doherty,E 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE:  9 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+ECON 101C  ZZ  16138 Macroeconomics                   3.00 N 5ZZ 5O                          ONLINE      20 4  16    0   Doherty,E 
+ECON 102C  R   15515 Microeconomics                   3.00 N 51  5E  05:30pm 08:00pm R                   25 3  22    0   McAlliste,G 
+ECON 102C  ZZ  16139 Microeconomics                   3.00 N 5ZZ 5O                          ONLINE      20 3  17    0   Doherty,E 
+EDU 101C   1   14611 Intro to Exceptionalities        3.00 N 51  5D  10:00am 12:50pm W       GRAPPN 323  20 8  12    0   Lucero,C 
+EDU 101C   M   16190 Intro to Exceptionalities        3.00 N 51  5E  05:00pm 07:45pm M       GRAPPN 323  10 1  9     0   Lucero,C 
+EDU 101C   ZZ  15976 Intro to Exceptionalities        3.00 N 5ZZ 5O                          ONLINE      10 1  9     0   Dunn,K 
+EDU 104C   1   14608 Foundations of Education         3.00 N 51  5D  09:00am 11:50am T       GRAPPN 323  20 6  14    0   Wood,H 
+EDU 104C   2   13599 Foundations of Education         3.00 N 51  5D  02:00pm 04:50pm M       GRAPPN 323  20 2  18    0   Wood,H 
+EDU 104C   T   16187 Foundations of Education         3.00 N 51  5E  05:00pm 07:45pm T       GRAPPN 323  10 2  8     0   Wood,H 
+EDU 201C   HY  14613 Legal Issues in Education        3.00 N 51  5D  01:00pm 02:50pm W       GRAPPN 323  20 10 10    0   Pietrovit,J 
+EDU 201C   R   16210 Legal Issues in Education        3.00 N 51  5E  05:00pm 07:45pm R       GRAPPN 323  10 4  6     0   Pardy,P 
+EDU 203C   M   16194 Teaching Strat. Diverse Learn     .00 N 51  5E  05:00pm 07:45pm M       GRAPPN 324  15 12 3     0   Dokton,E 
+EDU 203C   ZZ  15974 Teaching Strat. Diverse Learn    3.00 N 5ZZ 5O                          ONLINE      10 7  3     0   Wood,H 
+EDU 204C   W   16208 Instructional Technology         3.00 N 51  5E  05:00pm 07:45pm W       GRAPPN 323  10 7  3     0   Gillam,A 
+EDU 209C   T   16196 Curriculum and Assessment        4.00 N 51  5E  05:00pm 08:30pm T       GRAPPN 324  10 9  1     0   Woelflein,D 
+EDU 210C   FHY 16290 Cross-Cultural Edu Prof Learn    1.00 N 52  5E  06:00pm 08:00pm R                   10 3  7     0   Hughes,A 
+EDU 210C   FHY 16290 Cross-Cultural Edu Prof Learn    1.00 N 52  5E  06:00pm 08:00pm R                   10 3  7     0   Hughes,A 
+EDU 210C   FHY 16290 Cross-Cultural Edu Prof Learn    1.00 N 52  5E  06:00pm 08:00pm R                   10 3  7     0   Hughes,A 
+EDU 210C   FHY 16290 Cross-Cultural Edu Prof Learn    1.00 N 52  5E  06:00pm 08:00pm R                   10 3  7     0   Hughes,A 
+EDU 220C   W   16189 Field Experience In Education    3.00 N 51  5E  04:00pm 04:50pm W       GRAPPN 323  4  5  -1    0   Lucero,C 
+ELET 101C  1   13713 Electric Circuits I              4.00 N 51  5D  08:00am 08:50am W       LITTLE 224  42 7  35    0   DiBiaso,L 
+ELET 101C  1   13713 Electric Circuits I              4.00 N 51  5D  08:00am 09:50am M       LITTLE 224  42 7  35    0   DiBiaso,L 
+ELET 101C  1A  13714 Electric Circuits I               .00 N 51  5D  09:00am 11:50am W       LITTLE 235  14 5  9     0   DiBiaso,L 
+ELET 101C  1B  13715 Electric Circuits I               .00 N 51  5D  09:00am 11:50am F       LITTLE 235  14 1  13    0   DiBiaso,L 
+ELET 101C  1C  13716 Electric Circuits I               .00 N 51  5D  09:00am 11:50am R       LITTLE 235  14 1  13    0   DiBiaso,L 
+ELET 101C  W   16090 Electric Circuits I              4.00 N 51  5E  05:30pm 08:00pm W       LITTLE 222  14 2  12    0   Scala,G 
+ELET 101C  WL  16092 Electric Circuits I               .00 N 51  5E  08:01pm 10:30pm W       LITTLE 235  14 2  12    0   Scala,G 
+ELET 115C  1   13909 Digital Fundamentals             3.00 N 51  5D  02:00pm 03:50pm M       LITTLE 224  45 6  39    0   Polito,F 
+ELET 115C  1A  13800 Digital Fundamentals              .00 N 51  5D  02:00pm 04:50pm T       LITTLE 235  15 0  15    0   Hughes,S 
+ELET 115C  1B  13926 Digital Fundamentals              .00 N 51  5D  02:00pm 04:50pm W       LITTLE 235  15 4  11    0   Polito,F 
+ELET 115C  1C  13931 Digital Fundamentals              .00 N 51  5D  02:00pm 04:50pm R       LITTLE 235  15 2  13    0   Polito,F 
+ELET 115C  T   16088 Digital Fundamentals             3.00 N 51  5E  05:30pm 07:10pm T       LITTLE 222  14 1  13    0   MacIntyre,K 
+ELET 115C  TL  16089 Digital Fundamentals              .00 N 51  5E  07:11pm 09:40pm T       LITTLE 235  14 1  13    0   MacIntyre,K 
+ELET 144C  1   13731 Embedded Microsystems            4.00 N 51  5D  01:00pm 03:50pm M       LITTLE 230  14 6  8     0   French,W 
+ELET 144C  1A  13733 Embedded Microsystems             .00 N 51  5D  02:00pm 04:50pm W       LITTLE 230  14 6  8     0   French,W 
+ELET 144C  T   16085 Embedded Microsystems            4.00 N 51  5E  05:30pm 08:00pm T       LITTLE 230  14 0  14    0   French,W 
+ELET 144C  TL  16087 Embedded Microsystems             .00 N 51  5E  08:01pm 10:30pm T       LITTLE 230  14 0  14    0   French,W 
+ELET 210C  1   13717 Electronics II                   4.00 N 51  5D  01:00pm 01:50pm R       LITTLE 214  14 7  7     0   DiBiaso,L 
+ELET 210C  1   13717 Electronics II                   4.00 N 51  5D  02:00pm 03:50pm T       FARNUM 105  14 7  7     0   DiBiaso,L 
+ELET 210C  1A  13718 Electronics II                    .00 N 51  5D  02:00pm 04:50pm R       LITTLE 234  14 7  7     0   DiBiaso,L 
+ELET 210C  R   16072 Electronics II                   4.00 N 51  5E  05:30pm 08:00pm R       LITTLE 222  14 2  12    0   Blair,C 
+ELET 210C  RL  16073 Electronics II                    .00 N 51  5E  08:01pm 10:30pm R       LITTLE 234  14 2  12    0   Blair,C 
+ELET 305C  1   13736 Desing Project Preparation       3.00 N 51  5D  08:00am 08:50am F       LITTLE 214  14 7  7     0   French,W 
+ELET 305C  1A  13739 Desing Project Preparation        .00 N 51  5D  09:00am 02:20pm F       LITTLE 213  14 7  7     0   French,W 
+ELET 305C  1A  13739 Desing Project Preparation        .00 N 51  5D  09:00am 02:20pm F       LITTLE 234  14 7  7     0   French,W 
+ENGL 100C  1   13626 Introductory  English **         4.00 N 51  5D  12:00pm 01:50pm MW      MACRUR 137  15 0  15    0   Edwards,D 
+ENGL 100C  2   15216 Introductory  English **         4.00 N 51  5D  08:00am 09:50am W       MACRUR 217  15 0  15    0   Schilling,G 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 10 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+ENGL 100C  2   15216 Introductory  English **         4.00 N 51  5D  08:00am 09:50am M       GRAPPN 218  15 0  15    0   Schilling,G 
+ENGL 100C  3   15217 Introductory  English **         4.00 N 51  5D  08:00am 09:50am R       FARNUM 109  15 1  14    0   Staff1,E 
+ENGL 100C  3   15217 Introductory  English **         4.00 N 51  5D  08:00am 09:50am T       LITTLE 201  15 1  14    0   Staff1,E 
+ENGL 100C  4   15218 Introductory  English **         4.00 N 51  5D  03:00pm 04:50pm W       FARNUM 105  15 2  13    0   Neveu,E 
+ENGL 100C  4   15218 Introductory  English **         4.00 N 51  5D  03:00pm 04:50pm M       MACRUR 208  15 2  13    0   Neveu,E 
+ENGL 100C  T   15874 Introductory  English **         4.00 N 51  5E  05:30pm 08:50pm T                   15 0  15    0   Staff,D 
+ENGL 101C  1   13580 English Composition              4.00 N 51  5D  09:00am 10:50am W       LITTLE 201  20 6  14    0   Edwards,D 
+ENGL 101C  1   13580 English Composition              4.00 N 51  5D  09:00am 10:50am M       GRAPPN 324  20 6  14    0   Edwards,D 
+ENGL 101C  10  13623 English Composition              4.00 N 51  5D  02:00pm 03:50pm M       SWEENY 308  20 5  15    0   Keller,A 
+ENGL 101C  10  13623 English Composition              4.00 N 51  5D  02:00pm 03:50pm W       LITTLE 202  20 5  15    0   Keller,A 
+ENGL 101C  11  13624 English Composition              4.00 N 51  5D  11:00am 12:50pm R       SWEENY 318  20 1  19    0   Davis,A 
+ENGL 101C  11  13624 English Composition              4.00 N 51  5D  11:00am 12:50pm M       LITTLE 201  20 1  19    0   Davis,A 
+ENGL 101C  12  13625 English Composition              4.00 N 51  5D  01:00pm 02:50pm R       LITTLE 201  20 5  15    0   Thomas,N 
+ENGL 101C  12  13625 English Composition              4.00 N 51  5D  01:00pm 02:50pm M       GRAPPN 324  20 5  15    0   Thomas,N 
+ENGL 101C  13  13600 English Composition              4.00 N 51  5D  03:00pm 04:50pm M       LITTLE 214  20 1  19    0   Thomas,N 
+ENGL 101C  13  13600 English Composition              4.00 N 51  5D  03:00pm 04:50pm W       LITTLE 201  20 1  19    0   Thomas,N 
+ENGL 101C  14  13627 English Composition              4.00 N 51  5D  02:00pm 03:50pm T       LITTLE 202  20 11 9     0   Johnson,J 
+ENGL 101C  14  13627 English Composition              4.00 N 51  5D  02:00pm 03:50pm R       FARNUM 105  20 11 9     0   Johnson,J 
+ENGL 101C  15  13628 English Composition              4.00 N 51  5D  08:00am 09:50am F       SWEENY 317  20 0  20    0   Van Donge,J 
+ENGL 101C  15  13628 English Composition              4.00 N 51  5D  08:00am 09:50am T       LITTLE 202  20 0  20    0   Van Donge,J 
+ENGL 101C  16  13629 English Composition              4.00 N 51  5D  11:00am 12:50pm W       SWEENY 317  20 1  19    0   Butler,E 
+ENGL 101C  16  13629 English Composition              4.00 N 51  5D  11:00am 12:50pm F       LITTLE 201  20 1  19    0   Butler,E 
+ENGL 101C  17  13631 English Composition              4.00 N 51  5D  08:00am 09:50am R       LITTLE 202  20 0  20    0   Davis,A 
+ENGL 101C  17  13631 English Composition              4.00 N 51  5D  08:00am 09:50am M       SWEENY 212  20 0  20    0   Davis,A 
+ENGL 101C  18  13634 English Composition              4.00 N 51  5D  02:00pm 03:50pm W       SWEENY 314  20 0  20    0   Butler,E 
+ENGL 101C  18  13634 English Composition              4.00 N 51  5D  01:00pm 02:50pm F       LITTLE 202  20 0  20    0   Butler,E 
+ENGL 101C  19  13636 English Composition              4.00 N 51  5D  01:00pm 02:50pm M       LITTLE 201  20 6  14    0   Neveu,E 
+ENGL 101C  19  13636 English Composition              4.00 N 51  5D  01:00pm 02:50pm W       SWEENY 308  20 6  14    0   Neveu,E 
+ENGL 101C  2   13581 English Composition              4.00 N 51  5D  09:00am 10:50am T       GRAPPN 207  20 6  14    0   Edwards,D 
+ENGL 101C  2   13581 English Composition              4.00 N 51  5D  09:00am 10:50am R       LITTLE 201  20 6  14    0   Edwards,D 
+ENGL 101C  20  13637 English Composition              4.00 N 51  5D  03:00pm 04:50pm M       LITTLE 201  20 0  20    0   Brewster,S 
+ENGL 101C  20  13637 English Composition              4.00 N 51  5D  03:00pm 04:50pm R       LITTLE 113  20 0  20    0   Brewster,S 
+ENGL 101C  21  13639 English Composition              4.00 N 51  5D  08:00am 09:50am W       LITTLE 202  20 0  20    0   Staff1,E 
+ENGL 101C  21  13639 English Composition              4.00 N 51  5D  08:00am 09:50am F       MACRUR 212  20 0  20    0   Staff1,E 
+ENGL 101C  22  13641 English Composition              4.00 N 51  5D  02:00pm 03:50pm T       GRAPPN 218  20 1  19    0   Staff1,E 
+ENGL 101C  22  13641 English Composition              4.00 N 51  5D  02:00pm 03:50pm R       SWEENY 220  20 1  19    0   Staff1,E 
+ENGL 101C  23  13642 English Composition              4.00 N 51  5D  09:00am 10:50am M       SWEENY 310  20 0  20    0   Gray,T 
+ENGL 101C  23  13642 English Composition              4.00 N 51  5D  10:00am 11:50am R       LITTLE 202  20 0  20    0   Gray,T 
+ENGL 101C  24  13643 English Composition              4.00 N 51  5D  10:00am 11:50am W       LITTLE 202  20 1  19    0   Cragin,S 
+ENGL 101C  24  13643 English Composition              4.00 N 51  5D  10:00am 11:50am F       MACRUR 101  20 1  19    0   Cragin,S 
+ENGL 101C  25  13645 English Composition              4.00 N 51  5D  11:00am 12:50pm M       SWEENY 308  20 1  19    0   Ciocca,D 
+ENGL 101C  25  13645 English Composition              4.00 N 51  5D  11:00am 12:50pm R       LITTLE 201  20 1  19    0   Ciocca,D 
+ENGL 101C  26  13646 English Composition              4.00 N 51  5D  12:00pm 01:50pm M       LITTLE 202  20 3  17    0   Staff1,E 
+ENGL 101C  26  13646 English Composition              4.00 N 51  5D  12:00pm 01:50pm W       GRAPPN 306  20 3  17    0   Staff1,E 
+ENGL 101C  27  13662 English Composition              4.00 N 51  5D  01:00pm 02:50pm M       GRAPPN 218  15 0  15    0   Staff1,E 
+ENGL 101C  27  13662 English Composition              4.00 N 51  5D  01:00pm 02:50pm W       GRAPPN 324  15 0  15    0   Staff1,E 
+ENGL 101C  28  13654 English Composition              4.00 N 51  5D  12:00pm 01:50pm M       MACRUR 101  20 1  19    0   Gray,T 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 11 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+ENGL 101C  28  13654 English Composition              4.00 N 51  5D  12:00pm 01:50pm R       LITTLE 202  20 1  19    0   Gray,T 
+ENGL 101C  3   13607 English Composition              4.00 N 51  5D  10:00am 11:50am M       GRAPPN 218  20 0  20    0   Davis,J 
+ENGL 101C  3   13607 English Composition              4.00 N 51  5D  10:00am 11:50am W       GRAPPN 207  20 0  20    0   Davis,J 
+ENGL 101C  30  13656 English Composition              4.00 N 51  5D  12:00pm 01:50pm W       LITTLE 202  20 1  19    0   Cragin,S 
+ENGL 101C  30  13656 English Composition              4.00 N 51  5D  01:00pm 02:50pm F       GRAPPN 207  20 1  19    0   Cragin,S 
+ENGL 101C  31  13657 English Composition              4.00 N 51  5D  02:00pm 03:50pm T       ESTANX A    20 0  20    0   Staff1,E 
+ENGL 101C  31  13657 English Composition              4.00 N 51  5D  01:00pm 02:50pm F       LITTLE 201  20 0  20    0   Staff1,E 
+ENGL 101C  32  13659 English Composition              4.00 N 51  5D  08:00am 09:50am F       LITTLE 202  20 0  20    0   Staff1,E 
+ENGL 101C  32  13659 English Composition              4.00 N 51  5D  08:00am 09:50am W       SWEENY 210  20 0  20    0   Staff1,E 
+ENGL 101C  33  13660 English Composition              4.00 N 51  5D  02:00pm 03:50pm R       LITTLE 202  20 0  20    0   Ciocca,D 
+ENGL 101C  33  13660 English Composition              4.00 N 51  5D  02:00pm 03:50pm M       GRAPPN 207  20 0  20    0   Ciocca,D 
+ENGL 101C  34  15208 English Composition              4.00 N 51  5D  01:00pm 02:50pm M       SWEENY 210  20 3  17    0   Alander,V 
+ENGL 101C  34  15208 English Composition              4.00 N 51  5D  01:00pm 02:50pm W       LITTLE 201  20 3  17    0   Alander,V 
+ENGL 101C  35  15209 English Composition              4.00 N 51  5D  02:00pm 03:50pm T       SWEENY 308  20 0  20    0   Alander,V 
+ENGL 101C  35  15209 English Composition              4.00 N 51  5D  12:00pm 01:50pm R       LITTLE 205  20 0  20    0   Alander,V 
+ENGL 101C  36  15210 English Composition              4.00 N 51  5D  12:00pm 01:50pm R       LITTLE 113  20 0  20    0   Staff1,E 
+ENGL 101C  36  15210 English Composition              4.00 N 51  5D  10:00am 11:50am M       LITTLE 202  20 0  20    0   Staff1,E 
+ENGL 101C  37  15211 English Composition              4.00 N 51  5D  08:00am 09:50am R       ESTANX A    20 0  20    0   Van Donge,J 
+ENGL 101C  37  15211 English Composition              4.00 N 51  5D  08:00am 09:50am M       LITTLE 202  20 0  20    0   Van Donge,J 
+ENGL 101C  38  15212 English Composition              4.00 N 51  5D  10:00am 11:50am T       LITTLE 201  20 0  20    0   Staff1,E 
+ENGL 101C  38  15212 English Composition              4.00 N 51  5D  10:00am 11:50am F       SWEENY 314  20 0  20    0   Staff1,E 
+ENGL 101C  39  15213 English Composition              4.00 N 51  5D  10:00am 11:50am M       MACRUR 217  20 0  20    0   Staff1,E 
+ENGL 101C  39  15213 English Composition              4.00 N 51  5D  09:00am 10:50am R       GRAPPN 218  20 0  20    0   Staff1,E 
+ENGL 101C  4   13610 English Composition              4.00 N 51  5D  10:00am 11:50am T       GRAPPN 218  20 3  17  Y 0   Davis,J 
+ENGL 101C  4   13610 English Composition              4.00 N 51  5D  10:00am 11:50am R       GRAPPN 306  20 3  17  Y 0   Davis,J 
+ENGL 101C  40  15214 English Composition              4.00 N 51  5D  11:00am 12:50pm M       LITTLE 205  20 0  20    0   Keller,A 
+ENGL 101C  40  15214 English Composition              4.00 N 51  5D  12:00pm 01:50pm W       SWEENY 212  20 0  20    0   Keller,A 
+ENGL 101C  41  15215 English Composition              4.00 N 51  5D  02:00pm 03:50pm T       MACRUR 208  18 0  18    0   Staff1,E 
+ENGL 101C  41  15215 English Composition              4.00 N 51  5D  02:00pm 03:50pm R       ESTANX A    18 0  18    0   Staff1,E 
+ENGL 101C  5   13608 English Composition              4.00 N 51  5D  10:00am 11:50am W       GRAPPN 218  20 4  16    0   Huston,D 
+ENGL 101C  5   13608 English Composition              4.00 N 51  5D  10:00am 11:50am F       GRAPPN 325  20 4  16    0   Huston,D 
+ENGL 101C  6   13612 English Composition              4.00 N 51  5D  02:00pm 03:50pm M       LITTLE 202  20 0  20    0   Staff1,E 
+ENGL 101C  6   13612 English Composition              4.00 N 51  5D  02:00pm 03:50pm W       GRAPPN 207  20 0  20    0   Staff1,E 
+ENGL 101C  7   13620 English Composition              4.00 N 51  5D  11:00am 12:50pm M       GRAPPN 207  20 1  19    0   Nicolosi,C 
+ENGL 101C  7   13620 English Composition              4.00 N 51  5D  11:00am 12:50pm W       LITTLE 201  20 1  19    0   Nicolosi,C 
+ENGL 101C  8   13621 English Composition              4.00 N 51  5D  08:00am 09:50am M       SWEENY 317  20 3  17    0   Nicolosi,C 
+ENGL 101C  8   13621 English Composition              4.00 N 51  5D  08:00am 09:50am W       GRAPPN 218  20 3  17    0   Nicolosi,C 
+ENGL 101C  9   13622 English Composition              4.00 N 51  5D  08:00am 09:50am T       GRAPPN 218  20 1  19    0   Staff1,E 
+ENGL 101C  9   13622 English Composition              4.00 N 51  5D  08:00am 09:50am R       SWEENY 220  20 1  19    0   Staff1,E 
+ENGL 101C  FZZ 16008 English Composition              4.00 N 52  5O                          ONLINE      20 7  13    0   Marino,M 
+ENGL 101C  HN2 13665 English Composition              4.00 N 51  5D  02:00pm 03:50pm MW      MACRUR 137  15 2  13    0   Eaton,C 
+ENGL 101C  HON 13649 English Composition              4.00 N 51  5D  10:00am 11:50am T       LITTLE 202  20 2  18    0   DelBonis-,P 
+ENGL 101C  HON 13649 English Composition              4.00 N 51  5D  10:00am 11:50am F       GRAPPN 323  20 2  18    0   DelBonis-,P 
+ENGL 101C  LZZ 16007 English Composition              4.00 N 53O 5O                          ONLINE      20 1  19    0   Marino,M 
+ENGL 101C  M   15877 English Composition              4.00 N 51  5E  05:30pm 08:50pm M                   20 3  17    0   Kelly,G 
+ENGL 101C  R   15883 English Composition              4.00 N 51  5E  05:30pm 08:50pm R                   20 1  19    0   Eason,A 
+ENGL 101C  S   16459 English Composition              4.00 N 5S  5E  09:00am 12:40pm S                   20 0  20    0   Herrick,N 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 12 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+ENGL 101C  T   15884 English Composition              4.00 N 51  5E  05:30pm 08:50pm T                   20 3  17    0   Eason,A 
+ENGL 101C  W   15885 English Composition              4.00 N 51  5E  05:30pm 09:05pm W                   20 1  19    0   Landau,M 
+ENGL 101C  ZZ  16003 English Composition              4.00 N 5ZZ 5O                          ONLINE      16 6  10    0   Perry,E 
+ENGL 101C  ZZ1 16005 English Composition              4.00 N 5ZZ 5O                          ONLINE      16 5  11    0   McLaughli,A 
+ENGL 101C  ZZ2 16006 English Composition              4.00 N 5ZZ 5O                          ONLINE      16 0  16    0   Herrick,N 
+ENGL 102C  1   13669 Intro to Literature              3.00 N 51  5D  12:00pm 02:50pm R       MACRUR 217  25 6  19    0   DelBonis-,P 
+ENGL 102C  2   13667 Intro to Literature              3.00 N 51  5D  09:00am 11:50am T       GRAPPN 306  25 15 10    0   Eaton,C 
+ENGL 102C  R   15886 Intro to Literature              3.00 N 51  5E  05:30pm 08:00pm R                   25 3  22    0   Kelly,G 
+ENGL 102C  ZZ  16009 Intro to Literature              3.00 N 5ZZ 5O                          ONLINE      20 9  11    0   Edwards,D 
+ENGL 120C  1   13666 Communications                   3.00 N 51  5D  10:00am 12:50pm M       SWEENY 317  22 10 12    0   McLaughli,A 
+ENGL 120C  2   13590 Communications                   3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 220  22 7  15    0   McLaughli,A 
+ENGL 120C  FHY 13670 Communications                   3.00 N 52  5D  12:00pm 02:50pm R       STDCTR 235  22 4  18    0   McLaughli,A 
+ENGL 120C  FHY 13670 Communications                   3.00 N 52  5D  12:00pm 02:50pm R       STDCTR 235  22 4  18    0   McLaughli,A 
+ENGL 120C  FHY 13670 Communications                   3.00 N 52  5D  12:00pm 02:50pm R       STDCTR 235  22 4  18    0   McLaughli,A 
+ENGL 120C  FHY 13670 Communications                   3.00 N 52  5D  12:00pm 02:50pm R       STDCTR 235  22 4  18    0   McLaughli,A 
+ENGL 120C  FHY 13670 Communications                   3.00 N 52  5D  12:00pm 02:50pm R       STDCTR 235  22 4  18    0   McLaughli,A 
+ENGL 120C  R   15887 Communications                   3.00 N 51  5E  05:30pm 08:00pm R                   22 3  19    0   Watrous,R 
+ENGL 120C  S   16460 Communications                   3.00 N 5S  5E  09:00am 11:40am S                   22 0  22    0   Staff,D 
+ENGL 120C  ZZ  16011 Communications                   3.00 N 5ZZ 5O                          ONLINE      20 12 8     0   McLaughli,A 
+ENGL 120MC 1   13591 Communications:Comm. Mindfully   3.00 N 51  5D  01:00pm 03:50pm M       GRAPPN 306  22 9  13    0   DelBonis-,P 
+ENGL 120MC 2   13593 Communications:Comm. Mindfully   3.00 N 51  5D  02:00pm 04:50pm W       GRAPPN 306  22 9  13    0   Huston,D 
+ENGL 120MC 3   13671 Communications:Comm. Mindfully   3.00 N 51  5D  09:00am 11:50am F       GRAPPN 207  22 2  20    0   Eaton,C 
+ENGL 120MC 4   13672 Communications:Comm. Mindfully   3.00 N 51  5D  09:00am 11:50am R       GRAPPN 207  22 6  16    0   Eaton,C 
+ENGL 120MC 5   13674 Communications:Comm. Mindfully   3.00 N 51  5D  09:00am 11:50am W       GRAPPN 306  22 6  16    0   DelBonis-,P 
+ENGL 120MC FZZ 16012 Communications:Comm. Mindfully   3.00 N 52  5O                          ONLINE      20 12 8     0   Huston,D 
+ENGL 120MC HON 13595 Communications:Comm. Mindfully   3.00 N 51  5D  02:00pm 04:50pm R       GRAPPN 323  15 2  13    0   Huston,D 
+ENGL 120MC LHY 15888 Communications:Comm. Mindfully   3.00 N 53  5E  05:30pm 08:00pm M                   22 0  22    0   Blake,A 
+ENGL 120MC LZ1 16015 Communications:Comm. Mindfully   3.00 N 53O 5O                          ONLINE      20 8  12    0   Woo,E 
+ENGL 120MC LZZ 16014 Communications:Comm. Mindfully   3.00 N 53O 5O                          ONLINE      20 7  13    0   Huston,D 
+ENGL 120MC W   15889 Communications:Comm. Mindfully   3.00 N 51  5E  05:30pm 08:10pm W                   22 3  19    0   Stockwell,L 
+ENGL 121C  R   15895 Introduction to Film             3.00 N 51  5E  05:30pm 08:50pm R       SWEENY 122  25 19 6     0   Ambra,S 
+ENGL 121C  R   15895 Introduction to Film             3.00 N 51  5E  05:30pm 08:50pm R       GRAPPN 106  25 19 6     0   Ambra,S 
+ENGL 125C  1   13688 Comm & The Lit of Sci & Techno   3.00 N 51  5D  11:00am 11:50am T       GRAPPN 207  25 10 15    0   Cushing,C 
+ENGL 125C  1   13688 Comm & The Lit of Sci & Techno   3.00 N 51  5D  12:00pm 01:50pm R       GRAPPN 207  25 10 15    0   Cushing,C 
+ENGL 125C  2   13605 Comm & The Lit of Sci & Techno   3.00 N 51  5D  03:00pm 03:50pm R       MACRUR 101  25 8  17    0   Cushing,C 
+ENGL 125C  2   13605 Comm & The Lit of Sci & Techno   3.00 N 51  5D  02:00pm 03:50pm T       GRAPPN 323  25 8  17    0   Cushing,C 
+ENGL 125C  T   15890 Comm & The Lit of Sci & Techno   3.00 N 51  5E  05:30pm 08:00pm T                   22 4  18    0   Watrous,R 
+ENGL 160C  ZZ  16109 Introduction to Poetry           3.00 N 5ZZ 5O                          ONLINE      20 8  12    0   Lindsay,A 
+ENGL 201C  1   13689 English Composition II           3.00 N 51  5D  09:00am 10:50am M       GRAPPN 207  25 7  18    0   Lindsay,A 
+ENGL 201C  1   13689 English Composition II           3.00 N 51  5D  09:00am 09:50am W       GRAPPN 207  25 7  18    0   Lindsay,A 
+ENGL 210C  1   13692 British Literature I             3.00 N 51  5D  02:00pm 02:50pm T       GRAPPN 324  25 6  19    0   Lindsay,A 
+ENGL 210C  1   13692 British Literature I             3.00 N 51  5D  01:00pm 02:50pm R       GRAPPN 324  25 6  19    0   Lindsay,A 
+ENGL 221FC 1   13693 Film Genres: Amer. Cult Cinema   3.00 N 51  5D  09:00am 11:50am R       SWEENY 122  25 20 5     0   Ambra,S 
+ENGL 286C  T   16264 Intro to Linguistics             3.00 N 51  5E  05:00pm 07:45pm T                   20 6  14    0   Higgins,D 
+ENGL 287C  ZZ  16110 Women In Literature              3.00 N 5ZZ 5O                          ONLINE      20 2  18    0   Lucas,K 
+ENGL 295AC 1   13697 Creative Writing: Fiction        3.00 N 51  5D  10:00am 10:50am W       MACRUR 137  15 15 0     0   Eaton,C 
+ENGL 295AC 1   13697 Creative Writing: Fiction        3.00 N 51  5D  10:00am 11:50am M       MACRUR 137  15 15 0     0   Eaton,C 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 13 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+ENGL 295DC 1   13695 Playwriting                      3.00 N 51  5D  01:00pm 01:50pm M       GRAPPN 207  18 2  16    0   Davis,J 
+ENGL 295DC 1   13695 Playwriting                      3.00 N 51  5D  12:00pm 01:50pm W       GRAPPN 207  18 2  16    0   Davis,J 
+ENVS 290C  1   14464 Senior Project/Internship        4.00 N 51  5D  09:00am 09:50am F       LITTLE 221  10 2  8     0   Lesser,T 
+ESOL 101C  1   14756 Basic Writing**                  3.00 N 51  5D  09:00am 10:20am W       FARNUM 105  12 0  12    0   Garvanovi,Y 
+ESOL 101C  1   14756 Basic Writing**                  3.00 N 51  5D  09:00am 10:20am M       LITTLE 201  12 0  12    0   Garvanovi,Y 
+ESOL 101C  M   16478 Basic Writing**                  3.00 N 51  5E  06:00pm 08:30pm M                   12 0  12    0   Rojas,R 
+ESOL 102C  1   14745 Pronunciation Matters**          3.00 N 51  5D  09:00am 11:50am F       SWEENY 308  12 1  11    0   Staff1,L 
+ESOL 102C  T   16483 Pronunciation Matters**          3.00 N 51  5E  06:00pm 08:30pm T                   12 0  12    0   Rojas,R 
+ESOL 201C  1   14754 Academic Writing**               3.00 N 51  5D  09:00am 10:20am R       MACRUR 208  12 0  12    0   Gunnison,F 
+ESOL 201C  1   14754 Academic Writing**               3.00 N 51  5D  09:00am 10:20am T       ESTANX A    12 0  12    0   Gunnison,F 
+ESOL 201C  2   14755 Academic Writing**               3.00 N 51  5D  12:30pm 03:20pm F       MACRUR 208  12 2  10    0   Staff1,L 
+ESOL 201C  M   16479 Academic Writing**               3.00 N 51  5E  06:00pm 08:30pm M                   12 0  12    0   Moylan,G 
+ESOL 201C  S   16486 Academic Writing**               3.00 N 51  5E  09:00am 11:40am S                   12 0  12    0   Moylan,G 
+ESOL 203C  1   14758 Grammar Practice**               3.00 N 51  5D  10:30am 11:50am MW      ESTANX A    12 0  12    0   Bourassa,C 
+ESOL 203C  R   16484 Grammar Practice**               3.00 N 51  5E  06:00pm 08:30pm R                   12 0  12    0   Rojas,R 
+ESOL 204C  1   14757 American Culture II**            3.00 N 51  5D  10:30am 11:50am MW      FARNUM 105  12 0  12    0   Garvanovi,Y 
+ESOL 205C  1   14744 Reading Comprehension**          3.00 N 51  5D  10:30am 11:50am TR      ESTANX A    12 1  11    0   Gunnison,F 
+ESOL 205C  2   14759 Reading Comprehension**          3.00 N 51  5D  10:30am 11:50am F       SWEENY 309  12 0  12    0   Bourassa,C 
+ESOL 205C  W   16485 Reading Comprehension**          3.00 N 51  5E  06:00pm 08:40pm W                   12 0  12    0   Moylan,G 
+FREN 121C  1   13703 French I                         3.00 N 51  5D  09:00am 10:50am M       GRAPPN 306  25 2  23    0   DelBonis-,P 
+FREN 121C  1   13703 French I                         3.00 N 51  5D  09:00am 09:50am R       GRAPPN 306  25 2  23    0   DelBonis-,P 
+FREN 122C  ZZ  16115 Elementary French II             3.00 N 5ZZ 5O                          ONLINE      20 1  19    0   Staff,D 
+GEOL 101C  1   14546 Essentials of Geology            4.00 N 51  5D  02:00pm 03:50pm T       LITTLE 131  16 4  12    0   Larson,A 
+GEOL 101C  1   14546 Essentials of Geology            4.00 N 51  5D  01:00pm 01:50pm R       LITTLE 131  16 4  12    0   Larson,A 
+GEOL 101C  1A  14548 Essentials of Geology             .00 N 51  5D  02:00pm 03:50pm R       LITTLE 131  16 4  12    0   Larson,A 
+GERM 115C  FZZ 16113 Elementary German                3.00 N 52  5O                          ONLINE      20 2  18    0   Burke,H 
+GERM 116C  LZZ 16114 Elementary German II             3.00 N 53O 5O                          ONLINE      20 0  20    0   Burke,H 
+GERN 195C  1   14092 Gerontology Practicum I          4.00 N 51  5D  03:00pm 04:50pm M       STDCTR 235  8  0  8     0   Dotter,M 
+GST 100C   1   14747 College Success Seminar          1.00 N 52  5D  08:00am 09:50am T       SWEENY 308  15 1  14    0   Diener,S 
+GST 100C   10  14259 College Success Seminar          1.00 N 52  5D  10:00am 11:50am W       STDCTR 235  15 0  15    0   Howland,L 
+GST 100C   11  14684 College Success Seminar          1.00 N 52  5D  10:00am 11:50am W       FARNUM 109  15 0  15    0   Martel,M 
+GST 100C   12  14750 College Success Seminar          1.00 N 52  5D  11:00am 12:50pm W       SWEENY 308  15 1  14    0   Diener,S 
+GST 100C   13  14094 College Success Seminar          1.00 N 52  5D  01:00pm 02:50pm W       STDCTR 235  15 0  15    0   Howland,L 
+GST 100C   14  14687 College Success Seminar          1.00 N 52  5D  02:00pm 03:50pm W       FARNUM 109  15 1  14    0   Martel,M 
+GST 100C   16  14751 College Success Seminar          1.00 N 52  5D  08:00am 09:50am R       SWEENY 308  15 0  15    0   Diener,S 
+GST 100C   18  14752 College Success Seminar          1.00 N 52  5D  10:00am 11:50am R       SWEENY 308  15 0  15    0   Diener,S 
+GST 100C   19  14685 College Success Seminar          1.00 N 52  5D  10:00am 11:50am R       FARNUM 109  15 1  14    0   Martel,M 
+GST 100C   22  14688 College Success Seminar          1.00 N 52  5D  02:00pm 03:50pm R       FARNUM 109  15 0  15    0   Martel,M 
+GST 100C   24  14126 College Success Seminar          1.00 N 52  5D  09:00am 10:50am F       SWEENY 307  15 0  15    0   Townsend,S 
+GST 100C   26  14127 College Success Seminar          1.00 N 52  5D  11:00am 12:50pm F       SWEENY 307  15 0  15    0   Townsend,S 
+GST 100C   27  15159 College Success Seminar          1.00 N 51  5D  01:00pm 01:50pm M       ESTANX A    15 0  15    0   Shurbert,J 
+GST 100C   28  15161 College Success Seminar          1.00 N 51  5D  02:00pm 02:50pm M       ESTANX A    15 0  15    0   Shurbert,J 
+GST 100C   3   14749 College Success Seminar          1.00 N 52  5D  10:00am 11:50am T       SWEENY 308  15 2  13    0   Diener,S 
+GST 100C   5   14683 College Success Seminar          1.00 N 52  5D  10:00am 11:50am T       FARNUM 109  15 0  15    0   Martel,M 
+GST 100C   6   14686 College Success Seminar          1.00 N 52  5D  02:00pm 03:50pm T       FARNUM 109  15 0  15    0   Martel,M 
+GST 100C   7   14093 College Success Seminar          1.00 N 52  5D  02:00pm 03:50pm T       STDCTR 235  15 0  15    0   Howland,L 
+GST 100C   9   14258 College Success Seminar          1.00 N 52  5D  08:00am 09:50am W       STDCTR 235  15 1  14    0   Howland,L 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 14 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+GST 100C   FZZ 15947 College Success Seminar          1.00 N 52  5O                          ONLINE      15 3  12    0   Howland,L 
+GST 100C   JS1 15867 College Success Seminar          1.00 N 5H1 5E  09:00am 12:30pm MTW                 15 1  14    0   Shurbert,J 
+GST 100C   JS1 15867 College Success Seminar          1.00 N 5H1 5E  09:00am 12:30pm RF                  15 1  14    0   Shurbert,J 
+GST 100C   JS2 15872 College Success Seminar          1.00 N 5H1 5E  09:00am 12:30pm RF                  15 0  15    0   Diener,S 
+GST 100C   JS2 15872 College Success Seminar          1.00 N 5H1 5E  09:00am 12:30pm MTW                 15 0  15    0   Diener,S 
+GST 100C   LZZ 15948 College Success Seminar          1.00 N 53O 5O                          ONLINE      15 0  15    0   Howland,L 
+GST 102C   1   14163 Study Strategies**               2.00 N 51  5D  09:00am 09:50am MW      SWEENY 308  15 0  15    0   Diener,S 
+GST 102C   2   14746 Study Strategies**               2.00 N 51  5D  10:00am 10:50am MW      SWEENY 308  15 2  13    0   Diener,S 
+GST 102C   3   14678 Study Strategies**               2.00 N 51  5D  11:00am 11:50am MW      SWEENY 307  15 1  14    0   Kirn,J 
+GST 102C   4   14763 Study Strategies**               2.00 N 51  5D  01:00pm 01:50pm MW      FARNUM 105  15 0  15    0   Kirn,J 
+GST 102C   5   14764 Study Strategies**               2.00 N 51  5D  02:00pm 02:50pm MW      FARNUM 105  15 0  15    0   Kirn,J 
+GST 102C   6   14256 Study Strategies**               2.00 N 51  5D  09:00am 09:50am TR      STDCTR 235  15 3  12    0   Howland,L 
+GST 102C   7   14257 Study Strategies**               2.00 N 51  5D  10:00am 10:50am TR      STDCTR 235  15 1  14    0   Howland,L 
+HIST 104C  1   14242 Western Civ. Antiquity to 1650   3.00 N 51  5D  10:00am 12:50pm W       SWEENY 210  25 2  23    0   Wallace,S 
+HIST 104C  2   14134 Western Civ. Antiquity to 1650   3.00 N 51  5D  09:00am 11:50am F       SWEENY 316  25 2  23    0   Wallace,S 
+HIST 105C  ZZ  16150 Western Civ. 1650-Present        3.00 N 5ZZ 5O                          ONLINE      20 4  16    0   Wallace,S 
+HIST 120C  1   14241 U.S. History to 1870             3.00 N 51  5D  10:00am 12:50pm M       SWEENY 210  25 10 15    0   Wallace,S 
+HIST 120C  2   13969 U.S. History to 1870             3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 311  25 7  18    0   Wallace,S 
+HIST 120C  W   15518 U.S. History to 1870             3.00 N 51  5E  05:30pm 08:10pm W                   25 0  25    0   Folan,M 
+HIST 121C  ZZ  16151 U.S. History 1870-Present        3.00 N 5ZZ 5O                          ONLINE      20 16 4     0   Wallace,S 
+HIST 132C  1   13954 World History II(1500 to Pres)   3.00 N 51  5D  01:00pm 03:50pm R       SWEENY 318  25 7  18    0   Wallace,S 
+HLTH 101C  LZZ 15943 Medical Terminology              3.00 N 53O 5O                          ONLINE      20 2  18  Y 0   Jean,M 
+HLTH 101C  W   16261 Medical Terminology              3.00 N 51  5E  05:30pm 08:10pm W       MACRUR 101  25 9  16    0   Brubaker,N 
+HLTH 101C  ZZ  15942 Medical Terminology              3.00 N 5ZZ 5O                          ONLINE      20 5  15    0   Jean,M 
+HLTH 104C  ZZ  16262 Health Care Data Cont & Deliv    3.00 N 5ZZ 5O                          ONLINE      20 1  19    0   Vachon,W 
+HLTH 150C  1   14136 Intro to Personal Wellness       1.00 N 51  5D  08:00am 09:50am T       SWEENY 315  20 17 3     0   Walton,T 
+HSTM 101C  1   14156 Intro to Hospitality & Tourism   3.00 N 51  5D  09:00am 11:50am T       SWEENY 310  25 5  20    0   Adams,M 
+HSTM 101C  FZZ 15933 Intro to Hospitality & Tourism   3.00 N 52  5O                          ONLINE      20 0  20    0   Robbio-Ma,L 
+HSTM 101C  W   15512 Intro to Hospitality & Tourism   3.00 N 51  5E  06:00pm 08:40pm W       SWEENY 310  25 1  24    0   Lippincot,C 
+HSTM 110C  T   16263 Intro to Hotel Operations        3.00 N 51  5E  05:30pm 08:00pm T       SWEENY 310  25 3  22    0   Staff,D 
+HSTM 110C  ZZ  15921 Intro to Hotel Operations        3.00 N 5ZZ 5O                          ONLINE      20 4  16    0   Robbio-Ma,L 
+HSTM 140C  LZZ 15935 Domestic & International Tour    4.00 N 53O 5O                          ONLINE      20 1  19    0   Staff,D 
+HSTM 210C  1   15272 Information Tech for Tourism     3.00 N 51  5D  01:00pm 02:50pm W       GRAPPN 218  18 8  10    0   Adams,M 
+HSTM 210C  A1  16279 Information Tech for Tourism      .00 N 51  5D  03:00pm 04:50pm W       GRAPPN 218  18 8  10    0   Adams,M 
+HSTM 211C  LHY 16285 Sports Tourism                   3.00 N 53  5E  06:00pm 08:30pm M       SWEENY 310  25 1  24    0   Adams,M 
+HSTM 225C  ZZ  15918 Front Office Opperations         3.00 N 5ZZ 5O                          ONLINE      20 0  20    0   Robbio-Ma,L 
+HSTM 227C  FZZ 15923 Legal Iss. for Hospitality Ind   3.00 N 52  5O                          ONLINE      20 7  13    0   Adams,M 
+HSTM 230BC LZZ 15927 Prin Ecotourism Management       3.00 N 53O 5O                          ONLINE      20 4  16    0   Staff,D 
+HSTM 245C  1   13973 Event Mtg & Convention Plan      3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 310  25 6  19    0   Adams,M 
+HSTM 280C  LZZ 15929 Senior Travel Seminar            2.00 N 53O 5O                          ONLINE      20 1  19    0   Robbio-Ma,L 
+HSTM 290C  T   15513 Hospitality & Tourism Intern     3.00 N 51  5E  06:00pm 07:00pm T                   10 1  9     0   Adams,M 
+HSV 104C   1   13956 Intro to Practicum Experience    2.00 N 51  5D  02:00pm 03:50pm M       SWEENY 315  20 7  13    0   Curran,K 
+HSV 111C   2   13978 Intro to Human Services I        3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 309  20 7  13    0   Curran,K 
+HSV 111C   FHY 14743 Intro to Human Services I        3.00 N 52  5D  02:00pm 04:50pm W       SWEENY 309  25 5  20    0   Curran,K 
+HSV 111C   M   15707 Intro to Human Services I        3.00 N 51  5E  05:30pm 08:00pm M       SWEENY 318  20 7  13    0   Bluhm,B 
+HSV 195C   1   14079 Human Service Prac I             4.00 N 51  5D  03:00pm 04:50pm M       STDCTR 235  8  6  2     0   Dotter,M 
+HSV 195C   2   14089 Human Service Prac I             4.00 N 51  5D  03:00pm 04:50pm M       SWEENY 212  8  0  8     0   Cannon,P 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 15 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+HSV 195C   T   15841 Human Service Prac I             4.00 N 51  5E  05:30pm 07:00pm T       SWEENY 309  8  6  2     0   Curran,K 
+HSV 221C   1   13957 Social & Prof Issues in Todays   3.00 N 51  5D  02:00pm 04:50pm M       SWEENY 318  25 6  19    0   Bluhm,B 
+HSV 221C   T   15706 Social & Prof Issues in Todays   3.00 N 51  5E  05:30pm 08:00pm T       SWEENY 317  20 6  14    0   Wilder,L 
+HSV 221C   ZZ  15949 Social & Prof Issues in Todays   3.00 N 5ZZ 5O                          ONLINE      20 12 8     0   O'Bryant,M 
+HSV 242C   LHY 14157 Ethics and the Prof. Helper      3.00 N 53  5D  10:00am 12:50pm M       SWEENY 309  20 2  18    0   Reardon,K 
+HSV 242C   ZZ  16105 Ethics and the Prof. Helper      3.00 N 5ZZ 5O                          ONLINE      20 2  18    0   O'Bryant,M 
+HSV 298C   1   14090 Human Service Pract II           4.00 N 51  5D  03:00pm 04:50pm M       SWEENY 212  8  4  4     0   Cannon,P 
+HSV 298C   T   15847 Human Service Pract II           4.00 N 51  5E  05:30pm 07:00pm T       SWEENY 309  8  5  3     0   Curran,K 
+INDL 101C  1   14146 STEM in the First Year Exper.    3.00 N 51  5D  12:00pm 01:20pm R       MACRUR 138  15 6  9     0   Strong,N 
+INDL 101C  1   14146 STEM in the First Year Exper.    3.00 N 51  5D  12:30pm 01:50pm M       MACRUR 217  15 6  9     0   Strong,N 
+INDL 101C  2   14286 STEM in the First Year Exper.    3.00 N 51  5D  12:00pm 01:20pm R       MACRUR 138  15 1  14    0   Chase,E 
+INDL 101C  2   14286 STEM in the First Year Exper.    3.00 N 51  5D  12:30pm 01:50pm M       MACRUR 217  15 1  14    0   Chase,E 
+INDL 120C  1   14186 Global Public Health Issues      3.00 N 51  5D  09:00am 11:50am M       SWEENY 220  20 18 2     3   Tshabangu,S 
+INDL 120C  LZZ 16477 Global Public Health Issues      3.00 N 53O 5O                          ONLINE      20 1  19    0   Staff,D 
+IST 102AC  1   14504 PC Applications Accelerated      3.00 N 51  5D  11:00am 11:50am T       LITTLE 205  15 2  13    0   Shannon,F 
+IST 102C   1   14221 PC Applications                  3.00 N 51  5D  09:00am 11:50am M       SWEENY 218  19 8  11    0   Osborne,B 
+IST 102C   10  14229 PC Applications                  3.00 N 51  5D  02:00pm 04:50pm R       SWEENY 218  19 3  16    0   Staff1,I 
+IST 102C   11  15280 PC Applications                  3.00 N 51  5D  09:00am 11:50am F       SWEENY 218  19 3  16    0   Layne,D 
+IST 102C   12  14230 PC Applications                  3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 218  19 3  16    0   McDaniel,K 
+IST 102C   13  14231 PC Applications                  3.00 N 51  5D  01:00pm 03:50pm F       SWEENY 218  19 0  19    0   Layne,D 
+IST 102C   2   14228 PC Applications                  3.00 N 51  5D  02:00pm 04:50pm W       SWEENY 218  19 9  10    0   Wakelin,J 
+IST 102C   3   14740 PC Applications                  3.00 N 51  5D  02:00pm 04:50pm R       FARNUM 101  19 4  15    0   Remillard,D 
+IST 102C   4   14739 PC Applications                  3.00 N 51  5D  09:00am 11:50am R       FARNUM 101  19 6  13    0   Staff1,I 
+IST 102C   5   14213 PC Applications                  3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 217  19 5  14    0   Snyder,M 
+IST 102C   6   14209 PC Applications                  3.00 N 51  5D  09:00am 11:50am F       SWEENY 217  19 1  18    0   Osborne,B 
+IST 102C   7   14220 PC Applications                  3.00 N 51  5D  01:00pm 03:50pm F       SWEENY 217  19 1  18    0   Osborne,B 
+IST 102C   8   14503 PC Applications                  3.00 N 51  5D  08:00am 10:50am T       LITTLE 205  19 3  16    0   Shannon,F 
+IST 102C   9   15277 PC Applications                  3.00 N 51  5D  09:00am 11:50am W       SWEENY 218  19 5  14    0   Shannon,F 
+IST 102C   F1  14722 PC Applications                  3.00 N 52  5D  02:00pm 04:50pm T       FARNUM 101  19 0  19    0   Remillard,D 
+IST 102C   FHY 16253 PC Applications                  3.00 N 52  5E  05:30pm 08:00pm M       SWEENY 218  19 1  18    0   Staff,D 
+IST 102C   FY2 14384 PC Applications                  3.00 N 51  5D  09:00am 11:50am W       MACRUR 208  18 1  17    0   Shurbert,J 
+IST 102C   FYE 14383 PC Applications                  3.00 N 51  5D  09:00am 11:50am M       MACRUR 208  18 0  18    0   Shurbert,J 
+IST 102C   FZZ 15944 PC Applications                  3.00 N 52  5O                          ONLINE      20 9  11    0   Snyder,M 
+IST 102C   HY  16376 PC Applications                  3.00 N 5S  5E  09:00am 12:00pm S       SWEENY 218  19 0  19    0   Harringto,F 
+IST 102C   HY  16376 PC Applications                  3.00 N 5S  5E  09:00am 12:00pm S       SWEENY 218  19 0  19    0   Harringto,F 
+IST 102C   HY  16376 PC Applications                  3.00 N 5S  5E  09:00am 12:00pm S       SWEENY 218  19 0  19    0   Harringto,F 
+IST 102C   HY  16376 PC Applications                  3.00 N 5S  5E  09:00am 12:00pm S       SWEENY 218  19 0  19    0   Harringto,F 
+IST 102C   L1  14724 PC Applications                  3.00 N 53  5D  02:00pm 04:50pm T       FARNUM 101  19 1  18    0   Remillard,D 
+IST 102C   LHY 16254 PC Applications                  3.00 N 53  5E  05:30pm 08:00pm M       SWEENY 218  19 1  18    0   Staff,D 
+IST 102C   LZZ 15945 PC Applications                  3.00 N 53O 5O                          ONLINE      20 4  16    0   Snyder,M 
+IST 102C   T   16255 PC Applications                  3.00 N 51  5E  05:30pm 08:00pm T       SWEENY 218  19 1  18    0   Gibney,D 
+IST 102C   W   16252 PC Applications                  3.00 N 51  5E  05:30pm 08:10pm W       SWEENY 218  19 0  19    0   Keane,N 
+IST 102C   ZZ  15946 PC Applications                  3.00 N 5ZZ 5O                          ONLINE      20 8  12    0   Remillard,D 
+IST 102XC  1   14223 PC Applications Extended         3.00 N 51  5D  08:00am 09:50am T       SWEENY 218  15 0  15    0   Remillard,D 
+IST 102XC  1A  14224 PC Applications Extended          .00 N 51  5D  08:00am 09:50am R       SWEENY 218  15 0  15    0   Remillard,D 
+IST 102XC  2   14226 PC Applications Extended         3.00 N 51  5D  10:00am 11:50am T       SWEENY 218  15 2  13    0   Remillard,D 
+IST 102XC  2A  14227 PC Applications Extended          .00 N 51  5D  10:00am 11:50am R       SWEENY 218  15 2  13    0   Remillard,D 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 16 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+IST 102XC  3   14385 PC Applications Extended         3.00 N 51  5D  01:00pm 02:50pm M       MACRUR 208  15 4  11    0   Gibney,D 
+IST 102XC  3A  14386 PC Applications Extended          .00 N 51  5D  01:00pm 02:50pm W       MACRUR 208  15 4  11    0   Gibney,D 
+IST 102XC  4   14583 PC Applications Extended         3.00 N 51  5D  02:00pm 03:50pm T       LITTLE 110  15 0  15    0   Layne,D 
+IST 102XC  4A  14584 PC Applications Extended          .00 N 51  5D  02:00pm 03:50pm R       LITTLE 110  15 0  15    0   Layne,D 
+IST 102XC  5   14585 PC Applications Extended         3.00 N 51  5D  02:00pm 03:50pm W       LITTLE 110  15 0  15    0   Staff1,I 
+IST 102XC  5A  14586 PC Applications Extended          .00 N 51  5D  01:00pm 02:50pm F       LITTLE 110  15 0  15    0   Staff1,I 
+IST 106C   1   14638 IT Career Topics                 1.00 N 52  5D  02:00pm 03:50pm T       GRAPPN 106  96 12 84    0   Conn,A 
+IST 108C   R   16163 Pers. Computer Hardware & Soft   3.00 N 51  5E  05:30pm 07:10pm R       FARNUM 102  15 6  9     0   Staff,D 
+IST 108C   RL  16164 Pers. Computer Hardware & Soft    .00 N 51  5E  07:11pm 08:50pm R       FARNUM 102  15 6  9     0   Staff,D 
+IST 110C   M   16157 Programming Fundamentals         3.00 N 51  5E  05:30pm 07:10pm M       FARNUM 101  19 5  14    0   Yusuf,M 
+IST 110C   ML  16158 Programming Fundamentals          .00 N 51  5E  07:11pm 08:50pm M       FARNUM 101  19 5  14    0   Yusuf,M 
+IST 140C   1   14200 Database Design & Management     3.00 N 51  5D  08:00am 09:50am M       SWEENY 217  16 3  13    0   Staff1,I 
+IST 140C   1A  14202 Database Design & Management      .00 N 51  5D  10:00am 11:50am M       SWEENY 217  16 3  13    0   Staff1,I 
+IST 140C   2   14203 Database Design & Management     3.00 N 51  5D  08:00am 09:50am T       SWEENY 217  16 3  13    0   Staff1,I 
+IST 140C   2A  14204 Database Design & Management      .00 N 51  5D  10:00am 11:50am T       SWEENY 217  16 3  13    0   Staff1,I 
+IST 140C   3   14205 Database Design & Management     3.00 N 51  5D  08:00am 09:50am W       SWEENY 217  16 1  15    0   Yusuf,M 
+IST 140C   3A  14206 Database Design & Management      .00 N 51  5D  10:00am 11:50am W       SWEENY 217  16 1  15    0   Yusuf,M 
+IST 140C   4   14207 Database Design & Management     3.00 N 51  5D  08:00am 09:50am R       SWEENY 217  16 2  14    0   Yusuf,M 
+IST 140C   4A  14208 Database Design & Management      .00 N 51  5D  10:00am 11:50am R       SWEENY 217  16 2  14    0   Yusuf,M 
+IST 140C   5   14217 Database Design & Management     3.00 N 51  5D  01:00pm 02:50pm R       SWEENY 217  19 3  16    0   Yusuf,M 
+IST 140C   5A  14219 Database Design & Management      .00 N 51  5D  03:00pm 04:50pm R       SWEENY 217  19 3  16    0   Yusuf,M 
+IST 140C   R   16165 Database Design & Management     3.00 N 51  5E  05:30pm 07:10pm R       SWEENY 217  19 6  13    0   Yusuf,M 
+IST 140C   RL  16166 Database Design & Management      .00 N 51  5E  07:11pm 08:50pm R       SWEENY 217  19 6  13    0   Yusuf,M 
+IST 151C   1   14695 Introduction to Networks         3.00 N 51  5D  08:00am 09:50am M       FARNUM 104  15 4  11    0   Conn,A 
+IST 151C   1A  14696 Introduction to Networks          .00 N 51  5D  10:00am 11:50am M       FARNUM 104  15 4  11    0   Conn,A 
+IST 151C   2   14692 Introduction to Networks         3.00 N 51  5D  08:00am 09:50am T       FARNUM 104  15 3  12    0   Staff1,I 
+IST 151C   2A  14694 Introduction to Networks          .00 N 51  5D  10:00am 11:50am T       FARNUM 104  15 3  12    0   Staff1,I 
+IST 151C   3   14697 Introduction to Networks         3.00 N 51  5D  08:00am 09:50am W       FARNUM 102  15 2  13    0   Staff1,I 
+IST 151C   3A  14698 Introduction to Networks          .00 N 51  5D  10:00am 11:50am W       FARNUM 102  15 2  13    0   Staff1,I 
+IST 151C   4   14699 Introduction to Networks         3.00 N 51  5D  01:00pm 02:50pm R       FARNUM 104  15 5  10    0   Staff1,I 
+IST 151C   4A  14700 Introduction to Networks          .00 N 51  5D  03:00pm 04:50pm R       FARNUM 104  15 5  10    0   Staff1,I 
+IST 151C   5   14670 Introduction to Networks         3.00 N 51  5D  08:00am 09:50am W       FARNUM 104  15 0  15    0   Conn,A 
+IST 151C   5A  14672 Introduction to Networks          .00 N 51  5D  10:00am 11:50am W       FARNUM 104  15 0  15    0   Conn,A 
+IST 151C   HY  14674 Introduction to Networks         3.00 N 51  5D  08:00am 09:50am R       FARNUM 104  15 0  15    0   Conn,A 
+IST 151C   HY  14674 Introduction to Networks         3.00 N 51  5D  08:00am 09:50am R       FARNUM 104  15 0  15    0   Conn,A 
+IST 151C   HY  14674 Introduction to Networks         3.00 N 51  5D  08:00am 09:50am R       FARNUM 104  15 0  15    0   Conn,A 
+IST 151C   HY  14674 Introduction to Networks         3.00 N 51  5D  08:00am 09:50am R       FARNUM 104  15 0  15    0   Conn,A 
+IST 151C   HY  14674 Introduction to Networks         3.00 N 51  5D  08:00am 09:50am R       FARNUM 104  15 0  15    0   Conn,A 
+IST 151C   HYL 14675 Introduction to Networks          .00 N 51  5D  10:00am 11:50am R       FARNUM 104  15 0  15    0   Conn,A 
+IST 151C   HYL 14675 Introduction to Networks          .00 N 51  5D  10:00am 11:50am R       FARNUM 104  15 0  15    0   Conn,A 
+IST 151C   HYL 14675 Introduction to Networks          .00 N 51  5D  10:00am 11:50am R       FARNUM 104  15 0  15    0   Conn,A 
+IST 151C   HYL 14675 Introduction to Networks          .00 N 51  5D  10:00am 11:50am R       FARNUM 104  15 0  15    0   Conn,A 
+IST 151C   HYL 14675 Introduction to Networks          .00 N 51  5D  10:00am 11:50am R       FARNUM 104  15 0  15    0   Conn,A 
+IST 151C   W   16329 Introduction to Networks         3.00 N 51  5E  05:30pm 07:10pm W       FARNUM 104  15 3  12    0   Conn,A 
+IST 151C   WL  16330 Introduction to Networks          .00 N 51  5E  07:11pm 08:50pm W       FARNUM 104  15 3  12    0   Conn,A 
+IST 153C   2   14707 Routing & Switching Essentials   3.00 N 51  5D  01:00pm 02:50pm R       FARNUM 102  15 6  9     0   Shurbert,W 
+IST 153C   2A  14708 Routing & Switching Essentials    .00 N 51  5D  03:00pm 04:50pm R       FARNUM 102  15 6  9     0   Shurbert,W 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 17 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+IST 153C   T   16171 Routing & Switching Essentials   3.00 N 51  5E  05:30pm 07:10pm T       FARNUM 102  15 4  11    0   Shurbert,W 
+IST 153C   TL  16172 Routing & Switching Essentials    .00 N 51  5E  07:11pm 08:50pm T       FARNUM 102  15 4  11    0   Shurbert,W 
+IST 200C   LZZ 16462 Spreadsheets                     3.00 N 53O 5O                          ONLINE      20 6  14    0   Shurbert,J 
+IST 200C   R   16256 Spreadsheets                     3.00 N 51  5E  05:30pm 08:00pm R                   19 4  15    0   Harringto,F 
+IST 210C   1   14211 Object Oriented Programming      3.00 N 51  5D  01:00pm 02:50pm M       SWEENY 217  19 12 7     0   Yusuf,M 
+IST 210C   1A  14212 Object Oriented Programming       .00 N 51  5D  03:00pm 04:50pm M       SWEENY 217  19 12 7     0   Yusuf,M 
+IST 210C   2   14214 Object Oriented Programming      3.00 N 51  5D  01:00pm 02:50pm W       SWEENY 217  19 11 8     0   Yusuf,M 
+IST 210C   2A  14215 Object Oriented Programming       .00 N 51  5D  03:00pm 04:50pm W       SWEENY 217  19 11 8     0   Yusuf,M 
+IST 213C   1   14712 Intro to Web Programming         3.00 N 51  5D  01:30pm 03:20pm M       FARNUM 101  19 13 6     0   Laurie,T 
+IST 213C   1A  14714 Intro to Web Programming          .00 N 51  5D  03:30pm 05:20pm M       FARNUM 101  19 13 6     0   Laurie,T 
+IST 213C   2   14719 Intro to Web Programming         3.00 N 51  5D  01:00pm 02:50pm W       FARNUM 101  19 13 6     0   Laurie,T 
+IST 213C   2A  14720 Intro to Web Programming          .00 N 51  5D  03:00pm 04:50pm W       FARNUM 101  19 13 6     0   Laurie,T 
+IST 215C   W   16173 Adv Windows Programming          3.00 N 51  5E  05:30pm 07:10pm W       SWEENY 217  19 3  16    0   Yusuf,M 
+IST 215C   WL  16174 Adv Windows Programming           .00 N 51  5E  07:11pm 09:05pm W       SWEENY 217  19 3  16    0   Yusuf,M 
+IST 251C   1   14701 Scaling Networks                 3.00 N 51  5D  01:00pm 02:50pm M       FARNUM 102  15 15 0     0   Shurbert,W 
+IST 251C   1A  14702 Scaling Networks                  .00 N 51  5D  03:00pm 04:50pm M       FARNUM 102  15 15 0     0   Shurbert,W 
+IST 251C   M   16155 Scaling Networks                 3.00 N 51  5E  05:30pm 07:10pm M       FARNUM 102  15 11 4     0   Shurbert,W 
+IST 251C   ML  16156 Scaling Networks                  .00 N 51  5E  07:11pm 08:50pm M       FARNUM 102  15 11 4     0   Shurbert,W 
+IST 253C   1   16308 Connecting Networks              3.00 N 51  5D  08:00am 09:50am R       FARNUM 102  15 5  10    0   Lance,F 
+IST 253C   1A  16309 Connecting Networks               .00 N 51  5D  10:00am 11:50am R       FARNUM 102  15 5  10    0   Lance,F 
+IST 253C   T   16167 Connecting Networks              3.00 N 51  5E  05:30pm 07:10pm T       FARNUM 104  15 12 3     0   Lance,F 
+IST 253C   TL  16168 Connecting Networks               .00 N 51  5E  07:11pm 08:50pm T       FARNUM 104  15 12 3     0   Lance,F 
+IST 263C   M   16161 Security                         3.00 N 51  5E  05:30pm 07:10pm M       FARNUM 104  15 10 5     0   Conn,A 
+IST 263C   ML  16162 Security                          .00 N 51  5E  07:11pm 09:05pm M       FARNUM 104  15 10 5     0   Conn,A 
+IST 280C   1   14709 Windows Server Operating Syst.   3.00 N 51  5D  08:00am 09:50am M       FARNUM 101  19 19 0     0   Lance,F 
+IST 280C   1A  14711 Windows Server Operating Syst.    .00 N 51  5D  10:00am 11:50am M       FARNUM 101  19 19 0     0   Lance,F 
+IST 280C   2   14715 Windows Server Operating Syst.   3.00 N 51  5D  08:00am 09:50am W       FARNUM 101  19 18 1     0   Lance,F 
+IST 280C   2A  14716 Windows Server Operating Syst.    .00 N 51  5D  10:00am 11:50am W       FARNUM 101  19 18 1     0   Lance,F 
+IST 280C   HY  16159 Windows Server Operating Syst.   3.00 N 51  5E  05:30pm 07:10pm R       FARNUM 101  19 16 3     0   Lance,F 
+IST 280C   HY  16159 Windows Server Operating Syst.   3.00 N 51  5E  05:30pm 07:10pm R       FARNUM 101  19 16 3     0   Lance,F 
+IST 280C   HY  16159 Windows Server Operating Syst.   3.00 N 51  5E  05:30pm 07:10pm R       FARNUM 101  19 16 3     0   Lance,F 
+IST 280C   HYL 16160 Windows Server Operating Syst.    .00 N 51  5E  07:11pm 08:50pm R       FARNUM 101  19 16 3     0   Lance,F 
+IST 280C   HYL 16160 Windows Server Operating Syst.    .00 N 51  5E  07:11pm 08:50pm R       FARNUM 101  19 16 3     0   Lance,F 
+IST 280C   HYL 16160 Windows Server Operating Syst.    .00 N 51  5E  07:11pm 08:50pm R       FARNUM 101  19 16 3     0   Lance,F 
+IST 282C   1   14705 Virtualization                   3.00 N 51  5D  01:00pm 02:50pm W       FARNUM 102  15 14 1     0   Shurbert,W 
+IST 282C   1A  14706 Virtualization                    .00 N 51  5D  03:00pm 04:50pm W       FARNUM 102  15 14 1     0   Shurbert,W 
+IST 282C   W   16169 Virtualization                   3.00 N 51  5E  05:30pm 07:10pm W       FARNUM 102  15 15 0     0   Shurbert,W 
+IST 282C   WL  16170 Virtualization                    .00 N 51  5E  07:11pm 09:05pm W       FARNUM 102  15 15 0     0   Shurbert,W 
+IST 293C   1   14255 IT Career Development            2.00 N 51  5D  09:00am 11:50am T       FARNUM 101  60 45 15    0   Laurie,T 
+IST 293C   1   14255 IT Career Development            2.00 N 51  5D  09:00am 11:50am T       MACRUR 208  60 45 15    0   Laurie,T 
+IST 293C   1   14255 IT Career Development            2.00 N 51  5D  09:00am 11:50am T       FARNUM 102  60 45 15    0   Laurie,T 
+IST 293C   1   14255 IT Career Development            2.00 N 51  5D  09:00am 11:50am T       SWEENY 122  60 45 15    0   Laurie,T 
+LAND 101C  T   16057 Identification & Uses of Trees   3.00 N 51  5E  06:00pm 08:30pm T       SWEENY 314  25 3  22    0   Pollock,R 
+LAND 109C  R   16060 Basic Site Grading & Surveying   3.00 N 51  5E  06:00pm 07:40pm R       LITTLE 205  12 3  9     0   Sandford,E 
+LAND 109C  RL  16061 Basic Site Grading & Surveying    .00 N 51  5E  07:41pm 09:20pm R       LITTLE 205  12 3  9     0   Sandford,E 
+LAND 115C  R   16058 Landscape Arch. Design Theory    3.00 N 51  5E  06:00pm 08:30pm R       SWEENY 314  25 3  22    0   Pollock,R 
+LAND 220C  T   16059 Planting Design                  3.00 N 51  5E  06:00pm 08:30pm T       LITTLE 204  25 5  20    0   Smith Mey,S 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 18 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+LAND 290C  1   15289 Senior Project/Internship        4.00 N 51  5D                          OFFCMP      10 0  10    0   Smith Mey,S 
+LGNC 106C  W   16177 Legal Nurse Consult Internship   3.00 N 51  5E  06:00pm 07:30pm W       FARNUM 105  10 0  10    0   Peters,S 
+MATH 091C  1   14137 Prealgebra**                     4.00 N 51  5D  10:00am 11:50am T       SWEENY 315  23 5  18    0   Devine,S 
+MATH 091C  1   14137 Prealgebra**                     4.00 N 51  5D  11:00am 12:50pm R       SWEENY 315  23 5  18    0   Devine,S 
+MATH 091C  2   14480 Prealgebra**                     4.00 N 51  5D  02:00pm 03:50pm TR      LITTLE 221  23 8  15    0   Devine,S 
+MATH 091C  3   14128 Prealgebra**                     4.00 N 51  5D  08:00am 09:50am MW      SWEENY 316  23 5  18    0   Love,M 
+MATH 091C  M   16421 Prealgebra**                     4.00 N 51  5E  05:30pm 08:50pm M       LITTLE 114  20 2  18    0   Froton,E 
+MATH 093C  1   14549 Algebra Pt I (with Geometry)**   4.00 N 51  5D  08:00am 09:50am MR      LITTLE 114  23 0  23    0   Staff1,M 
+MATH 093C  10  14570 Algebra Pt I (with Geometry)**   4.00 N 51  5D  08:00am 09:50am WF      LITTLE 113  23 2  21    0   King,J 
+MATH 093C  11  14500 Algebra Pt I (with Geometry)**   4.00 N 51  5D  09:00am 10:50am WF      LITTLE 214  23 1  22    0   Staff1,M 
+MATH 093C  12  15826 Algebra Pt I (with Geometry)**   4.00 N 51  5D  08:00am 09:50am R       SWEENY 307  23 3  20    0   Johnson-C,Z 
+MATH 093C  12  15826 Algebra Pt I (with Geometry)**   4.00 N 51  5D  08:00am 09:50am T       GRAPPN 324  23 3  20    0   Johnson-C,Z 
+MATH 093C  2   14601 Algebra Pt I (with Geometry)**   4.00 N 51  5D  01:00pm 02:50pm W       GRAPPN 325  23 3  20    0   Zeller,L 
+MATH 093C  2   14601 Algebra Pt I (with Geometry)**   4.00 N 51  5D  12:00pm 01:50pm F       GRAPPN 325  23 3  20    0   Zeller,L 
+MATH 093C  3   14660 Algebra Pt I (with Geometry)**   4.00 N 51  5D  11:00am 12:50pm MR      GRAPPN 324  23 7  16    0   Zeller,L 
+MATH 093C  4   14679 Algebra Pt I (with Geometry)**   4.00 N 51  5D  09:00am 10:50am MW      SWEENY 307  23 4  19    0   Heath,R 
+MATH 093C  5   14087 Algebra Pt I (with Geometry)**   4.00 N 51  5D  12:00pm 01:50pm MW      SWEENY 314  23 1  22    0   Staff1,M 
+MATH 093C  6   14554 Algebra Pt I (with Geometry)**   4.00 N 51  5D  02:00pm 03:50pm MW      LITTLE 221  23 6  17    0   French,T 
+MATH 093C  7   14240 Algebra Pt I (with Geometry)**   4.00 N 51  5D  12:00pm 01:50pm MW      SWEENY 211  23 1  22    0   Heath,R 
+MATH 093C  8   13604 Algebra Pt I (with Geometry)**   4.00 N 51  5D  12:00pm 01:50pm MR      SWEENY 316  23 0  23    0   List,S 
+MATH 093C  9   14478 Algebra Pt I (with Geometry)**   4.00 N 51  5D  08:00am 09:50am TR      LITTLE 221  23 1  22    0   King,J 
+MATH 093C  FZZ 16116 Algebra Pt I (with Geometry)**   4.00 N 52  5O                          ONLINE      20 0  20    0   Wood,H 
+MATH 093C  HY1 16340 Algebra Pt I (with Geometry)**   4.00 N 51  5D  01:00pm 02:50pm F       GRAPPN 306  23 1  22    0   Hopper,A 
+MATH 093C  HY2 16341 Algebra Pt I (with Geometry)**   4.00 N 51  5D  11:00am 12:50pm M       GRAPPN 306  23 0  23    0   Hopper,A 
+MATH 093C  HY3 16343 Algebra Pt I (with Geometry)**   4.00 N 51  5D  11:00am 12:50pm F       GRAPPN 306  23 0  23    0   Shagena,D 
+MATH 093C  HY4 16342 Algebra Pt I (with Geometry)**   4.00 N 51  5D  02:00pm 03:50pm R       GRAPPN 306  23 1  22    0   Zeller,L 
+MATH 093C  HY5 16344 Algebra Pt I (with Geometry)**   4.00 N 51  5D  12:00pm 01:50pm R       GRAPPN 306  23 2  21    0   Sawal,K 
+MATH 093C  HY6 16345 Algebra Pt I (with Geometry)**   4.00 N 51  5D  02:00pm 03:50pm T       GRAPPN 306  23 0  23    0   Sawal,K 
+MATH 093C  M   16230 Algebra Pt I (with Geometry)**   4.00 N 51  5E  06:00pm 09:20pm M                   20 0  20    0   Service,L 
+MATH 093C  R   16231 Algebra Pt I (with Geometry)**   4.00 N 51  5E  05:30pm 08:50pm R                   20 0  20    0   O'Sulliva,A 
+MATH 093C  S   16426 Algebra Pt I (with Geometry)**   4.00 N 5S  5E  09:00am 12:40pm S                   20 0  20    0   Froton,E 
+MATH 093C  ZZ  16117 Algebra Pt I (with Geometry)**   4.00 N 5ZZ 5O                          ONLINE      20 4  16    0   Donovan,M 
+MATH 093C  ZZ1 16118 Algebra Pt I (with Geometry)**   4.00 N 5ZZ 5O                          ONLINE      20 1  19    0   Wood,H 
+MATH 094C  1   14482 Algebra Pt II (with Trig.)**     4.00 N 51  5D  03:00pm 04:50pm MW      GRAPPN 325  23 7  16    0   List,S 
+MATH 094C  2   14495 Algebra Pt II (with Trig.)**     4.00 N 51  5D  08:00am 09:50am TR      LITTLE 214  23 7  16    0   Staff1,M 
+MATH 094C  3   14419 Algebra Pt II (with Trig.)**     4.00 N 51  5D  01:00pm 02:50pm R       MACRUR 101  23 7  16    0   Bramson,I 
+MATH 094C  3   14419 Algebra Pt II (with Trig.)**     4.00 N 51  5D  02:00pm 03:50pm T       MACRUR 101  23 7  16    0   Bramson,I 
+MATH 094C  FZZ 16368 Algebra Pt II (with Trig.)**     4.00 N 52  5O                          ONLINE      20 3  17    0   Zeller,L 
+MATH 094C  LZZ 16119 Algebra Pt II (with Trig.)**     4.00 N 53O 5O                          ONLINE      20 2  18    0   Wood,H 
+MATH 094C  R   16326 Algebra Pt II (with Trig.)**     4.00 N 51  5E  05:30pm 08:50pm R                   20 3  17    0   Staff,D 
+MATH 094C  T   16232 Algebra Pt II (with Trig.)**     4.00 N 51  5E  05:30pm 08:50pm T                   20 2  18    0   Fegley,N 
+MATH 094C  ZZ  16120 Algebra Pt II (with Trig.)**     4.00 N 5ZZ 5O                          ONLINE      20 6  14    0   Hart,L 
+MATH 094C  ZZ1 16121 Algebra Pt II (with Trig.)**     4.00 N 5ZZ 5O                          ONLINE      20 2  18    0   Cook,K 
+MATH 115C  HY  16346 Practi Math in Elec Tech**       1.00 N 5H2 5D  01:00pm 03:50pm MTWRF   LITTLE 235  14 0  14    0   Hart,L 
+MATH 115C  HY  16346 Practi Math in Elec Tech**       1.00 N 5H2 5D  09:00am 11:50am MTWRF   LITTLE 230  14 0  14    0   Hart,L 
+MATH 120C  1   14605 Topics in Applied College Math   4.00 N 51  5D  12:00pm 01:50pm MR      GRAPPN 323  25 15 10    0   Cook,K 
+MATH 120C  2   14610 Topics in Applied College Math   4.00 N 51  5D  08:00am 09:50am WF      GRAPPN 323  25 3  22    0   Cook,K 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 19 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+MATH 120C  3   14474 Topics in Applied College Math   4.00 N 51  5D  08:00am 09:50am MW      LITTLE 221  25 0  25    0   Brennan,M 
+MATH 120C  4   14475 Topics in Applied College Math   4.00 N 51  5D  10:00am 11:50am MW      LITTLE 221  25 10 15    0   Brennan,M 
+MATH 120C  FZZ 16122 Topics in Applied College Math   4.00 N 52  5O                          ONLINE      20 9  11    0   Wood,M 
+MATH 120C  LZZ 16123 Topics in Applied College Math   4.00 N 53O 5O                          ONLINE      20 0  20    0   Kadenic-N,A 
+MATH 120C  W   16235 Topics in Applied College Math   4.00 N 51  5E  05:30pm 09:05pm W       GRAPPN 306  25 5  20    0   Staff,D 
+MATH 120C  ZZ  16124 Topics in Applied College Math   4.00 N 5ZZ 5O                          ONLINE      20 14 6     0   Wood,M 
+MATH 120C  ZZ1 16125 Topics in Applied College Math   4.00 N 5ZZ 5O                          ONLINE      20 4  16    0   Sawal,K 
+MATH 124C  1   15254 College Algebra                  4.00 N 51  5D  11:00am 12:50pm MW      LITTLE 222  25 4  21    0   Hart,L 
+MATH 124C  10  14589 College Algebra                  4.00 N 51  5D  11:00am 12:50pm MW      GRAPPN 325  25 5  20    0   Marzola,M 
+MATH 124C  11  14603 College Algebra                  4.00 N 51  5D  08:00am 09:50am MR      GRAPPN 323  25 2  23    0   Heise,J 
+MATH 124C  12  14604 College Algebra                  4.00 N 51  5D  10:00am 11:50am MR      GRAPPN 323  25 4  21    0   Heise,J 
+MATH 124C  13  13596 College Algebra                  4.00 N 51  5D  02:00pm 03:50pm T       GRAPPN 325  25 21 4     0   Chase,S 
+MATH 124C  13  13596 College Algebra                  4.00 N 51  5D  03:00pm 04:50pm R       GRAPPN 325  25 21 4     0   Chase,S 
+MATH 124C  14  14467 College Algebra                  4.00 N 51  5D  09:00am 10:50am MW      LITTLE 222  25 3  22    0   Sawal,K 
+MATH 124C  15  14476 College Algebra                  4.00 N 51  5D  12:00pm 01:50pm MW      LITTLE 221  25 5  20    0   LaVoice,V 
+MATH 124C  16  14591 College Algebra                  4.00 N 51  5D  01:00pm 02:50pm M       GRAPPN 325  25 13 12    0   Chase,S 
+MATH 124C  16  14591 College Algebra                  4.00 N 51  5D  12:00pm 01:50pm R       GRAPPN 325  25 13 12    0   Chase,S 
+MATH 124C  17  14235 College Algebra                  4.00 N 51  5D  08:00am 09:50am WF      SWEENY 212  25 3  22    0   Tapp,D 
+MATH 124C  18  14477 College Algebra                  4.00 N 51  5D  03:00pm 04:50pm MW      GRAPPN 324  25 2  23    0   Staff1,M 
+MATH 124C  19  13603 College Algebra                  4.00 N 51  5D  03:00pm 04:50pm TR      GRAPPN 324  25 2  23    0   Found,S 
+MATH 124C  2   14563 College Algebra                  4.00 N 51  5D  03:00pm 04:50pm MW      LITTLE 113  25 3  22    0   Hart,L 
+MATH 124C  20  14154 College Algebra                  4.00 N 51  5D  01:00pm 02:50pm R       SWEENY 310  25 0  25    0   Staff1,M 
+MATH 124C  20  14154 College Algebra                  4.00 N 51  5D  11:00am 12:50pm M       SWEENY 310  25 0  25    0   Staff1,M 
+MATH 124C  3   14479 College Algebra                  4.00 N 51  5D  10:00am 11:50am TR      LITTLE 221  25 6  19    0   Hart,L 
+MATH 124C  4   14593 College Algebra                  4.00 N 51  5D  08:00am 09:50am TR      GRAPPN 325  25 4  21    0   Zeller,L 
+MATH 124C  5   14664 College Algebra                  4.00 N 51  5D  09:00am 10:50am WF      GRAPPN 324  25 4  21    0   Zeller,L 
+MATH 124C  6   14587 College Algebra                  4.00 N 51  5D  09:00am 10:50am MW      GRAPPN 325  25 1  24    0   Marzola,M 
+MATH 124C  7   14565 College Algebra                  4.00 N 51  5D  01:00pm 02:50pm MW      LITTLE 113  25 1  24    0   Shagena,D 
+MATH 124C  8   14468 College Algebra                  4.00 N 51  5D  01:00pm 02:50pm MW      LITTLE 222  25 1  24    0   Staff1,M 
+MATH 124C  9   14666 College Algebra                  4.00 N 51  5D  11:00am 12:50pm WF      GRAPPN 324  25 2  23    0   Cook,K 
+MATH 124C  FZZ 16126 College Algebra                  4.00 N 52  5O                          ONLINE      20 4  16    0   Cook,K 
+MATH 124C  LZZ 16127 College Algebra                  4.00 N 53O 5O                          ONLINE      20 0  20    0   Shagena,D 
+MATH 124C  R   16237 College Algebra                  4.00 N 51  5E  06:00pm 09:20pm R                   25 9  16    0   Service,L 
+MATH 124C  T   16236 College Algebra                  4.00 N 51  5E  06:00pm 09:20pm T       GRAPPN 207  25 3  22    0   Found,S 
+MATH 124C  W   16238 College Algebra                  4.00 N 51  5E  06:00pm 09:35pm W       SWEENY 311  25 3  22    0   Yari,N 
+MATH 124C  ZZ  16128 College Algebra                  4.00 N 5ZZ 5O                          ONLINE      20 15 5     0   Wood,M 
+MATH 124C  ZZ1 16129 College Algebra                  4.00 N 5ZZ 5O                          ONLINE      20 1  19    0   Yari,N 
+MATH 125C  1   14661 Finite Mathematics               4.00 N 51  5D  10:00am 11:50am T       GRAPPN 324  25 0  25    0   Cook,K 
+MATH 125C  1   14661 Finite Mathematics               4.00 N 51  5D  09:00am 10:50am R       GRAPPN 324  25 0  25    0   Cook,K 
+MATH 125C  2   13980 Finite Mathematics               4.00 N 51  5D  01:00pm 02:50pm MW      SWEENY 310  25 5  20    0   Sawal,K 
+MATH 125C  3   15735 Finite Mathematics               4.00 N 51  5D  10:00am 11:50am TR      GRAPPN 325  25 4  21    0   Bramson,I 
+MATH 125C  LZZ 16369 Finite Mathematics               4.00 N 53O 5O                          ONLINE      20 1  19    0   LaVoice,V 
+MATH 125C  W   16327 Finite Mathematics               4.00 N 51  5E  06:30pm 09:05pm W                   25 1  24    0   Staff,D 
+MATH 125C  ZZ  16130 Finite Mathematics               4.00 N 5ZZ 5O                          ONLINE      20 4  16    0   DeFronzo,R 
+MATH 140C  1   15197 Precalculus                      4.00 N 51  5D  12:00pm 01:50pm W       SWEENY 311  25 6  19    0   Tapp,D 
+MATH 140C  1   15197 Precalculus                      4.00 N 51  5D  11:00am 12:50pm F       SWEENY 311  25 6  19    0   Tapp,D 
+MATH 140C  R   16239 Precalculus                      4.00 N 51  5E  06:00pm 09:20pm R       GRAPPN 207  20 7  13    0   Schofield,J 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 20 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+MATH 140C  ZZ  16131 Precalculus                      4.00 N 5ZZ 5O                          ONLINE      20 0  20    0   Lockwood,S 
+MATH 205C  1   14562 Calculus I                       4.00 N 51  5D  10:00am 11:50am MW      LITTLE 113  25 11 14    0   Shagena,D 
+MATH 205C  2   14463 Calculus I                       4.00 N 51  5D  02:00pm 03:50pm TR      LITTLE 114  25 22 3     0   Hart,L 
+MATH 205C  HY  16240 Calculus I                       4.00 N 51  5E  06:00pm 09:20pm R                   25 3  22    0   Shagena,D 
+MATH 205C  HY  16240 Calculus I                       4.00 N 51  5E  06:00pm 09:20pm R                   25 3  22    0   Shagena,D 
+MATH 205C  HY  16240 Calculus I                       4.00 N 51  5E  06:00pm 09:20pm R                   25 3  22    0   Shagena,D 
+MATH 205C  HY  16240 Calculus I                       4.00 N 51  5E  06:00pm 09:20pm R                   25 3  22    0   Shagena,D 
+MATH 205C  HY  16240 Calculus I                       4.00 N 51  5E  06:00pm 09:20pm R                   25 3  22    0   Shagena,D 
+MATH 205C  T   16241 Calculus I                       4.00 N 51  5E  06:00pm 09:20pm T       LITTLE 114  25 8  17    0   Manthey,C 
+MATH 206C  1   14568 Calculus II                      4.00 N 51  5D  09:00am 10:50am F       GRAPPN 306  25 5  20    0   Shagena,D 
+MATH 206C  1   14568 Calculus II                      4.00 N 51  5D  10:00am 11:50am T       LITTLE 113  25 5  20    0   Shagena,D 
+MATH 206C  W   16242 Calculus II                      4.00 N 51  5E  06:00pm 09:35pm W       LITTLE 114  25 4  21    0   Manthey,C 
+MATH 208C  1   14471 Multivariable Calculus           4.00 N 51  5D  11:00am 12:50pm W       LITTLE 114  25 2  23    0   Hopper,A 
+MATH 208C  1   14471 Multivariable Calculus           4.00 N 51  5D  10:00am 11:50am F       LITTLE 114  25 2  23    0   Hopper,A 
+MATH 220C  1   14566 Elementary Linear Algebra        4.00 N 51  5D  02:00pm 03:50pm TF      LITTLE 113  25 4  21    0   Shagena,D 
+MATH 251C  1   14472 Statistics                       4.00 N 51  5D  02:00pm 03:50pm TR      LITTLE 222  25 16 9     0   LaVoice,V 
+MATH 251C  T   16243 Statistics                       4.00 N 51  5E  06:00pm 09:20pm T       GRAPPN      25 3  22    0   Schofield,J 
+MATH 251C  ZZ  16132 Statistics                       4.00 N 5ZZ 5O                          ONLINE      20 8  12    0   LaVoice,V 
+MATH 251C  ZZ1 16133 Statistics                       4.00 N 5ZZ 5O                          ONLINE      20 2  18    0   LaVoice,V 
+MCET 105C  1   14574 Engineering Design               4.00 N 51  5D  09:00am 10:50am MW      LITTLE 111  15 2  13    0   Galbraith,J 
+MCET 105C  2   14576 Engineering Design               4.00 N 51  5D  02:00pm 03:50pm TR      LITTLE 111  15 0  15    0   Galbraith,J 
+MCET 105C  3   14575 Engineering Design               4.00 N 51  5D  10:00am 11:50am T       LITTLE 111  15 5  10    0   Galbraith,J 
+MCET 105C  3   14575 Engineering Design               4.00 N 51  5D  09:00am 10:50am R       LITTLE 111  15 5  10    0   Galbraith,J 
+MCET 250C  1   14489 Dynam & Mech Design I            4.00 N 51  5D  01:30pm 02:50pm MW      LITTLE 214  30 17 13    0   Galbraith,J 
+MCET 250C  1A  14579 Dynam & Mech Design I             .00 N 51  5D  03:00pm 04:50pm M       LITTLE 111  15 12 3     0   Galbraith,J 
+MCET 250C  1B  14580 Dynam & Mech Design I             .00 N 51  5D  03:00pm 04:50pm W       LITTLE 111  15 5  10    0   Galbraith,J 
+MCET 250C  M   16220 Dynam & Mech Design I            4.00 N 51  5E  06:00pm 08:30pm M       LITTLE 111  15 8  7     0   Galbraith,J 
+MCET 250C  ML  16222 Dynam & Mech Design I             .00 N 51  5E  08:31pm 10:10pm M       LITTLE 111  15 8  7     0   Galbraith,J 
+MCOD 116C  MR  16257 Intro to Hospital Coding         4.00 N 52  5E  05:30pm 08:50pm MR      SWEENY      19 7  12    0   Vachon,W 
+MCOD 117C  MR  16258 Intermediate Hospital Coding     3.00 N 53  5E  05:30pm 08:00pm MR      SWEENY      19 7  12    0   Staff,D 
+MFET 111C  1   14564 Manuf & Materials Processing     4.00 N 51  5D  08:00am 09:20am TR      LITTLE 113  30 2  28    0   Arredondo,R 
+MFET 111C  1A  14520 Manuf & Materials Processing      .00 N 51  5D  02:00pm 04:50pm T       LITTLE 133  10 1  9     0   Beltramo,J 
+MFET 111C  1A  14520 Manuf & Materials Processing      .00 N 51  5D  02:00pm 04:50pm T       LITTLE 128  10 1  9     0   Beltramo,J 
+MFET 111C  1B  14522 Manuf & Materials Processing      .00 N 51  5D  02:00pm 04:50pm W       LITTLE 128  10 1  9     0   Beltramo,J 
+MFET 111C  1B  14522 Manuf & Materials Processing      .00 N 51  5D  02:00pm 04:50pm W       LITTLE 133  10 1  9     0   Beltramo,J 
+MFET 111C  1C  14539 Manuf & Materials Processing      .00 N 51  5D  02:00pm 04:50pm R       LITTLE 128  10 0  10    0   Beltramo,J 
+MFET 111C  1C  14539 Manuf & Materials Processing      .00 N 51  5D  02:00pm 04:50pm R       LITTLE 133  10 0  10    0   Beltramo,J 
+MFET 111C  M   16218 Manuf & Materials Processing     4.00 N 51  5E  06:00pm 08:30pm M       LITTLE 113  10 7  3     0   Harrison,H 
+MFET 111C  WL  16219 Manuf & Materials Processing      .00 N 51  5E  06:00pm 08:30pm W       LITTLE 132  10 7  3     0   Harrison,H 
+MFET 111C  WL  16219 Manuf & Materials Processing      .00 N 51  5E  06:00pm 08:30pm W       LITTLE 133  10 7  3     0   Harrison,H 
+MFET 111C  WL  16219 Manuf & Materials Processing      .00 N 51  5E  06:00pm 08:30pm W       LITTLE 128  10 7  3     0   Harrison,H 
+MFET 202C  1   14553 Measurement & Control            4.00 N 51  5D  10:30am 11:20am R       LITTLE 222  30 18 12    0   Beltramo,J 
+MFET 202C  1   14553 Measurement & Control            4.00 N 51  5D  10:00am 11:50am T       LITTLE 222  30 18 12    0   Beltramo,J 
+MFET 202C  1A  14542 Measurement & Control             .00 N 51  5D  11:30am 01:20pm R       LITTLE 111  10 11 -1    0   Beltramo,J 
+MFET 202C  1A  14542 Measurement & Control             .00 N 51  5D  11:30am 01:20pm R       LITTLE 128  10 11 -1    0   Beltramo,J 
+MFET 202C  1B  14543 Measurement & Control             .00 N 51  5D  10:00am 11:50am F       LITTLE 111  10 1  9     0   Beltramo,J 
+MFET 202C  1B  14543 Measurement & Control             .00 N 51  5D  10:00am 11:50am F       LITTLE 128  10 1  9     0   Beltramo,J 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 21 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+MFET 202C  1C  14544 Measurement & Control             .00 N 51  5D  12:00pm 01:50pm F       LITTLE 111  10 6  4     0   Beltramo,J 
+MFET 202C  1C  14544 Measurement & Control             .00 N 51  5D  12:00pm 01:50pm F       LITTLE 128  10 6  4     0   Beltramo,J 
+MFET 202C  W   16223 Measurement & Control            4.00 N 51  5E  06:00pm 08:30pm W       LITTLE 113  12 7  5     0   Beltramo,J 
+MFET 202C  W   16223 Measurement & Control            4.00 N 51  5E  06:00pm 08:30pm W       LITTLE 128  12 7  5     0   Beltramo,J 
+MFET 202C  WL  16224 Measurement & Control             .00 N 51  5E  08:41pm 10:30pm W       LITTLE      12 7  5     0   Beltramo,J 
+MFET 202C  WL  16224 Measurement & Control             .00 N 51  5E  08:41pm 10:30pm W       LITTLE 128  12 7  5     0   Beltramo,J 
+MFET 210C  1   14571 Lean Manufacturing               4.00 N 51  5D  08:00am 09:50am MR      LITTLE 112  15 15 0     0   Cunningha,J 
+MFET 220C  1   14582 Manuf Processes & Machine Tool   4.00 N 51  5D  09:00am 09:50am W       LITTLE 110  20 6  14    0   Arredondo,R 
+MFET 220C  1   14582 Manuf Processes & Machine Tool   4.00 N 51  5D  10:00am 11:50am M       LITTLE 110  20 6  14    0   Arredondo,R 
+MFET 220C  1A  14516 Manuf Processes & Machine Tool    .00 N 51  5D  02:00pm 04:50pm M       LITTLE 133  10 0  10    0   Musheno,J 
+MFET 220C  1A  14516 Manuf Processes & Machine Tool    .00 N 51  5D  02:00pm 04:50pm M       LITTLE 109  10 0  10    0   Musheno,J 
+MFET 220C  1A  14516 Manuf Processes & Machine Tool    .00 N 51  5D  02:00pm 04:50pm M       LITTLE 110  10 0  10    0   Musheno,J 
+MFET 220C  1B  14519 Manuf Processes & Machine Tool    .00 N 51  5D  10:00am 12:50pm W       LITTLE 133  10 6  4     0   Musheno,J 
+MFET 220C  1B  14519 Manuf Processes & Machine Tool    .00 N 51  5D  10:00am 12:50pm W       LITTLE 109  10 6  4     0   Musheno,J 
+MFET 220C  1B  14519 Manuf Processes & Machine Tool    .00 N 51  5D  10:00am 12:50pm W       LITTLE 110  10 6  4     0   Musheno,J 
+MHTH 187C  1   14159 The Helping Relation Interpers   4.00 N 51  5D  09:00am 12:50pm W       SWEENY 309  16 10 6     0   Staff1,H 
+MHTH 187C  2   14243 The Helping Relation Interpers   4.00 N 51  5D  09:00am 12:50pm R       SWEENY 210  16 5  11    0   Molloy,J 
+MHTH 187C  W   15708 The Helping Relation Interpers   4.00 N 51  5E  05:30pm 09:05pm W       SWEENY 309  16 5  11    0   Staff,D 
+MHTH 195C  1   14091 Mental Health Prac I             4.00 N 51  5D  03:00pm 04:50pm M       STDCTR 235  8  0  8     0   Dotter,M 
+MNFP 101C  1   15274 Manufacturing Processes I        4.00 N 51  5D  11:30am 12:20pm R       LITTLE 222  15 2  13    0   Arredondo,R 
+MNFP 101C  1   15274 Manufacturing Processes I        4.00 N 51  5D  08:00am 08:50am M       LITTLE 222  15 2  13    0   Arredondo,R 
+MNFP 101C  1A  14540 Manufacturing Processes I         .00 N 51  5D  08:00am 10:50am R       LITTLE 128  12 1  11    0   Musheno,J 
+MNFP 101C  1A  14540 Manufacturing Processes I         .00 N 51  5D  09:00am 11:50am M       LITTLE 128  12 1  11    0   Musheno,J 
+MNFP 101C  1B  14541 Manufacturing Processes I         .00 N 51  5D  02:00pm 04:50pm F       LITTLE 128  12 1  11    0   Musheno,J 
+MNFP 101C  1B  14541 Manufacturing Processes I         .00 N 51  5D  09:00am 11:50am T       LITTLE 128  12 1  11    0   Musheno,J 
+MNFP 104C  1   14499 Applied Shop Mathematics         3.00 N 51  5D  02:00pm 03:20pm TR      LITTLE 214  14 2  12    0   Arredondo,R 
+MNFP 105C  1   14578 Engineering Drawings             3.00 N 51  5D  01:00pm 02:50pm MW      LITTLE 111  10 2  8     0   Arredondo,R 
+MUSC 105C  1   13698 Introduction to Music            3.00 N 51  5D  09:00am 11:50am R       FARNUM 105  20 0  20    0   Gardzina,R 
+MUSC 105C  ZZ  16134 Introduction to Music            3.00 N 5ZZ 5O                          ONLINE      20 1  19    0   Kinne,S 
+MUSC 106C  1   13702 Hist Jazz Blues, rock & Roll     3.00 N 51  5D  09:00am 11:50am F       FARNUM 105  20 3  17    0   Gardzina,R 
+MUSC 107C  ZZ  16135 World Music                      3.00 N 5ZZ 5O                          ONLINE      20 5  15    0   Kinne,S 
+MUSC 150C  1   13700 Introduction to Guitar           3.00 N 51  5D  10:00am 12:50pm M       SWEENY 122  20 6  14    0   Burstein,C 
+NURS 115C  1   14637 Nursing I                        8.00 N 51  5D  09:00am 10:50am W       GRAPPN 106  88 2  86    0   Fanjoy,T 
+NURS 115C  1   14637 Nursing I                        8.00 N 51  5D  09:00am 11:50am T       GRAPPN 106  88 2  86    0   Fanjoy,T 
+NURS 115C  1A  15246 Nursing I                         .00 N 51  5D  09:00am 11:50am M       GRAPPN 136  12 0  12    0   Staff1,N 
+NURS 115C  1B  15247 Nursing I                         .00 N 51  5D  02:00pm 04:50pm M       GRAPPN 136  12 0  12    0   Staff1,N 
+NURS 115C  1C  15248 Nursing I                         .00 N 51  5D  05:00pm 07:50pm M       GRAPPN 136  12 0  12    0   Staff1,N 
+NURS 115C  1D  15249 Nursing I                         .00 N 51  5D  02:00pm 04:50pm T       GRAPPN 136  12 0  12    0   Staff1,N 
+NURS 115C  1E  15250 Nursing I                         .00 N 51  5D  12:00pm 02:50pm W       GRAPPN 136  12 1  11    0   Staff1,N 
+NURS 115C  1F  15251 Nursing I                         .00 N 51  5D  09:00am 11:50am R       GRAPPN 136  14 0  14    0   Staff1,N 
+NURS 115C  1G  15252 Nursing I                         .00 N 51  5D  01:00pm 03:50pm R       GRAPPN 136  14 0  14    0   Staff1,N 
+NURS 115C  CL1 15223 Nursing I                         .00 N 51  5D  07:00am 01:20pm RF      OFFCMP      44 2  42    0   Staff1,N 
+NURS 115C  CL2 15224 Nursing I                         .00 N 51  5D  02:00pm 08:20pm RF      OFFCMP      44 0  44    0   Staff1,N 
+NURS 116C  1   14615 Nursing IIA                     11.00 N 51  5D  09:00am 11:50am M       GRAPPN 301  48 8  40    0   Staff1,N 
+NURS 116C  1   14615 Nursing IIA                     11.00 N 51  5D  09:00am 11:50am T       MACRUR 140  48 8  40    0   Staff1,N 
+NURS 116C  CL1 15225 Nursing IIA                       .00 N 51  5D  07:00am 02:50pm RF      OFFCMP      24 0  24    0   Staff1,N 
+NURS 116C  CL2 15227 Nursing IIA                       .00 N 51  5D  02:00pm 09:50pm RF      OFFCMP      24 0  24    0   Staff1,N 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 22 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+NURS 117C  1   14635 Nursing IIB (SRV)               11.00 N 51  5D  09:00am 11:50am T       GRAPPN 301  40 16 24    0   Tetreault,K 
+NURS 117C  1   14635 Nursing IIB (SRV)               11.00 N 51  5D  09:00am 11:50am M       GRAPPN 106  40 16 24    0   Tetreault,K 
+NURS 117C  CL1 15229 Nursing IIB (SRV)                 .00 N 51  5D  07:00am 02:50pm RF      OFFCMP      20 0  20    0   Staff1,N 
+NURS 117C  CL2 15230 Nursing IIB (SRV)                 .00 N 51  5D  02:00pm 09:50pm RF      OFFCMP      20 0  20    0   Staff1,N 
+ORTH 101C  1   14393 Orthopeadic Anat & Phys I        3.00 N 51  5D  01:00pm 02:20pm MW      MACRUR 110  20 0  20    0   Turcotte,S 
+ORTH 103C  1   14394 Basic Radiology Interpretation   3.00 N 51  5D  02:00pm 03:20pm T       MACRUR 116  20 0  20    0   Turcotte,S 
+ORTH 103C  1   14394 Basic Radiology Interpretation   3.00 N 51  5D  02:30pm 03:50pm W       MACRUR 110  20 0  20    0   Turcotte,S 
+ORTH 105C  1   14387 Casting and Splinting I          3.00 N 51  5D  09:00am 09:50am MT      MACRUR 116  20 0  20    0   Turcotte,S 
+ORTH 105C  1A  14388 Casting and Splinting I           .00 N 51  5D  10:00am 11:50am M       MACRUR 116  10 0  10    0   Joyce,L 
+ORTH 105C  1B  14389 Casting and Splinting I           .00 N 51  5D  10:00am 11:50am T       MACRUR 116  10 0  10    0   Joyce,L 
+ORTH 112C  1   14391 Traction                         1.00 N 51  5D  09:00am 11:50am W       MACRUR 116  16 0  16    0   Joyce,L 
+ORTH 112C  1   14391 Traction                         1.00 N 51  5D  09:00am 11:50am W       MACRUR 110  16 0  16    0   Joyce,L 
+ORTH 116C  1   14392 Sterile Techniques               2.00 N 51  5D  08:00am 08:50am R       MACRUR 110  20 0  20    0   Turcotte,S 
+ORTH 116C  1A  14390 Sterile Techniques                .00 N 51  5D  09:00am 11:50am R       MACRUR 110  20 0  20    0   Joyce,L 
+ORTH 116C  1A  14390 Sterile Techniques                .00 N 51  5D  09:00am 11:50am R       MACRUR 116  20 0  20    0   Joyce,L 
+PEM 117C   1   15189 Physical Assessment              2.00 N 51  5D  10:00am 11:50am T       MACRUR 201  14 0  14    0   Richardso,J 
+PEM 142C   1   15188 Cardiology I                     2.00 N 51  5D  08:00am 09:50am T       MACRUR 201  14 2  12    0   Franklin,D 
+PEM 150C   1   14277 Advanced Trauma                  3.00 N 51  5D  08:00am 10:50am W       MACRUR 212  14 0  14    0   Wilding,K 
+PEM 161C   1   15171 Integration Lab I                1.00 N 51  5D  02:00pm 04:50pm T       MACRUR 201  14 2  12    0   Wilding,K 
+PEM 163C   1   15174 Integration Lab III              1.00 N 51  5D  12:00pm 02:50pm W       MACRUR 201  14 12 2     0   Wilding,K 
+PEM 201C   HY  15177 Special Populations              3.00 N 51  5D  03:00pm 04:50pm W       MACRUR 201  14 12 2     0   Wilding,K 
+PEM 291C   1   15180 12 Lead EKG Interp/Field Sem     1.00 N 51  5D  09:00am 10:50am W       MACRUR 201  14 12 2     0   Brubaker,N 
+PEM 296C   1   15187 Field Clinical I                 3.00 N 51  5D  08:00am 03:50pm UMTRFS  OFFCMP      14 12 2     0   Brubaker,N 
+PHIL 110C  ZZ  16149 Introduction to Philosophy       3.00 N 5ZZ 5O                          ONLINE      20 8  12    0   Hunter,C 
+PHIL 242C  1   13975 Contemporary Ethical Issues      3.00 N 51  5D  02:00pm 04:50pm W       SWEENY 311  25 7  18    0   Hogan,B 
+PHIL 242C  2   14144 Contemporary Ethical Issues      3.00 N 51  5D  09:00am 11:50am M       SWEENY 314  25 11 14    0   North,C 
+PHIL 242C  3   14188 Contemporary Ethical Issues      3.00 N 51  5D  09:00am 11:50am W       SWEENY 220  25 6  19    0   North,C 
+PHIL 242C  4   14187 Contemporary Ethical Issues      3.00 N 51  5D  09:00am 11:50am T       SWEENY 220  25 4  21    0   O'Brien,R 
+PHIL 242C  5   14189 Contemporary Ethical Issues      3.00 N 51  5D  10:00am 12:50pm R       SWEENY 220  25 17 8     0   O'Brien,R 
+PHIL 242C  6   14101 Contemporary Ethical Issues      3.00 N 51  5D  02:00pm 04:50pm R       MACRUR 212  25 5  20    0   Staff1,S 
+PHIL 242C  FZZ 16137 Contemporary Ethical Issues      3.00 N 52  5O                          ONLINE      20 9  11    0   Hunter,C 
+PHIL 242C  LZZ 16233 Contemporary Ethical Issues      3.00 N 53O 5O                          ONLINE      20 3  17    0   Abrams,K 
+PHIL 242C  M   15519 Contemporary Ethical Issues      3.00 N 51  5E  06:00pm 08:30pm M                   25 7  18    0   Nevins,N 
+PHIL 242C  ZZ  16136 Contemporary Ethical Issues      3.00 N 5ZZ 5O                          ONLINE      20 3  17    0   Hunter,C 
+PHYS 133C  1   14457 Physics I (Algebra-Based)        4.00 N 51  5D  10:00am 10:50am MWF     LITTLE 224  48 14 34    0   Meskoob,M 
+PHYS 133C  1A  14447 Physics I (Algebra-Based)         .00 N 51  5D  11:00am 12:50pm M       LITTLE 226  16 4  12    0   Meskoob,M 
+PHYS 133C  1B  14450 Physics I (Algebra-Based)         .00 N 51  5D  11:00am 12:50pm W       LITTLE 226  16 7  9     0   Meskoob,M 
+PHYS 133C  1C  14456 Physics I (Algebra-Based)         .00 N 51  5D  11:00am 12:50pm F       LITTLE 226  16 3  13    0   Meskoob,M 
+PHYS 133C  2   14462 Physics I (Algebra-Based)        4.00 N 51  5D  11:00am 12:20pm R       LITTLE 224  32 5  27    0   Meskoob,M 
+PHYS 133C  2   14462 Physics I (Algebra-Based)        4.00 N 51  5D  02:00pm 03:20pm T       LITTLE 224  32 5  27    0   Meskoob,M 
+PHYS 133C  2A  14448 Physics I (Algebra-Based)         .00 N 51  5D  01:30pm 03:20pm F       LITTLE 226  16 1  15    0   Meskoob,M 
+PHYS 133C  2B  14453 Physics I (Algebra-Based)         .00 N 51  5D  02:00pm 03:50pm W       LITTLE 226  16 4  12    0   Meskoob,M 
+PHYS 133C  M   16244 Physics I (Algebra-Based)        4.00 N 51  5E  06:00pm 08:30pm M       LITTLE 224  16 4  12    0   Meskoob,M 
+PHYS 133C  ML  16245 Physics I (Algebra-Based)         .00 N 51  5E  08:31pm 10:10pm M       LITTLE 226  16 4  12    0   Meskoob,M 
+PHYS 135C  1   14461 Physics II (Algebra-Based)       4.00 N 51  5D  09:00am 10:50am R       LITTLE 224  32 10 22    0   Sawal,K 
+PHYS 135C  1   14461 Physics II (Algebra-Based)       4.00 N 51  5D  09:00am 09:50am T       LITTLE 224  32 10 22    0   Sawal,K 
+PHYS 135C  1A  14449 Physics II (Algebra-Based)        .00 N 51  5D  10:00am 11:50am T       LITTLE 226  16 10 6     0   Sawal,K 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 23 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+PHYS 135C  1B  14455 Physics II (Algebra-Based)        .00 N 51  5D  09:00am 10:50am F       LITTLE 226  16 0  16    0   Sawal,K 
+PHYS 135C  W   16246 Physics II (Algebra-Based)       4.00 N 51  5E  06:00pm 08:30pm W       LITTLE 224  16 3  13    0   Meskoob,M 
+PHYS 135C  WL  16247 Physics II (Algebra-Based)        .00 N 51  5E  08:31pm 10:30pm W       LITTLE 226  16 3  13    0   Meskoob,M 
+PHYS 231C  1   14465 Physics I (Calculus-Based)       4.00 N 51  5D  02:00pm 04:50pm W       LITTLE 224  16 10 6     0   Hopper,A 
+PHYS 231C  1A  14451 Physics I (Calculus-Based)        .00 N 51  5D  02:30pm 05:20pm M       LITTLE 226  16 10 6     0   Hopper,A 
+PHYS 233C  1   14545 Physics III (Calculus-Based)     4.00 N 51  5D  09:00am 11:50am T       LITTLE 131  16 2  14    0   Hopper,A 
+PHYS 233C  1A  14452 Physics III (Calculus-Based)      .00 N 51  5D  09:00am 11:50am R       LITTLE 226  16 2  14    0   Hopper,A 
+PLGL 101C  MR  16178 Foundations of Paralegal Study   2.00 N 5P1 5E  06:00pm 09:00pm MR      FARNUM 105  25 0  25    0   Peters,S 
+PLGL 103C  MR  16179 Causes in Act in Contrct&Tort    2.00 N 5P2 5E  06:00pm 09:00pm MR      FARNUM 105  25 0  25    0   Peters,S 
+PLGL 104C  MR  16180 Legal Research                   3.00 N 5P3 5E  06:00pm 09:00pm MR      FARNUM 105  25 0  25    0   Howard,M 
+PLGL 106C  T   16176 Intro to Legal Studies           3.00 N 51  5E  06:00pm 08:30pm T       FARNUM 105  25 4  21    0   Peters,S 
+PLGL 107C  M   16108 Contracts and Torts              3.00 N 51  5E  06:00pm 08:30pm M       FARNUM 109  25 6  19    0   Durand,K 
+PLGL 221C  T   16106 Real Estate                      3.00 N 51  5E  06:00pm 08:30pm T       FARNUM 109  25 4  21    0   Ducharme,J 
+PLGL 251C  R   16107 Probate Estates and Trusts       3.00 N 51  5E  06:00pm 08:30pm R       FARNUM 109  25 3  22    0   O'Brien,P 
+PLGL 262C  W   16175 Criminal Law & Procedure         3.00 N 51  5E  06:00pm 08:40pm W       FARNUM 109  25 3  22    0   O'Brien,P 
+POLS 110C  1   13976 American Government              3.00 N 51  5D  09:00am 11:50am W       SWEENY 310  25 4  21    0   Hogan,B 
+POLS 150C  1   15284 The New Hampshire Primary        3.00 N 51  5D  02:00pm 04:50pm W       SWEENY 210  25 17 8     0   Wallace,S 
+POLS 150C  HY  16332 The New Hampshire Primary        3.00 N 51  5D                          ONLINE      15 5  145   0   Wallace,S 
+                                                                                                         0 
+ 
+POLS 150C  HYG 16333 The New Hampshire Primary         .00 N 51  5D  11:00am 11:50am R       PEASE  310  25 4  21    0   Vincent,J 
+POLS 150C  HYL 16334 The New Hampshire Primary         .00 N 51  5D                                      25 1  24    0   Staff1,P 
+POLS 150C  HYM 16335 The New Hampshire Primary         .00 N 51  5D  02:00pm 02:50pm R       MMAIN  300  25 0  25    0   Staff1,P 
+POLS 150C  HYN 16336 The New Hampshire Primary         .00 N 51  5D                                      25 0  25    0   Staff1,P 
+POLS 150C  HYR 16337 The New Hampshire Primary         .00 N 51  5D                                      25 0  25    0   Staff1,P 
+POLS 150C  HYW 16338 The New Hampshire Primary         .00 N 51  5D                                      25 0  25    0   Staff1,P 
+PSYC 105C  1   13951 Introduction to Psychology       3.00 N 51  5D  09:00am 11:50am T       SWEENY 210  25 20 5     0   Dotter,K 
+PSYC 105C  10  14148 Introduction to Psychology       3.00 N 51  5D  09:00am 11:50am W       SWEENY 314  25 4  21  Y 0   Mead,P 
+PSYC 105C  11  13964 Introduction to Psychology       3.00 N 51  5D  01:00pm 03:50pm W       SWEENY 317  25 3  22    0   Mead,P 
+PSYC 105C  12  14244 Introduction to Psychology       3.00 N 51  5D  09:00am 11:50am F       SWEENY 210  25 2  23    0   Duford,J 
+PSYC 105C  13  14083 Introduction to Psychology       3.00 N 51  5D  02:00pm 04:50pm W       SWEENY 211  25 11 14    0   Duford,J 
+PSYC 105C  14  14135 Introduction to Psychology       3.00 N 51  5D  09:00am 11:50am M       SWEENY 315  25 2  23    0   Wedge,J 
+PSYC 105C  15  14191 Introduction to Psychology       3.00 N 51  5D  09:00am 11:50am F       SWEENY 315  25 3  22    0   Staff1,S 
+PSYC 105C  16  14099 Introduction to Psychology       3.00 N 51  5D  02:00pm 04:50pm M       SWEENY 317  25 4  21    0   Russell,E 
+PSYC 105C  17  14192 Introduction to Psychology       3.00 N 51  5D  10:00am 12:50pm M       SWEENY 318  25 4  21    0   Russell,E 
+PSYC 105C  18  13966 Introduction to Psychology       3.00 N 51  5D  02:00pm 04:50pm R       SWEENY 311  25 2  23    0   Staff1,S 
+PSYC 105C  2   14084 Introduction to Psychology       3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 211  25 5  20    0   Dotter,K 
+PSYC 105C  3   14681 Introduction to Psychology       3.00 N 51  5D  10:00am 12:50pm R       SWEENY 307  25 2  23    0   Wolf,S 
+PSYC 105C  4   13965 Introduction to Psychology       3.00 N 51  5D  02:00pm 04:50pm R       SWEENY 314  25 2  23    0   Wolf,S 
+PSYC 105C  5   14138 Introduction to Psychology       3.00 N 51  5D  09:00am 11:50am W       SWEENY 315  25 1  24    0   Hague,H 
+PSYC 105C  6   13960 Introduction to Psychology       3.00 N 51  5D  02:00pm 04:50pm M       MACRUR 217  25 6  19    0   Tshabangu,S 
+PSYC 105C  7   14100 Introduction to Psychology       3.00 N 51  5D  02:00pm 04:50pm T       MACRUR 212  25 1  24    0   Tubbs,C 
+PSYC 105C  8   14149 Introduction to Psychology       3.00 N 51  5D  09:00am 11:50am R       SWEENY 314  25 0  25    0   Duncan,M 
+PSYC 105C  9   14142 Introduction to Psychology       3.00 N 51  5D  01:00pm 03:50pm R       SWEENY 315  25 1  24    0   Duncan,M 
+PSYC 105C  FZZ 16154 Introduction to Psychology       3.00 N 52  5O                          ONLINE      20 3  17    0   Couture,K 
+PSYC 105C  LZZ 16147 Introduction to Psychology       3.00 N 53O 5O                          ONLINE      20 2  18    0   Fitzsimmo,E 
+PSYC 105C  M   15514 Introduction to Psychology       3.00 N 51  5E  05:30pm 08:00pm M                   25 2  23    0   Tshabangu,S 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 24 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+PSYC 105C  ZZ  16146 Introduction to Psychology       3.00 N 5ZZ 5O                          ONLINE      20 11 9     0   Fitzsimmo,E 
+PSYC 205C  1   13959 Crisis Intervention              3.00 N 51  5D  01:00pm 03:50pm R       SWEENY 317  25 25 0     0   Hague,H 
+PSYC 205C  2   14124 Crisis Intervention              3.00 N 51  5D  09:00am 11:50am R       SWEENY 317  25 26 -1    0   Hague,H 
+PSYC 205C  R   15695 Crisis Intervention              3.00 N 51  5E  05:30pm 08:00pm R                   25 11 14    0   Staff,D 
+PSYC 205C  ZZ  15982 Crisis Intervention              3.00 N 5ZZ 5O                          ONLINE      20 17 3     0   Staff,D 
+PSYC 210C  1   14082 Abnormal Psychology              3.00 N 51  5D  02:00pm 04:50pm M       SWEENY 211  25 24 1     0   Duford,J 
+PSYC 210C  ZZ  16145 Abnormal Psychology              3.00 N 5ZZ 5O                          ONLINE      20 6  14    0   Dotter,K 
+PSYC 220C  1   13988 Human Growth & Development       3.00 N 51  5D  01:00pm 03:50pm M       SWEENY 219  25 9  16    0   Fitzsimmo,E 
+PSYC 220C  2   14121 Human Growth & Development       3.00 N 51  5D  09:00am 11:50am T       SWEENY 317  25 9  16    0   Fitzsimmo,E 
+PSYC 220C  3   14072 Human Growth & Development       3.00 N 51  5D  01:00pm 03:50pm R       SWEENY 219  25 8  17    0   Fitzsimmo,E 
+PSYC 220C  4   14074 Human Growth & Development       3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 212  25 12 13    0   Duford,J 
+PSYC 220C  5   14088 Human Growth & Development       3.00 N 51  5D  02:00pm 04:50pm R       SWEENY 210  25 3  22    0   Duford,J 
+PSYC 220C  W   15516 Human Growth & Development       3.00 N 51  5E  05:30pm 08:10pm W                   25 8  17    0   Duford,J 
+PSYC 220C  ZZ  16148 Human Growth & Development       3.00 N 5ZZ 5O                          ONLINE      20 8  12    0   Fitzsimmo,E 
+PSYC 280C  1   14160 Individual Couns Theory & Prac   3.00 N 51  5D  09:00am 11:50am R       SWEENY 309  25 25 0     0   Tubbs,C 
+PSYC 280C  M   15704 Individual Couns Theory & Prac   3.00 N 51  5E  05:30pm 08:00pm M                   25 21 4     0   Dotter,M 
+RADT 116C  1   15193 Radiographic Imaging Technolog   3.00 N 51  5D  01:15pm 02:00pm WR      MACRUR 104  40 40 0     0   Lenza,P 
+RADT 116C  1   15193 Radiographic Imaging Technolog   3.00 N 51  5D  01:15pm 02:00pm WR      MACRUR 103  40 40 0     0   Lenza,P 
+RADT 116C  1A  14412 Radiographic Imaging Technolog    .00 N 51  5D  02:05pm 03:55pm W       MACRUR 103  20 20 0     0   Lenza,P 
+RADT 116C  1A  14412 Radiographic Imaging Technolog    .00 N 51  5D  02:05pm 03:55pm W       MACRUR 104  20 20 0     0   Lenza,P 
+RADT 116C  1B  14413 Radiographic Imaging Technolog    .00 N 51  5D  02:05pm 03:55pm R       MACRUR 103  20 20 0     0   Lenza,P 
+RADT 116C  1B  14413 Radiographic Imaging Technolog    .00 N 51  5D  02:05pm 03:55pm R       MACRUR 104  20 20 0     0   Lenza,P 
+RADT 123C  1   14408 Radiation Protection             3.00 N 51  5D  08:00am 10:50am T       MACRUR 104  40 30 10    0   Moffett,N 
+RADT 151C  1   14410 Patient Care for Radiographer    2.00 N 51  5D  11:15am 01:10pm W       MACRUR 212  20 20 0     0   Lenza,P 
+RADT 151C  2   14411 Patient Care for Radiographer    2.00 N 51  5D  11:15am 01:10pm R       MACRUR 212  20 20 0     0   Lenza,P 
+RADT 159C  1   15194 Radiog Post II & Clin Prod I     9.00 N 51  5D  08:00am 09:20am WR      MACRUR 104  42 40 2     0   Moffett,N 
+RADT 159C  1A  15195 Radiog Post II & Clin Prod I      .00 N 51  5D  09:30am 11:10am W       MACRUR 104  14 10 4     0   Moffett,N 
+RADT 159C  1A  15195 Radiog Post II & Clin Prod I      .00 N 51  5D  09:30am 11:10am W       MACRUR 103  14 10 4     0   Moffett,N 
+RADT 159C  1B  15196 Radiog Post II & Clin Prod I      .00 N 51  5D  11:15am 01:10pm W       MACRUR 103  14 10 4     0   Moffett,N 
+RADT 159C  1B  15196 Radiog Post II & Clin Prod I      .00 N 51  5D  11:15am 01:10pm W       MACRUR 104  14 10 4     0   Moffett,N 
+RADT 159C  1C  15198 Radiog Post II & Clin Prod I      .00 N 51  5D  09:30am 11:10am R       MACRUR 104  14 10 4     0   Moffett,N 
+RADT 159C  1C  15198 Radiog Post II & Clin Prod I      .00 N 51  5D  09:30am 11:10am R       MACRUR 103  14 10 4     0   Moffett,N 
+RADT 159C  1D  15199 Radiog Post II & Clin Prod I      .00 N 51  5D  11:15am 01:10pm R       MACRUR 103  10 10 0     0   Moffett,N 
+RADT 159C  1D  15199 Radiog Post II & Clin Prod I      .00 N 51  5D  11:15am 01:10pm R       MACRUR 104  10 10 0     0   Moffett,N 
+RADT 159C  CL1 15200 Radiog Post II & Clin Prod I      .00 N 51  5D  08:00am 03:50pm MTF     OFFCMP      42 40 2     0   Beliveau,S 
+RADT 294C  1   15192 Radiographic Clini Proced IV     3.00 N 51  5D  08:00am 03:50pm WRF     OFFCMP      40 30 10    0   Beliveau,S 
+RAET 205C  1   13767 PLC Programming                  4.00 N 51  5D  01:00pm 03:50pm W       LITTLE 112  12 7  5     0   Gitlitz,K 
+RAET 205C  1A  13768 PLC Programming                   .00 N 51  5D  02:00pm 04:50pm F       LITTLE 112  12 7  5     0   Gitlitz,K 
+RAET 210C  1   14572 Robotics and Automation I        4.00 N 51  5D  09:00am 11:50am T       LITTLE 110  12 7  5     0   Cunningha,J 
+RAET 210C  1   14572 Robotics and Automation I        4.00 N 51  5D  09:00am 11:50am T       LITTLE 112  12 7  5     0   Cunningha,J 
+RAET 210C  1A  14573 Robotics and Automation I         .00 N 51  5D  11:00am 01:20pm R       LITTLE 110  12 7  5     0   Cunningha,J 
+RAET 210C  1A  14573 Robotics and Automation I         .00 N 51  5D  11:00am 01:20pm R       LITTLE 112  12 7  5     0   Cunningha,J 
+RDNG 100C  1   15220 Critical Reading**               3.00 N 51  5D  09:00am 10:50am W       LITTLE 205  15 2  13    0   Eade,T 
+RDNG 100C  1   15220 Critical Reading**               3.00 N 51  5D  09:00am 09:50am M       SWEENY 318  15 2  13    0   Eade,T 
+RDNG 100C  2   15221 Critical Reading**               3.00 N 51  5D  01:00pm 02:50pm R       MACRUR 208  15 0  15    0   Eade,T 
+RDNG 100C  2   15221 Critical Reading**               3.00 N 51  5D  01:00pm 01:50pm M       SWEENY 315  15 0  15    0   Eade,T 
+RDNG 100C  3   15222 Critical Reading**               3.00 N 51  5D  09:00am 10:20am TR      MACRUR 137  15 2  13    0   Eade,T 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 25 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+RDTH 101C  1   14395 Into to Radiation Therapy        3.00 N 51  5D  09:00am 11:50am M       MACRUR 108  8  0  8     0   VonKadich,A 
+RDTH 110C  1   14396 Princ & Pract of Radia Ther I    4.00 N 51  5D  01:00pm 02:50pm M       MACRUR 108  8  1  7     0   VonKadich,A 
+RDTH 110C  1A  14397 Princ & Pract of Radia Ther I     .00 N 51  5D  11:00am 01:50pm T       MACRUR 106  8  1  7     0   Cox,J 
+RDTH 115C  1   14399 Patient Care                     1.00 N 51  5D  05:00pm 05:50pm T       MACRUR 108  8  1  7     0   VonKadich,J 
+RDTH 180C  1   14276 Radiation Physics for Rad Ther   2.00 N 51  5D  09:00am 11:50am T       MACRUR 110  8  1  7     0   Lenza,P 
+RDTH 200C  1   14401 Radiation Protec & Biology       3.00 N 51  5D  01:00pm 03:50pm R       MACRUR 108  8  8  0     0   VonKadich,A 
+RDTH 210C  1   14400 Prin & Prac of Radia Ther II     4.00 N 51  5D  09:00am 11:50am R       MACRUR 108  8  8  0     0   VonKadich,A 
+RDTH 290C  1   15190 Clinical Practice III            4.00 N 51  5D  08:00am 04:20pm MWF     OFFCMP      12 8  4     0   Cox,J 
+RDTH 296C  1   15191 Clinical Practice VI             6.00 N 51  5D  08:00am 04:20pm MWRF    OFFCMP      12 0  12    0   Cox,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 09:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 06:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 09:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 09:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 06:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 09:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 09:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 06:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 09:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 09:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 06:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 09:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 06:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 09:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+REST 101C  M   16461 Fundamentals of Real Estate      3.00 N 51  5E  05:30pm 09:30pm M       SWEENY 219  25 1  24    0   Barry,J 
+SCI 104C   M   16248 Astronomy and Space              4.00 N 51  5E  05:33pm 08:00pm M       SWEENY 317  22 19 3     0   Brand,S 
+SCI 104C   ML  16249 Astronomy and Space               .00 N 51  5E  08:31pm 09:40pm M       SWEENY 217  22 19 3     0   Brand,S 
+SCI 107C   ZZ  16181 Intro to Meteorology             4.00 N 5ZZ 5O                          ONLINE      20 9  11    0   Johnson-C,Z 
+SCI 107C   ZZL 16182 Intro to Meteorology              .00 N 5ZZ 5O                          ONLINE      20 9  11    0   Johnson-C,Z 
+SCI 110C   1   14466 Alternative Energy Fundamental   4.00 N 51  5D  01:00pm 01:50pm R       LITTLE 226  16 13 3     0   Hart,H 
+SCI 110C   1   14466 Alternative Energy Fundamental   4.00 N 51  5D  02:00pm 03:50pm T       LITTLE 226  16 13 3     0   Hart,H 
+SCI 110C   1A  14454 Alternative Energy Fundamental    .00 N 51  5D  02:00pm 03:50pm R       LITTLE 226  16 13 3     0   Hart,H 
+SOCI 105C  1   14116 Introduction to Sociology        3.00 N 51  5D  09:00am 11:50am M       SWEENY 219  25 14 11    0   Nevins,N 
+SOCI 105C  2   14071 Introduction to Sociology        3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 219  25 6  19    0   Nevins,N 
+SOCI 105C  3   14147 Introduction to Sociology        3.00 N 51  5D  09:00am 11:50am T       SWEENY 307  25 6  19    0   Nevins,N 
+SOCI 105C  4   14198 Introduction to Sociology        3.00 N 51  5D  09:00am 11:50am W       SWEENY 219  25 8  17    0   Nevins,N 
+SOCI 105C  5   13971 Introduction to Sociology        3.00 N 51  5D  01:00pm 03:50pm M       SWEENY 307  25 6  19    0   North,C 
+SOCI 105C  6   15264 Introduction to Sociology        3.00 N 51  5D  02:00pm 04:50pm R       SWEENY 211  25 6  19    0   Eaton-Whi,V 
+SOCI 105C  7   14080 Introduction to Sociology        3.00 N 51  5D  02:00pm 04:50pm W       SWEENY 212  25 5  20    0   Eaton-Whi,V 
+SOCI 105C  FZZ 16152 Introduction to Sociology        3.00 N 52  5O                          ONLINE      20 5  15    0   Allison-E,S 
+SOCI 105C  LZZ 16144 Introduction to Sociology        3.00 N 53O 5O                          ONLINE      20 6  14    0   Winkelman,K 
+SOCI 105C  T   15520 Introduction to Sociology        3.00 N 51  5E  06:00pm 08:30pm T                   25 5  20    0   Nevins,N 
+SOCI 105C  ZZ  16141 Introduction to Sociology        3.00 N 5ZZ 5O                          ONLINE      20 3  17    0   Winkelman,K 
+SOCI 105C  ZZ1 16142 Introduction to Sociology        3.00 N 5ZZ 5O                          ONLINE      20 1  19    0   Allison-E,S 
+SOCI 240C  1   14081 Marriage Family & Pers.Relat.    3.00 N 51  5D  01:00pm 03:50pm R       SWEENY 212  25 10 15    0   Nevins,N 
+SOCI 250C  1   14158 Con. Res. in Mod. Society        3.00 N 51  5D  09:00am 11:50am T       SWEENY 309  25 6  19    0   Tubbs,C 
+SOCI 250C  ZZ  15950 Con. Res. in Mod. Society        3.00 N 5ZZ 5O                          ONLINE      20 10 10    0   O'Bryant,M 
+SPAN 111C  1   13585 Elementary Spanish I             3.00 N 51  5D  03:30pm 05:50pm M       SWEENY 310  25 4  21    0   Cardenas ,C 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 26 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+SPAN 111C  2   13586 Elementary Spanish I             3.00 N 51  5D  03:30pm 05:50pm R       SWEENY 310  25 2  23    0   Cardenas ,C 
+SPAN 111C  LZZ 16111 Elementary Spanish I             3.00 N 53O 5O                          ONLINE      20 5  15    0   Smith,M 
+SPAN 111C  M   15908 Elementary Spanish I             3.00 N 51  5E  05:30pm 08:00pm M                   20 3  17    0   Diaz,A 
+SPAN 111C  W   16331 Elementary Spanish I             3.00 N 51  5E  05:30pm 08:10pm W       SWEENY      20 2  18    0   Diaz,A 
+SPAN 112C  FZZ 16112 Elementary Spanish II            3.00 N 52  5O                          ONLINE      20 1  19    0   Smith,M 
+SPAN 112C  T   15909 Elementary Spanish II            3.00 N 51  5E  05:30pm 08:00pm T                   20 2  18    0   Diaz,A 
+SPTS 101C  1   14193 Introduction to Sport Manage.    3.00 N 51  5D  09:00am 10:20am TR      SWEENY 219  25 1  24    0   Moffett,M 
+SPTS 170C  1   14194 Sports Marketing                 3.00 N 51  5D  10:30am 11:50am TR      SWEENY 219  25 2  23    0   Staff1,S 
+SPTS 211C  LHY 16284 Sports Tourism                   3.00 N 53  5E  06:00pm 08:30pm M       SWEENY 310  25 1  24    0   Adams,M 
+SPTS 225C  1   14070 Sports Law                       3.00 N 51  5D  01:00pm 03:50pm W       SWEENY 219  25 2  23    0   Moffett,M 
+TECP 50C   1   14612 TECP:Intro to Exceptionalities   3.00 N 51  5D  10:00am 12:50pm W       GRAPPN 323  10 0  10    0   Lucero,C 
+TECP 50C   M   16191 TECP:Intro to Exceptionalities   3.00 N 51  5E  05:00pm 07:45pm M       GRAPPN 323  10 1  9     0   Lucero,C 
+TECP 50C   ZZ  15977 TECP:Intro to Exceptionalities   3.00 N 5ZZ 5O                          ONLINE      10 1  9     0   Dunn,K 
+TECP 51C   1   14609 TECP: Found of Education         3.00 N 51  5D  09:00am 11:50am T       GRAPPN 323  10 0  10    0   Wood,H 
+TECP 51C   2   15270 TECP: Found of Education         3.00 N 51  5D  02:00pm 04:50pm M       GRAPPN 323  10 0  10    0   Wood,H 
+TECP 51C   T   16188 TECP: Found of Education         3.00 N 51  5E  05:00pm 07:45pm T       GRAPPN 323  10 0  10    0   Wood,H 
+TECP 61C   HY  14614 TECP:Legal Issues in Education   3.00 N 51  5D  01:00pm 02:50pm W       GRAPPN 323  10 1  9     0   Pietrovit,J 
+TECP 61C   R   16211 TECP:Legal Issues in Education   3.00 N 51  5E  05:00pm 07:45pm R       GRAPPN 323  10 4  6     0   Pardy,P 
+TECP 62C   M   16195 TECP:Teach Stat Diverse Lrners   3.00 N 51  5E  05:00pm 07:45pm M       GRAPPN 324  5  0  5     0   Dokton,E 
+TECP 62C   ZZ  15975 TECP:Teach Stat Diverse Lrners   3.00 N 5ZZ 5O                          ONLINE      10 1  9     0   Wood,H 
+TECP 63C   W   16207 TECP: Instructional Technology   3.00 N 51  5E  05:00pm 07:45pm W       GRAPPN 323  10 1  9     0   Gillam,A 
+TECP 66C   T   16197 TECP: Curriculum & Assessment    4.00 N 51  5E  05:00pm 08:30pm T       GRAPPN 324  10 5  5     0   Woelflein,D 
+TECP 69C   FHY 16293 TECP:Cross-Cultural Education    1.00 N 52  5E  06:00pm 08:00pm R                   10 2  8     0   Hughes,A 
+TECP 69C   FHY 16293 TECP:Cross-Cultural Education    1.00 N 52  5E  06:00pm 08:00pm R                   10 2  8     0   Hughes,A 
+TECP 69C   FHY 16293 TECP:Cross-Cultural Education    1.00 N 52  5E  06:00pm 08:00pm R                   10 2  8     0   Hughes,A 
+TECP 69C   FHY 16293 TECP:Cross-Cultural Education    1.00 N 52  5E  06:00pm 08:00pm R                   10 2  8     0   Hughes,A 
+TECP 70C   T   16201 TECP: Special Education Assess   3.00 N 51  5E  05:00pm 08:30pm T       GRAPPN 325  20 2  18    0   Staff,D 
+TECP 80C   T   16200 TECP:Methods Stud Teach Math    12.00 N 51  5E  05:00pm 07:00pm T       GRAPPN      5  0  5     0   Wallace,A 
+TECP 81C   T   16198 TECP:Method Stud Teach Science  12.00 N 51  5E  05:00pm 07:00pm T       GRAPPN      5  2  3     0   Staff,D 
+TECP 82C   W   16192 TECP: Practicum Exp Spec Educ    7.00 N 51  5E  05:00pm 07:45pm W       GRAPPN 324  5  1  4     0   Dunn,K 
+TECP 83C   W   16193 TECP:Method & Teach in Spec Ed  12.00 N 51  5E  05:00pm 07:45pm W       GRAPPN 324  5  0  5     0   Dunn,K 
+TECP 86C   T   16203 TECP: Intro to Linguistics       3.00 N 51  5E  05:00pm 07:45pm T       SWEENY      20 1  19    0   Higgins,D 
+TECP 88C   R   16214 TECP:Curr Design & Assess ESOL   4.00 N 51  5E  05:00pm 07:45pm R       GRAPPN 324  20 1  19    0   Staff,D 
+TECP 90C   R   16215 TECP: STU Teaching in ESOL      12.00 N 51  5E  04:30pm 06:30pm R                   5  0  5     0   Staff,D 
+TECP 91C   R   16217 TECP: Prac Methods in ESOL Ed    7.00 N 51  5E  04:30pm 06:30pm R                   5  1  4     0   Staff,D 
+TECP 92C   T   16202 TECP:Teaching Portfolio          1.00 N 51  5E  04:00pm 04:59pm T       GRAPPN 325  20 0  20    0   Dunn,K 
+THTR 101C  1   13705 Acting I                         3.00 N 51  5D  02:00pm 04:50pm T       SWEENY 122  20 1  19    0   Davis,J 
+THTR 102C  1   13706 Acting II                        3.00 N 51  5D  02:00pm 04:50pm R       SWEENY 122  20 2  18    0   Davis,J 
+VRTS 101C  1   14766 Introduction to Drawing          4.00 N 51  5D  09:00am 11:50am MW      SMKSTK A1   16 4  12    0   Haas,S 
+VRTS 101C  2   14767 Introduction to Drawing          4.00 N 51  5D  02:00pm 04:50pm TR      SMKSTK A1   16 9  7     0   Ambra,M 
+VRTS 101C  3   14768 Introduction to Drawing          4.00 N 51  5D  09:00am 01:50pm F       SMKSTK A1   16 4  12    0   Haas,S 
+VRTS 101C  TR  16062 Introduction to Drawing          4.00 N 51  5E  05:00pm 05:50pm TR      SMKSTK A1   16 1  15    0   Staff,D 
+VRTS 101C  TRL 16063 Introduction to Drawing           .00 N 51  5E  05:51pm 07:50pm TR      SMKSTK A1   16 1  15    0   Staff,D 
+VRTS 103C  1   14769 Two-Dimensional Design           3.00 N 51  5D  09:00am 11:20am TR      SMKSTK D    10 6  4     0   Ambra,M 
+VRTS 103C  MW  16064 Two-Dimensional Design           3.00 N 51  5E  04:00pm 04:50pm MW      SMKSTK A1   10 1  9     0   Mungovan,T 
+VRTS 103C  MWL 16065 Two-Dimensional Design            .00 N 51  5E  04:51pm 06:20pm MW      SMKSTK A1   10 1  9     0   Mungovan,T 
+VRTS 104C  1   14770 Three-Dimensional Design         3.00 N 51  5D  01:00pm 03:20pm MW      SMKSTK D    10 2  8     0   Montroy,J 
+ 
+DATE:MAY 13, 2015                                                                                                                  PAGE: 27 
+SXRTALY                                            NHTI - SCHEDULE SECTION TALLY - 201610 
+ 
+CRSE       SEC CRN   TITLE                              CR C PT  ATR BEGIN   END     DAYS    BLDG   RM   MX AC RE  R WL  FACULTY 
+VRTS 104C  MW  16066 Three-Dimensional Design         3.00 N 51  5E  05:00pm 05:50pm MW      SMKSTK D    10 2  8     0   Campbell,A 
+VRTS 104C  MWL 16067 Three-Dimensional Design          .00 N 51  5E  05:51pm 07:15pm MW      SMKSTK D    10 2  8     0   Campbell,A 
+VRTS 111C  1   13588 Surv of Western Art History I    3.00 N 51  5D  02:00pm 03:20pm TR      GRAPPN 207  25 5  20    0   Powers,M 
+VRTS 112C  1   13587 Surv of Western Art History II   3.00 N 51  5D  03:30pm 04:50pm TR      GRAPPN 207  25 7  18    0   Powers,M 
+VRTS 130C  1   15265 Introduction to Photography      4.00 N 51  5D  09:30am 12:20pm MW      SMKSTK F    10 3  7     0   Stapel,E 
+VRTS 130C  2   15266 Introduction to Photography      4.00 N 51  5D  01:00pm 03:50pm MW      SMKSTK F    10 7  3     0   Stapel,E 
+VRTS 130C  3   15267 Introduction to Photography      4.00 N 51  5D  09:00am 01:50pm F       SMKSTK F    10 6  4     0   Bolton,M 
+VRTS 133C  1   14771 Intro to Figural Sculpture       4.00 N 51  5D  09:00am 11:50am MW      SMKSTK B    10 4  6     0   Devaney,T 
+VRTS 135C  1   14772 Introduction to Ceramics         4.00 N 51  5D  09:00am 11:50am MW      SMKSTK C    10 3  7     0   Montroy,R 
+VRTS 135C  2   14773 Introduction to Ceramics         4.00 N 51  5D  02:00pm 04:50pm TR      SMKSTK C    10 7  3     0   Montroy,R 
+VRTS 135C  3   14774 Introduction to Ceramics         4.00 N 51  5D  09:00am 01:50pm F       SMKSTK C    10 10 0     2   Campbell,A 
+VRTS 140C  1   13987 Digital Photography              3.00 N 51  5D  02:00pm 04:50pm R       LITTLE 205  15 4  11    0   Torres,K 
+VRTS 193C  1   14514 Introduction to Photoshop        3.00 N 51  5D  02:00pm 04:50pm T       LITTLE 201  15 6  9     0   Staff1,F 
+VRTS 201C  1   14775 Drawing II                       4.00 N 51  5D  09:00am 11:50am TR      SMKSTK B    12 5  7     0   Devaney,T 
+VRTS 201C  MW  16068 Drawing II                       4.00 N 51  5E  04:00pm 04:50pm MW      SMKSTK B    12 0  12    0   Montroy,J 
+VRTS 201C  MWL 16069 Drawing II                        .00 N 51  5E  04:51pm 06:50pm MW      SMKSTK B    12 0  12    0   Montroy,J 
+VRTS 230C  1   14776 Photography II                   4.00 N 51  5D  09:00am 11:50am TR      SMKSTK F    10 2  8     0   Torres,K 
+

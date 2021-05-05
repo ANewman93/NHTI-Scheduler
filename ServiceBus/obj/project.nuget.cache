@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CtdVu90OAPy6bbFgfPd15rQ5iAE3MhCPJkfui5ONrhIHy5XrsjgoAAp23GYoVaVpt5yt3Flm2yb3r3lGz2fwWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrew Newman\\OneDrive\\Documents\\School Documents\\Spring Semester 2021\\CPET 303\\Capstone\\NHTI Scheduler with Course Read Repo\\NHTI_Scheduler_New_UI\\ServiceBus\\ServiceBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrew Newman\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\Andrew Newman\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Andrew Newman\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Andrew Newman\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Andrew Newman\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

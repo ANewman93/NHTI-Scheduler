@@ -1,0 +1,4 @@
+NCWK 575C  SS1 12980 WorkReady NH                     6.50 Y 5W  5B  08:30am 01:59pm TWRF    FARNUM 108  20 0  20    0
+NCWK 575C  SS2 13474 WorkReady NH                     6.50 Y 5W  5B  08:30am 01:50pm TWRF                10 0  10    0
+NCWK 575C  SS3 13342 WorkReady NH                     6.50 Y 5W  5B  08:30am 01:50pm MTWR    FARNUM 108  20 0  20    0
+NCWK 575C  SS4 13473 WorkReady NH                     6.50 Y 5W  5B  08:30am 01:50pm MTWR    FARNUM 108  10 0  10    0

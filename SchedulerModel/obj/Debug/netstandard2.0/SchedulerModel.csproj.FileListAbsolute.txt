@@ -1,0 +1,63 @@
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.deps.json
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfo.cs
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.deps.json
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfoInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfo.cs
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csproj.CoreCompileInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.deps.json
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfo.cs
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.pdb
+E:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.deps.json
+E:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.dll
+E:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.pdb
+E:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csprojAssemblyReference.cache
+E:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfoInputs.cache
+E:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfo.cs
+E:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csproj.CoreCompileInputs.cache
+E:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.dll
+E:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.pdb
+D:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.deps.json
+D:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.dll
+D:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.pdb
+D:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csprojAssemblyReference.cache
+D:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfoInputs.cache
+D:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfo.cs
+D:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csproj.CoreCompileInputs.cache
+D:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.dll
+D:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.pdb
+G:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.deps.json
+G:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.dll
+G:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.pdb
+G:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csprojAssemblyReference.cache
+G:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfoInputs.cache
+G:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfo.cs
+G:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csproj.CoreCompileInputs.cache
+G:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.dll
+G:\Capstone Project\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.deps.json
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\SchedulerModel\bin\Debug\netstandard2.0\SchedulerModel.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.AssemblyInfo.cs
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\SchedulerModel\obj\Debug\netstandard2.0\SchedulerModel.pdb

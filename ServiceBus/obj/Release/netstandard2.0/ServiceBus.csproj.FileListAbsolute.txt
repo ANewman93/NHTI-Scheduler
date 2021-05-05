@@ -1,0 +1,69 @@
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ServiceBus.deps.json
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ServiceBus.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ServiceBus.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ApiRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\SchedulerModel.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ApiRepo.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ApiRepo.dll.config
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\SchedulerModel.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 252\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.pdb
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ServiceBus.deps.json
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ServiceBus.dll
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ServiceBus.pdb
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ApiRepo.dll
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\fileRepo.dll
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\SchedulerModel.dll
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ApiRepo.pdb
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ApiRepo.dll.config
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\fileRepo.pdb
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\fileRepo.dll.config
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\SchedulerModel.pdb
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.AssemblyInfo.cs
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.csproj.CopyComplete
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.dll
+G:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.pdb
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ServiceBus.deps.json
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ServiceBus.dll
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ServiceBus.pdb
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ApiRepo.dll
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\fileRepo.dll
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\SchedulerModel.dll
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ApiRepo.pdb
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ApiRepo.dll.config
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\fileRepo.pdb
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\fileRepo.dll.config
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\SchedulerModel.pdb
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.AssemblyInfo.cs
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.csproj.CopyComplete
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.dll
+D:\Capstone Project\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ServiceBus.deps.json
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ServiceBus.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ServiceBus.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ApiRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\fileRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\SchedulerModel.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ApiRepo.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\ApiRepo.dll.config
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\fileRepo.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\fileRepo.dll.config
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\bin\Release\netstandard2.0\SchedulerModel.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Spring Semester 2021\CPET 303\Capstone\NHTI Scheduler with Course Read Repo\NHTI_Scheduler_New_UI\ServiceBus\obj\Release\netstandard2.0\ServiceBus.pdb
