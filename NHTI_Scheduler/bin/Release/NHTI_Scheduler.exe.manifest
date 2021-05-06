@@ -3,7 +3,7 @@
   <asmv1:assemblyIdentity name="NHTI_Scheduler.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="NHTI_Scheduler" version="2.0.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="NHTI_Scheduler" version="2.1.0.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="NHTI_Scheduler.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -67,13 +67,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NHTI_Scheduler.exe" size="129024">
-      <assemblyIdentity name="NHTI_Scheduler" version="2.0.0.0" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="NHTI_Scheduler" version="2.1.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>WS1NBtbjLDKTA998faL6CvvQsVeDIhMPgTV1TEyLhrM=</dsig:DigestValue>
+        <dsig:DigestValue>hbuJyDqnw5Fiw3e2Oa0dQt4SPIdL1EERmqUP5+pZPVk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -748,12 +748,6 @@ using System.Drawing.Drawing2D;
                                 break;
                             }
                         }
-                        else if (prevEndTime.AddMinutes(1).Equals(time.begin))
-                        {
-                            top = prevBot + 1;
-
-                            break;
-                        }
                         //edge case 1
                         else if (beginTime.Contains("8") && beginTime.Contains("31"))
                         {
@@ -765,6 +759,19 @@ using System.Drawing.Drawing2D;
                         else if(beginTime.Contains("7") && beginTime.Contains("11"))
                         {
                             top = 24;
+
+                            break;
+                        }
+                        //edge case 3
+                        else if (beginTime.Contains("7") && beginTime.Contains("51"))
+                        {
+                            top = 25;
+
+                            break;
+                        }
+                        else if (prevEndTime.AddMinutes(1).Equals(time.begin))
+                        {
+                            top = prevBot + 1;
 
                             break;
                         }
@@ -937,7 +944,7 @@ using System.Drawing.Drawing2D;
 
                                             return;
                                         }
-                                        else if (begHr >= existBegHr && begHr <= existEndHr && endHr >= existEndHr)
+                                        else if (begHr >= existBegHr && endHr <= existEndHr && endHr >= existEndHr)
                                         {
                                             if (existEndMin < 30 && begMin < 30)
                                             {
@@ -945,7 +952,7 @@ using System.Drawing.Drawing2D;
 
                                                 return;
                                             }
-                                            else if (existEndMin >= 30 && begMin >= 30)
+                                            else if (existEndMin >= 30 && begMin >= 30 && existEndMin <= 50 && begMin <= 50)
                                             {
                                                 MessageBox.Show(null, addMe.crn.ToString() + " Overlaps with existing " + existing.crn.ToString() + ".  Remove existing course.", "Warning", MessageBoxButtons.OK);
 
@@ -958,7 +965,7 @@ using System.Drawing.Drawing2D;
                                                 return;
                                             }
                                         }
-                                        else if (begHr <= existBegHr && endHr >= existBegHr && endHr <= existEndHr)
+                                        else if (begHr <= existBegHr && endHr >= existEndHr && endHr <= existEndHr)
                                         {
                                             if (existEndMin < 30 && begMin < 30)
                                             {
@@ -978,6 +985,12 @@ using System.Drawing.Drawing2D;
 
                                                 return;
                                             }
+                                        }
+
+                                        //double check for edge case 7:51 pm
+                                        if(begHr == 7 && begMin == 51)
+                                        {
+                                            p.Top = 25;
                                         }
                                     }
                                 }
@@ -1006,7 +1019,6 @@ using System.Drawing.Drawing2D;
             // no overlap, add each panel to the schedule
             foreach (Panel panel in allPartsOfCourse)
             {
-                string customCellPos = tblSelectedCourses.GetRowSpan(panel).ToString();
 
                 tblSelectedCourses.SuspendLayout();
 
